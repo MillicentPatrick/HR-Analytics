@@ -1,0 +1,1829 @@
+application_id,opening_id,applicant_name,application_date,stage,source,demographic,outcome
+APP00001,OPEN0001,Craig Williams,12/9/2022,Applied,LinkedIn,White,Pending
+APP00002,OPEN0001,William Huff,12/23/2022,Applied,LinkedIn,Asian,Pending
+APP00003,OPEN0001,Steve Murphy,12/19/2022,Applied,LinkedIn,White,Pending
+APP00004,OPEN0001,Monica Byrd,12/6/2022,Screen,LinkedIn,Hispanic,Pending
+APP00005,OPEN0001,Madison Smith,11/27/2022,Interview,LinkedIn,White,Pending
+APP00006,OPEN0001,Deanna Hall,12/21/2022,Offer,LinkedIn,White,Pending
+APP00007,OPEN0001,Carrie Robinson,11/25/2022,Applied,LinkedIn,White,Pending
+APP00008,OPEN0001,Peter Munoz,12/15/2022,Applied,LinkedIn,Asian,Pending
+APP00009,OPEN0001,Chad Shaw,11/24/2022,Applied,LinkedIn,White,Pending
+APP00010,OPEN0001,Erin Harvey,12/7/2022,Screen,LinkedIn,White,Pending
+APP00011,OPEN0001,Philip Hopkins,12/9/2022,Screen,LinkedIn,White,Pending
+APP00012,OPEN0001,Jennifer Robertson,12/17/2022,Interview,LinkedIn,Black,Pending
+APP00013,OPEN0001,Kevin Lee,11/26/2022,Applied,LinkedIn,Hispanic,Pending
+APP00014,OPEN0001,Brittney Lucas,11/30/2022,Applied,LinkedIn,White,Pending
+APP00015,OPEN0001,Bethany Frazier,12/19/2022,Applied,LinkedIn,White,Pending
+APP00016,OPEN0001,Ryan Garcia,12/12/2022,Applied,LinkedIn,White,Pending
+APP00017,OPEN0001,Tammy Buchanan,12/16/2022,Applied,LinkedIn,White,Pending
+APP00018,OPEN0001,Alexander Miller,12/16/2022,Screen,LinkedIn,White,Pending
+APP00019,OPEN0001,Sonya Henderson,11/24/2022,Interview,LinkedIn,White,Pending
+APP00020,OPEN0002,Jennifer Simmons,10/4/2018,Interview,Company Website,White,Pending
+APP00021,OPEN0002,Christina Malone,10/23/2018,Applied,Company Website,White,Pending
+APP00022,OPEN0002,Nicole Bell,10/28/2018,Applied,Company Website,Asian,Pending
+APP00023,OPEN0002,Jeffrey Graham,10/11/2018,Applied,Company Website,White,Pending
+APP00024,OPEN0002,Dawn Luna,10/7/2018,Applied,Company Website,White,Pending
+APP00025,OPEN0002,Michelle Tyler,10/5/2018,Screen,Company Website,White,Pending
+APP00026,OPEN0002,Joseph Patterson,10/19/2018,Applied,Company Website,White,Pending
+APP00027,OPEN0002,Brian Powell,10/7/2018,Applied,Company Website,Hispanic,Pending
+APP00028,OPEN0002,Robert Gaines,10/11/2018,Screen,Company Website,White,Pending
+APP00029,OPEN0002,William Lawrence,10/7/2018,Screen,Company Website,White,Pending
+APP00030,OPEN0002,Mary Velez,10/11/2018,Offer,Company Website,White,Pending
+APP00031,OPEN0002,Roy Robinson,10/19/2018,Applied,Company Website,Black,Pending
+APP00032,OPEN0002,Laurie Hayden,10/16/2018,Interview,Company Website,Black,Pending
+APP00033,OPEN0002,Randy Schwartz,10/3/2018,Interview,Company Website,White,Pending
+APP00034,OPEN0002,Bryan Villanueva,10/22/2018,Screen,Company Website,White,Pending
+APP00035,OPEN0002,Janice Mora,10/17/2018,Applied,Company Website,White,Pending
+APP00036,OPEN0002,Andrew Brown,10/26/2018,Applied,Company Website,White,Pending
+APP00037,OPEN0002,Melinda Palmer,10/28/2018,Interview,Company Website,White,Pending
+APP00038,OPEN0002,Alan Russo,10/1/2018,Applied,Company Website,White,Pending
+APP00039,OPEN0002,Alexis Anderson,10/1/2018,Screen,Company Website,White,Pending
+APP00040,OPEN0003,Julia Miller,4/25/2021,Screen,Indeed,White,Pending
+APP00041,OPEN0003,Rachel Armstrong,4/11/2021,Screen,Indeed,Asian,Pending
+APP00042,OPEN0003,Joseph Campbell,4/26/2021,Interview,Indeed,Hispanic,Pending
+APP00043,OPEN0003,Kim Rivera,4/27/2021,Applied,Indeed,White,Pending
+APP00044,OPEN0003,Stephanie Mcbride,4/23/2021,Applied,Indeed,Black,Pending
+APP00045,OPEN0003,David Rios,4/26/2021,Screen,Indeed,White,Pending
+APP00046,OPEN0003,Kevin Parsons,5/3/2021,Applied,Indeed,Black,Pending
+APP00047,OPEN0003,James Adams,4/28/2021,Applied,Indeed,Asian,Pending
+APP00048,OPEN0003,Daniel Brown,4/11/2021,Applied,Indeed,White,Pending
+APP00049,OPEN0003,Jeffrey Schmidt,4/13/2021,Interview,Indeed,Black,Pending
+APP00050,OPEN0003,Ryan Olson,4/21/2021,Interview,Indeed,Asian,Pending
+APP00051,OPEN0003,Zachary Reed,4/10/2021,Interview,Indeed,White,Pending
+APP00052,OPEN0003,Jessica Hill,4/18/2021,Applied,Indeed,Black,Pending
+APP00053,OPEN0003,Ann Shannon,4/18/2021,Interview,Indeed,White,Pending
+APP00054,OPEN0003,Colleen Goodwin,4/12/2021,Screen,Indeed,White,Pending
+APP00055,OPEN0003,Carly Rojas,4/24/2021,Interview,Indeed,White,Pending
+APP00056,OPEN0003,Devin Graham,5/4/2021,Applied,Indeed,White,Pending
+APP00057,OPEN0003,Kevin Smith,4/24/2021,Offer,Indeed,White,Pending
+APP00058,OPEN0003,Christopher Leonard,4/15/2021,Screen,Indeed,White,Pending
+APP00059,OPEN0003,Patrick Johnson,4/25/2021,Applied,Indeed,Hispanic,Pending
+APP00060,OPEN0003,Debra Ochoa,4/17/2021,Applied,Indeed,White,Pending
+APP00061,OPEN0003,Melissa Young,4/20/2021,Applied,Indeed,Hispanic,Pending
+APP00062,OPEN0003,Shelly Robinson,4/10/2021,Interview,Indeed,White,Pending
+APP00063,OPEN0003,Beth Wilson,4/27/2021,Interview,Indeed,Black,Pending
+APP00064,OPEN0003,Alicia Vincent,4/14/2021,Interview,Indeed,Black,Pending
+APP00065,OPEN0004,Allison Petersen,3/24/2021,Applied,LinkedIn,White,Pending
+APP00066,OPEN0004,Ms. Megan Lee,4/3/2021,Applied,LinkedIn,White,Pending
+APP00067,OPEN0004,Brenda Davis,3/12/2021,Interview,LinkedIn,Black,Pending
+APP00068,OPEN0004,John Moore,3/17/2021,Screen,LinkedIn,White,Pending
+APP00069,OPEN0004,Donna Barry,4/8/2021,Applied,LinkedIn,White,Pending
+APP00070,OPEN0004,Tina Williams,3/16/2021,Applied,LinkedIn,White,Pending
+APP00071,OPEN0004,Katelyn Kelly,3/13/2021,Applied,LinkedIn,White,Pending
+APP00072,OPEN0004,Thomas Garcia,4/5/2021,Offer,LinkedIn,White,Pending
+APP00073,OPEN0004,Allison Patterson,4/1/2021,Applied,LinkedIn,White,Pending
+APP00074,OPEN0004,Brent Harris,3/28/2021,Applied,LinkedIn,White,Pending
+APP00075,OPEN0004,Cameron Boyer Jr.,3/24/2021,Interview,LinkedIn,White,Pending
+APP00076,OPEN0004,Vanessa Wilson,3/23/2021,Offer,LinkedIn,White,Pending
+APP00077,OPEN0004,Scott Gross,3/31/2021,Hired,LinkedIn,Hispanic,Hired
+APP00078,OPEN0004,Abigail Stephenson,4/8/2021,Interview,LinkedIn,Asian,Pending
+APP00079,OPEN0004,David Sullivan,3/19/2021,Applied,LinkedIn,White,Pending
+APP00080,OPEN0004,Christina Miller,4/3/2021,Screen,LinkedIn,White,Pending
+APP00081,OPEN0004,Victoria Boyer,3/16/2021,Screen,LinkedIn,White,Pending
+APP00082,OPEN0004,Glen Phillips,3/29/2021,Applied,LinkedIn,White,Pending
+APP00083,OPEN0004,Randy Ross,3/20/2021,Screen,LinkedIn,Black,Pending
+APP00084,OPEN0005,Mathew White,10/13/2021,Screen,LinkedIn,White,Pending
+APP00085,OPEN0005,Jesse Thornton,10/4/2021,Applied,LinkedIn,Black,Pending
+APP00086,OPEN0005,Elizabeth Dawson,10/30/2021,Applied,LinkedIn,White,Pending
+APP00087,OPEN0005,Krista Edwards,10/4/2021,Applied,LinkedIn,White,Pending
+APP00088,OPEN0005,Joseph Green,10/28/2021,Applied,LinkedIn,Asian,Pending
+APP00089,OPEN0005,Elizabeth Burns,10/6/2021,Screen,LinkedIn,White,Pending
+APP00090,OPEN0005,Rebecca Sullivan,10/23/2021,Applied,LinkedIn,Black,Pending
+APP00091,OPEN0006,Joshua West,3/9/2019,Applied,LinkedIn,Black,Pending
+APP00092,OPEN0006,Robert Dawson,3/7/2019,Applied,LinkedIn,Asian,Pending
+APP00093,OPEN0006,Meredith Crosby,3/15/2019,Applied,LinkedIn,Black,Pending
+APP00094,OPEN0006,Steven Spence,2/20/2019,Applied,LinkedIn,Asian,Pending
+APP00095,OPEN0006,Christina Gonzales,3/14/2019,Interview,LinkedIn,White,Pending
+APP00096,OPEN0006,Maria Foster,2/26/2019,Applied,LinkedIn,Asian,Pending
+APP00097,OPEN0006,Scott Martinez,2/22/2019,Interview,LinkedIn,White,Pending
+APP00098,OPEN0006,Amanda Morton,2/21/2019,Applied,LinkedIn,White,Pending
+APP00099,OPEN0006,Mary Nelson MD,2/28/2019,Screen,LinkedIn,Hispanic,Pending
+APP00100,OPEN0006,Andrew Cruz,2/28/2019,Applied,LinkedIn,White,Pending
+APP00101,OPEN0006,Joseph Clark,3/5/2019,Applied,LinkedIn,White,Pending
+APP00102,OPEN0006,Charles Cole,2/21/2019,Applied,LinkedIn,Black,Pending
+APP00103,OPEN0006,Maria Williams,3/4/2019,Applied,LinkedIn,White,Pending
+APP00104,OPEN0006,Jennifer Sullivan,3/13/2019,Applied,LinkedIn,Black,Pending
+APP00105,OPEN0007,Johnny Jennings,8/6/2020,Applied,Indeed,Hispanic,Pending
+APP00106,OPEN0007,Christine Collins,8/19/2020,Applied,Indeed,White,Pending
+APP00107,OPEN0007,Jeffrey Herrera,8/15/2020,Applied,Indeed,Black,Pending
+APP00108,OPEN0007,Kenneth Gallegos,8/9/2020,Screen,Indeed,Black,Pending
+APP00109,OPEN0007,Autumn Murray,8/15/2020,Interview,Indeed,White,Pending
+APP00110,OPEN0007,Kimberly Francis,8/13/2020,Interview,Indeed,White,Pending
+APP00111,OPEN0007,Mariah Nash,8/7/2020,Interview,Indeed,White,Pending
+APP00112,OPEN0007,Christina Dennis,8/11/2020,Applied,Indeed,Asian,Pending
+APP00113,OPEN0007,Eric Barnett,8/29/2020,Applied,Indeed,White,Pending
+APP00114,OPEN0007,Mary Vaughan,8/25/2020,Screen,Indeed,White,Pending
+APP00115,OPEN0007,Steven Gardner,8/20/2020,Applied,Indeed,Black,Pending
+APP00116,OPEN0007,Christina Miles,8/12/2020,Applied,Indeed,Hispanic,Pending
+APP00117,OPEN0007,Lori Moses,8/12/2020,Applied,Indeed,White,Pending
+APP00118,OPEN0007,Devon Rogers,8/16/2020,Screen,Indeed,White,Pending
+APP00119,OPEN0007,Christopher Brown,8/9/2020,Screen,Indeed,White,Pending
+APP00120,OPEN0007,Cynthia Parker,8/16/2020,Screen,Indeed,Black,Pending
+APP00121,OPEN0007,Joseph Cummings,8/18/2020,Applied,Indeed,White,Pending
+APP00122,OPEN0007,Matthew Gibbs,8/18/2020,Applied,Indeed,White,Pending
+APP00123,OPEN0007,Cory Dalton,8/31/2020,Interview,Indeed,White,Pending
+APP00124,OPEN0007,Karen Hall,8/7/2020,Applied,Indeed,Black,Pending
+APP00125,OPEN0007,Matthew Wallace,8/7/2020,Screen,Indeed,Black,Pending
+APP00126,OPEN0008,Jessica Logan,12/27/2023,Screen,Indeed,Black,Pending
+APP00127,OPEN0008,Michael Mccormick,1/11/2024,Screen,Indeed,Hispanic,Pending
+APP00128,OPEN0008,Maria Green,1/14/2024,Screen,Indeed,Black,Pending
+APP00129,OPEN0008,Sheri Snow,1/14/2024,Interview,Indeed,White,Pending
+APP00130,OPEN0008,Matthew Lara,12/31/2023,Interview,Indeed,Asian,Pending
+APP00131,OPEN0008,Christopher Gonzalez,1/9/2024,Interview,Indeed,Black,Pending
+APP00132,OPEN0008,Paul Hart,1/7/2024,Screen,Indeed,White,Pending
+APP00133,OPEN0008,Mrs. Amy Herrera,12/23/2023,Applied,Indeed,Black,Pending
+APP00134,OPEN0008,Brianna Haney,12/23/2023,Interview,Indeed,White,Pending
+APP00135,OPEN0008,Danielle Johnson,12/31/2023,Applied,Indeed,White,Pending
+APP00136,OPEN0008,Emily Haynes,1/14/2024,Applied,Indeed,Asian,Pending
+APP00137,OPEN0008,Michael Kane,1/13/2024,Applied,Indeed,Asian,Pending
+APP00138,OPEN0008,Derrick Perez,1/16/2024,Offer,Indeed,Asian,Pending
+APP00139,OPEN0008,Audrey Hamilton,1/20/2024,Applied,Indeed,Asian,Pending
+APP00140,OPEN0008,Kayla Douglas,1/13/2024,Applied,Indeed,White,Pending
+APP00141,OPEN0008,Richard Rice,12/27/2023,Applied,Indeed,White,Pending
+APP00142,OPEN0008,Catherine Long,12/28/2023,Screen,Indeed,White,Pending
+APP00143,OPEN0008,Caroline Bell,12/28/2023,Screen,Indeed,Hispanic,Pending
+APP00144,OPEN0008,Robert Johnson,1/17/2024,Interview,Indeed,White,Pending
+APP00145,OPEN0008,Sarah Sexton,12/25/2023,Screen,Indeed,Asian,Pending
+APP00146,OPEN0008,Jodi Macdonald,12/24/2023,Applied,Indeed,Black,Pending
+APP00147,OPEN0009,Joshua Freeman,11/26/2019,Screen,Company Website,White,Pending
+APP00148,OPEN0009,Jennifer Moyer,12/2/2019,Interview,Company Website,Hispanic,Pending
+APP00149,OPEN0009,Jason Ross,11/16/2019,Applied,Company Website,Black,Pending
+APP00150,OPEN0009,Morgan Butler,11/16/2019,Screen,Company Website,White,Pending
+APP00151,OPEN0009,Natalie Miles,12/2/2019,Interview,Company Website,White,Pending
+APP00152,OPEN0009,Jeffrey Miller,11/8/2019,Offer,Company Website,Asian,Pending
+APP00153,OPEN0009,Alicia Hill,11/17/2019,Interview,Company Website,White,Pending
+APP00154,OPEN0009,William Marshall,11/21/2019,Applied,Company Website,Black,Pending
+APP00155,OPEN0009,Alyssa Alvarez,11/26/2019,Interview,Company Website,Black,Pending
+APP00156,OPEN0009,Joseph Wiley,11/19/2019,Hired,Company Website,Hispanic,Hired
+APP00157,OPEN0009,Mrs. Danielle Nguyen MD,11/9/2019,Screen,Company Website,White,Pending
+APP00158,OPEN0009,Lauren Gilbert,11/28/2019,Screen,Company Website,Black,Pending
+APP00159,OPEN0009,Rebecca Rodriguez,11/26/2019,Interview,Company Website,White,Pending
+APP00160,OPEN0009,Maria Jones,11/29/2019,Interview,Company Website,White,Pending
+APP00161,OPEN0009,Lisa Herring,11/11/2019,Applied,Company Website,Hispanic,Pending
+APP00162,OPEN0009,Barbara Haas PhD,11/12/2019,Offer,Company Website,Asian,Pending
+APP00163,OPEN0009,Mallory Watkins,11/9/2019,Interview,Company Website,Asian,Pending
+APP00164,OPEN0009,Stephen Jacobs,11/18/2019,Interview,Company Website,Asian,Pending
+APP00165,OPEN0009,Kelsey Barnes,11/10/2019,Applied,Company Website,White,Pending
+APP00166,OPEN0009,Roger Hughes,11/21/2019,Applied,Company Website,White,Pending
+APP00167,OPEN0009,Brittany Medina,11/14/2019,Screen,Company Website,White,Pending
+APP00168,OPEN0009,Richard Tyler,11/27/2019,Interview,Company Website,White,Pending
+APP00169,OPEN0010,Justin Barker,2/22/2023,Applied,LinkedIn,Hispanic,Pending
+APP00170,OPEN0010,Bruce Frye,3/1/2023,Applied,LinkedIn,White,Pending
+APP00171,OPEN0010,Nicole Simpson,3/4/2023,Applied,LinkedIn,White,Pending
+APP00172,OPEN0010,Michelle Valentine,3/4/2023,Interview,LinkedIn,White,Pending
+APP00173,OPEN0010,Frank Martinez,2/23/2023,Applied,LinkedIn,White,Pending
+APP00174,OPEN0010,Daniel Curry,3/14/2023,Interview,LinkedIn,White,Pending
+APP00175,OPEN0010,Ray Mckinney,3/17/2023,Screen,LinkedIn,Asian,Pending
+APP00176,OPEN0010,Brenda Vance,3/8/2023,Screen,LinkedIn,White,Pending
+APP00177,OPEN0010,Manuel Burns,2/27/2023,Applied,LinkedIn,Asian,Pending
+APP00178,OPEN0010,Jason Guzman,2/20/2023,Screen,LinkedIn,Hispanic,Pending
+APP00179,OPEN0010,Megan Vance,2/25/2023,Applied,LinkedIn,Black,Pending
+APP00180,OPEN0010,Erica Powers,3/12/2023,Screen,LinkedIn,White,Pending
+APP00181,OPEN0010,Crystal Armstrong,3/1/2023,Applied,LinkedIn,Asian,Pending
+APP00182,OPEN0010,Michelle English,2/19/2023,Applied,LinkedIn,White,Pending
+APP00183,OPEN0010,Tina Leonard,3/11/2023,Applied,LinkedIn,White,Pending
+APP00184,OPEN0010,Holly Lloyd,3/7/2023,Interview,LinkedIn,White,Pending
+APP00185,OPEN0010,Karen Smith,2/19/2023,Screen,LinkedIn,White,Pending
+APP00186,OPEN0010,Paul Stone,3/15/2023,Interview,LinkedIn,White,Pending
+APP00187,OPEN0010,Julia Copeland,3/6/2023,Applied,LinkedIn,White,Pending
+APP00188,OPEN0010,Benjamin Cantu,3/1/2023,Screen,LinkedIn,Asian,Pending
+APP00189,OPEN0010,Sarah Petersen,3/10/2023,Interview,LinkedIn,White,Pending
+APP00190,OPEN0010,Adrian Figueroa,2/28/2023,Applied,LinkedIn,Asian,Pending
+APP00191,OPEN0010,Danny Moran,3/6/2023,Screen,LinkedIn,White,Pending
+APP00192,OPEN0010,Christina Smith,2/27/2023,Interview,LinkedIn,Black,Pending
+APP00193,OPEN0010,Angela Henry,3/8/2023,Offer,LinkedIn,Asian,Pending
+APP00194,OPEN0010,Erin Hicks,3/17/2023,Applied,LinkedIn,Asian,Pending
+APP00195,OPEN0010,Dylan Simpson,3/17/2023,Offer,LinkedIn,Black,Pending
+APP00196,OPEN0010,Jacqueline Hernandez,3/18/2023,Hired,LinkedIn,White,Hired
+APP00197,OPEN0010,Michelle Rodriguez,3/12/2023,Interview,LinkedIn,White,Pending
+APP00198,OPEN0010,Tina Castro,3/15/2023,Applied,LinkedIn,Black,Pending
+APP00199,OPEN0011,Megan Garcia,4/7/2019,Screen,Campus,Hispanic,Pending
+APP00200,OPEN0011,Antonio Kane,4/5/2019,Applied,Campus,White,Pending
+APP00201,OPEN0011,Theresa Rivera,4/19/2019,Applied,Campus,White,Pending
+APP00202,OPEN0011,Steven Clark,4/20/2019,Applied,Campus,Asian,Pending
+APP00203,OPEN0011,Darryl Alexander,4/8/2019,Screen,Campus,White,Pending
+APP00204,OPEN0011,Steven Haley,4/6/2019,Applied,Campus,White,Pending
+APP00205,OPEN0011,Donald Moore,4/20/2019,Screen,Campus,White,Pending
+APP00206,OPEN0011,Stacy Rose,4/26/2019,Applied,Campus,White,Pending
+APP00207,OPEN0011,Brian Riley,4/28/2019,Applied,Campus,White,Pending
+APP00208,OPEN0011,Brenda Gonzales,4/16/2019,Interview,Campus,White,Pending
+APP00209,OPEN0011,Rebecca Hernandez,4/23/2019,Applied,Campus,Hispanic,Pending
+APP00210,OPEN0011,Jessica Green,4/20/2019,Screen,Campus,White,Pending
+APP00211,OPEN0011,Charles Stephens,4/19/2019,Screen,Campus,White,Pending
+APP00212,OPEN0011,Victor Lewis,4/7/2019,Interview,Campus,Asian,Pending
+APP00213,OPEN0011,Laurie Lamb,5/4/2019,Applied,Campus,Hispanic,Pending
+APP00214,OPEN0012,Christopher Washington,6/6/2023,Applied,LinkedIn,Black,Pending
+APP00215,OPEN0012,Amanda Phillips,5/27/2023,Applied,LinkedIn,White,Pending
+APP00216,OPEN0012,Kristin Williams,5/26/2023,Screen,LinkedIn,White,Pending
+APP00217,OPEN0012,Diane Graham,6/11/2023,Applied,LinkedIn,Black,Pending
+APP00218,OPEN0012,Brian Drake,5/27/2023,Offer,LinkedIn,Black,Pending
+APP00219,OPEN0012,Jill Travis,6/9/2023,Applied,LinkedIn,Asian,Pending
+APP00220,OPEN0012,Elizabeth Gomez,6/3/2023,Interview,LinkedIn,White,Pending
+APP00221,OPEN0012,Sandy Green,6/12/2023,Screen,LinkedIn,White,Pending
+APP00222,OPEN0012,Mary Clark,5/26/2023,Applied,LinkedIn,White,Pending
+APP00223,OPEN0012,Sharon Olson,5/22/2023,Interview,LinkedIn,Black,Pending
+APP00224,OPEN0012,Jason Matthews,6/17/2023,Applied,LinkedIn,White,Pending
+APP00225,OPEN0012,Tonya Schultz,6/13/2023,Interview,LinkedIn,White,Pending
+APP00226,OPEN0012,Jessica Murray,5/26/2023,Screen,LinkedIn,Black,Pending
+APP00227,OPEN0012,Shane Burch,6/3/2023,Interview,LinkedIn,White,Pending
+APP00228,OPEN0012,Mrs. Natalie Brewer DDS,5/27/2023,Interview,LinkedIn,Black,Pending
+APP00229,OPEN0012,Vanessa Walker,6/3/2023,Applied,LinkedIn,White,Pending
+APP00230,OPEN0012,Amanda Lucas,5/31/2023,Screen,LinkedIn,Black,Pending
+APP00231,OPEN0012,Jordan Nelson,5/28/2023,Offer,LinkedIn,White,Pending
+APP00232,OPEN0012,Jonathon Bailey,6/2/2023,Applied,LinkedIn,Black,Pending
+APP00233,OPEN0012,John Nichols,6/8/2023,Applied,LinkedIn,White,Pending
+APP00234,OPEN0012,Sara Fitzgerald,6/16/2023,Applied,LinkedIn,White,Pending
+APP00235,OPEN0012,Sarah Wright,5/31/2023,Screen,LinkedIn,White,Pending
+APP00236,OPEN0012,Chelsea Bird,5/25/2023,Applied,LinkedIn,White,Pending
+APP00237,OPEN0012,Julie Glass,6/17/2023,Interview,LinkedIn,White,Pending
+APP00238,OPEN0012,Daniel Collins PhD,6/6/2023,Applied,LinkedIn,White,Pending
+APP00239,OPEN0013,Monique Douglas,2/17/2023,Applied,Indeed,White,Pending
+APP00240,OPEN0013,Manuel Moore,2/14/2023,Interview,Indeed,White,Pending
+APP00241,OPEN0013,Michael Grimes,2/20/2023,Screen,Indeed,Asian,Pending
+APP00242,OPEN0013,Luke Rogers,2/23/2023,Hired,Indeed,Hispanic,Hired
+APP00243,OPEN0013,Andre Boyle,2/25/2023,Interview,Indeed,Black,Pending
+APP00244,OPEN0013,Mathew Lindsey,2/19/2023,Applied,Indeed,White,Pending
+APP00245,OPEN0013,Thomas Ward,2/6/2023,Applied,Indeed,Black,Pending
+APP00246,OPEN0013,Tracy Cohen,2/22/2023,Screen,Indeed,Asian,Pending
+APP00247,OPEN0013,Jennifer Walker,2/6/2023,Offer,Indeed,White,Pending
+APP00248,OPEN0013,Christopher Young,2/22/2023,Interview,Indeed,Hispanic,Pending
+APP00249,OPEN0013,Jeremy Kelly,2/27/2023,Applied,Indeed,Black,Pending
+APP00250,OPEN0013,Karen Smith,3/6/2023,Offer,Indeed,White,Pending
+APP00251,OPEN0013,Robert Garcia,2/7/2023,Interview,Indeed,White,Pending
+APP00252,OPEN0013,Matthew Olsen,3/4/2023,Screen,Indeed,White,Pending
+APP00253,OPEN0013,Veronica Martinez,2/22/2023,Screen,Indeed,Asian,Pending
+APP00254,OPEN0013,Lisa Miranda,3/4/2023,Applied,Indeed,White,Pending
+APP00255,OPEN0013,Christopher Vazquez,2/6/2023,Applied,Indeed,White,Pending
+APP00256,OPEN0013,Harry Webb,2/27/2023,Applied,Indeed,White,Pending
+APP00257,OPEN0013,Dylan Ramirez,2/9/2023,Screen,Indeed,Black,Pending
+APP00258,OPEN0013,Nancy Daniels,2/9/2023,Applied,Indeed,White,Pending
+APP00259,OPEN0013,William Smith,2/20/2023,Interview,Indeed,White,Pending
+APP00260,OPEN0013,Daniel Hurst,3/3/2023,Applied,Indeed,Black,Pending
+APP00261,OPEN0014,Walter Sullivan,6/18/2019,Applied,Indeed,Black,Pending
+APP00262,OPEN0014,Lisa Gordon,6/20/2019,Screen,Indeed,Asian,Pending
+APP00263,OPEN0014,Amber Jackson,6/5/2019,Applied,Indeed,White,Pending
+APP00264,OPEN0014,Robert Juarez,6/3/2019,Applied,Indeed,Asian,Pending
+APP00265,OPEN0014,Emily Webb,6/21/2019,Applied,Indeed,Hispanic,Pending
+APP00266,OPEN0014,Daniel Sanchez,6/19/2019,Applied,Indeed,Black,Pending
+APP00267,OPEN0014,Brian Garza,6/20/2019,Applied,Indeed,White,Pending
+APP00268,OPEN0014,Debbie Bailey,6/30/2019,Screen,Indeed,White,Pending
+APP00269,OPEN0014,Monica Floyd,6/7/2019,Applied,Indeed,Hispanic,Pending
+APP00270,OPEN0014,Nicholas Haley,6/24/2019,Applied,Indeed,Hispanic,Pending
+APP00271,OPEN0014,Eugene Koch,6/24/2019,Screen,Indeed,White,Pending
+APP00272,OPEN0015,Jack Chavez,2/8/2020,Screen,LinkedIn,Asian,Pending
+APP00273,OPEN0015,Joseph Ray,1/31/2020,Screen,LinkedIn,White,Pending
+APP00274,OPEN0015,Carlos Johns,1/25/2020,Applied,LinkedIn,White,Pending
+APP00275,OPEN0015,Robert Solomon MD,1/24/2020,Interview,LinkedIn,Black,Pending
+APP00276,OPEN0015,Melissa Rowe,1/16/2020,Applied,LinkedIn,White,Pending
+APP00277,OPEN0015,Daniel Quinn,1/26/2020,Offer,LinkedIn,Black,Pending
+APP00278,OPEN0015,Donald Sanford,1/27/2020,Applied,LinkedIn,Asian,Pending
+APP00279,OPEN0015,Daniel Munoz,1/30/2020,Applied,LinkedIn,White,Pending
+APP00280,OPEN0015,William Cochran,1/17/2020,Screen,LinkedIn,White,Pending
+APP00281,OPEN0015,Jessica Austin,1/12/2020,Screen,LinkedIn,Hispanic,Pending
+APP00282,OPEN0015,Adam Stewart,1/23/2020,Screen,LinkedIn,White,Pending
+APP00283,OPEN0015,Stacy Jenkins,2/2/2020,Screen,LinkedIn,White,Pending
+APP00284,OPEN0015,Michelle Aguilar,2/4/2020,Applied,LinkedIn,White,Pending
+APP00285,OPEN0015,Ryan Jimenez,1/21/2020,Interview,LinkedIn,Black,Pending
+APP00286,OPEN0015,Vincent Lopez,2/10/2020,Screen,LinkedIn,White,Pending
+APP00287,OPEN0015,Andrea Kennedy,1/14/2020,Applied,LinkedIn,Asian,Pending
+APP00288,OPEN0015,Jessica Cowan,1/17/2020,Interview,LinkedIn,White,Pending
+APP00289,OPEN0015,Daniel Gutierrez,1/27/2020,Interview,LinkedIn,White,Pending
+APP00290,OPEN0015,Kelly Morgan,2/8/2020,Interview,LinkedIn,White,Pending
+APP00291,OPEN0016,Andrea Acosta,12/21/2020,Applied,Referral,White,Pending
+APP00292,OPEN0016,Jessica Hughes,12/24/2020,Screen,Referral,White,Pending
+APP00293,OPEN0016,Jonathan Richards,12/15/2020,Screen,Referral,Asian,Pending
+APP00294,OPEN0016,Brian Townsend,12/8/2020,Applied,Referral,White,Pending
+APP00295,OPEN0016,Stacey Miller,12/12/2020,Screen,Referral,Asian,Pending
+APP00296,OPEN0016,Tasha Thompson,12/2/2020,Screen,Referral,Asian,Pending
+APP00297,OPEN0016,Jasmine Osborn,11/27/2020,Screen,Referral,Black,Pending
+APP00298,OPEN0016,Kimberly Russell,12/21/2020,Applied,Referral,Hispanic,Pending
+APP00299,OPEN0016,Chelsea Mullins,12/24/2020,Applied,Referral,White,Pending
+APP00300,OPEN0016,Benjamin Brooks,12/19/2020,Applied,Referral,White,Pending
+APP00301,OPEN0016,Joseph Contreras,12/21/2020,Applied,Referral,White,Pending
+APP00302,OPEN0016,Cassandra Robinson,12/17/2020,Screen,Referral,Black,Pending
+APP00303,OPEN0016,Michelle Peterson,12/18/2020,Screen,Referral,White,Pending
+APP00304,OPEN0016,James Anderson,12/5/2020,Applied,Referral,Black,Pending
+APP00305,OPEN0017,Juan Nicholson,1/31/2023,Screen,Company Website,Hispanic,Pending
+APP00306,OPEN0017,Ryan Schroeder,1/20/2023,Applied,Company Website,White,Pending
+APP00307,OPEN0017,Sarah Clark,2/1/2023,Screen,Company Website,Black,Pending
+APP00308,OPEN0017,Amy Anderson,1/23/2023,Applied,Company Website,White,Pending
+APP00309,OPEN0017,Robert Johnson MD,2/3/2023,Applied,Company Website,Asian,Pending
+APP00310,OPEN0017,Gregory Valenzuela,1/25/2023,Applied,Company Website,White,Pending
+APP00311,OPEN0017,Nicholas Bush,2/1/2023,Screen,Company Website,Black,Pending
+APP00312,OPEN0017,Erik Bennett,1/25/2023,Applied,Company Website,Black,Pending
+APP00313,OPEN0017,Melissa Williams,1/11/2023,Applied,Company Website,Asian,Pending
+APP00314,OPEN0017,John Little,2/1/2023,Applied,Company Website,Black,Pending
+APP00315,OPEN0017,Sean Morgan,1/30/2023,Applied,Company Website,White,Pending
+APP00316,OPEN0017,Regina Reed,1/26/2023,Applied,Company Website,Asian,Pending
+APP00317,OPEN0017,Beverly Norman,1/9/2023,Applied,Company Website,White,Pending
+APP00318,OPEN0017,Rhonda Garrison,2/3/2023,Applied,Company Website,White,Pending
+APP00319,OPEN0018,Richard Good,1/25/2022,Applied,LinkedIn,Asian,Pending
+APP00320,OPEN0018,Andrew Cooper,1/16/2022,Interview,LinkedIn,Black,Pending
+APP00321,OPEN0018,James Evans,1/14/2022,Screen,LinkedIn,White,Pending
+APP00322,OPEN0018,Taylor Morgan,1/11/2022,Screen,LinkedIn,Asian,Pending
+APP00323,OPEN0018,Dr. David Nguyen,1/15/2022,Applied,LinkedIn,White,Pending
+APP00324,OPEN0018,Amy Randall,1/18/2022,Screen,LinkedIn,White,Pending
+APP00325,OPEN0018,Trevor Russell,1/8/2022,Screen,LinkedIn,Asian,Pending
+APP00326,OPEN0018,Marcus Rowe,1/12/2022,Applied,LinkedIn,Asian,Pending
+APP00327,OPEN0018,Melissa Sanders,1/3/2022,Applied,LinkedIn,White,Pending
+APP00328,OPEN0018,Amy Holder,1/15/2022,Interview,LinkedIn,White,Pending
+APP00329,OPEN0018,Shelly Lawrence,1/6/2022,Interview,LinkedIn,White,Pending
+APP00330,OPEN0018,Kevin Collins,1/13/2022,Screen,LinkedIn,White,Pending
+APP00331,OPEN0018,Stacy Cross,1/26/2022,Interview,LinkedIn,White,Pending
+APP00332,OPEN0018,Raymond Martinez,1/25/2022,Offer,LinkedIn,White,Pending
+APP00333,OPEN0018,Misty Osborne,1/29/2022,Interview,LinkedIn,Asian,Pending
+APP00334,OPEN0018,Nancy Wells,1/16/2022,Offer,LinkedIn,White,Pending
+APP00335,OPEN0019,Christopher Bailey,12/8/2023,Applied,Indeed,White,Pending
+APP00336,OPEN0019,Barbara Owen,12/7/2023,Applied,Indeed,White,Pending
+APP00337,OPEN0019,Stephen Turner,12/26/2023,Screen,Indeed,White,Pending
+APP00338,OPEN0019,Christopher Rogers,12/9/2023,Screen,Indeed,White,Pending
+APP00339,OPEN0019,Angela Davis,12/1/2023,Offer,Indeed,White,Pending
+APP00340,OPEN0019,Kathy Compton,12/11/2023,Applied,Indeed,White,Pending
+APP00341,OPEN0019,Steven Tate,12/30/2023,Applied,Indeed,Black,Pending
+APP00342,OPEN0019,Renee Werner,12/8/2023,Interview,Indeed,White,Pending
+APP00343,OPEN0019,Kelly Martinez,12/14/2023,Screen,Indeed,White,Pending
+APP00344,OPEN0019,Charles Macias,12/11/2023,Applied,Indeed,White,Pending
+APP00345,OPEN0019,Nicole Gallagher,12/29/2023,Applied,Indeed,White,Pending
+APP00346,OPEN0019,Donna Dixon,12/16/2023,Applied,Indeed,Black,Pending
+APP00347,OPEN0019,Diana Hunt,12/20/2023,Applied,Indeed,White,Pending
+APP00348,OPEN0019,Miranda Harris,12/2/2023,Screen,Indeed,White,Pending
+APP00349,OPEN0019,Tina Parker,12/2/2023,Screen,Indeed,White,Pending
+APP00350,OPEN0019,Jonathan Wilkins DVM,12/2/2023,Applied,Indeed,White,Pending
+APP00351,OPEN0019,Lori Arellano,12/5/2023,Applied,Indeed,White,Pending
+APP00352,OPEN0019,Kristina Whitney,12/18/2023,Interview,Indeed,White,Pending
+APP00353,OPEN0019,Jeffrey Jenkins,12/9/2023,Screen,Indeed,Black,Pending
+APP00354,OPEN0019,Jessica Harris,12/10/2023,Interview,Indeed,White,Pending
+APP00355,OPEN0019,Diane Villanueva,12/15/2023,Interview,Indeed,White,Pending
+APP00356,OPEN0019,Bridget Sims,12/15/2023,Screen,Indeed,Asian,Pending
+APP00357,OPEN0019,Allison Reed,12/9/2023,Screen,Indeed,White,Pending
+APP00358,OPEN0019,Abigail Riley,12/12/2023,Screen,Indeed,White,Pending
+APP00359,OPEN0020,Bruce Avery,12/21/2019,Interview,LinkedIn,Black,Pending
+APP00360,OPEN0020,William Villarreal,12/10/2019,Applied,LinkedIn,Black,Pending
+APP00361,OPEN0020,Samuel Thompson,12/22/2019,Applied,LinkedIn,White,Pending
+APP00362,OPEN0020,Gary Gibson,12/2/2019,Offer,LinkedIn,White,Pending
+APP00363,OPEN0020,Amber Ortiz,12/8/2019,Screen,LinkedIn,White,Pending
+APP00364,OPEN0020,Christopher Sanders,11/30/2019,Applied,LinkedIn,Asian,Pending
+APP00365,OPEN0020,Amanda Park,12/2/2019,Screen,LinkedIn,Black,Pending
+APP00366,OPEN0020,Pamela Horn,12/20/2019,Offer,LinkedIn,White,Pending
+APP00367,OPEN0020,Michelle Jimenez,12/22/2019,Applied,LinkedIn,Hispanic,Pending
+APP00368,OPEN0020,Chase Powell,11/28/2019,Offer,LinkedIn,Hispanic,Pending
+APP00369,OPEN0020,Christopher Ellison,12/19/2019,Interview,LinkedIn,White,Pending
+APP00370,OPEN0020,Carlos Callahan,12/7/2019,Applied,LinkedIn,Black,Pending
+APP00371,OPEN0020,Joseph Odonnell,12/25/2019,Screen,LinkedIn,White,Pending
+APP00372,OPEN0020,Mrs. Emily Weiss,12/4/2019,Applied,LinkedIn,White,Pending
+APP00373,OPEN0020,William Nelson,12/18/2019,Screen,LinkedIn,White,Pending
+APP00374,OPEN0021,Laura Taylor,4/17/2020,Interview,Referral,White,Pending
+APP00375,OPEN0021,Joseph Reid,4/26/2020,Screen,Referral,White,Pending
+APP00376,OPEN0021,Jason Guerra,4/28/2020,Applied,Referral,White,Pending
+APP00377,OPEN0021,Austin Harris,4/14/2020,Applied,Referral,White,Pending
+APP00378,OPEN0021,James Patel,4/14/2020,Applied,Referral,White,Pending
+APP00379,OPEN0021,David Johnson,4/23/2020,Applied,Referral,White,Pending
+APP00380,OPEN0021,Priscilla Schmitt,4/3/2020,Applied,Referral,Hispanic,Pending
+APP00381,OPEN0021,Tara Brown,4/13/2020,Applied,Referral,White,Pending
+APP00382,OPEN0021,Steven Mason,4/20/2020,Applied,Referral,White,Pending
+APP00383,OPEN0021,Isabel Arroyo,4/26/2020,Applied,Referral,White,Pending
+APP00384,OPEN0021,Nicholas Howard,4/23/2020,Applied,Referral,Asian,Pending
+APP00385,OPEN0021,Matthew Evans,4/27/2020,Applied,Referral,White,Pending
+APP00386,OPEN0022,Brianna Ortiz,10/17/2019,Interview,LinkedIn,White,Pending
+APP00387,OPEN0022,Destiny Flowers,10/7/2019,Screen,LinkedIn,White,Pending
+APP00388,OPEN0022,William Miller,10/30/2019,Interview,LinkedIn,White,Pending
+APP00389,OPEN0022,Michaela Walls,10/3/2019,Offer,LinkedIn,White,Pending
+APP00390,OPEN0022,Daniel Rodriguez,10/24/2019,Applied,LinkedIn,Black,Pending
+APP00391,OPEN0022,Gary Marshall,10/7/2019,Screen,LinkedIn,White,Pending
+APP00392,OPEN0022,Mary Moore,10/22/2019,Interview,LinkedIn,Asian,Pending
+APP00393,OPEN0022,Michelle Murphy,10/3/2019,Applied,LinkedIn,Black,Pending
+APP00394,OPEN0022,Dustin Miller,10/11/2019,Applied,LinkedIn,Black,Pending
+APP00395,OPEN0022,Sara Mitchell,10/21/2019,Interview,LinkedIn,White,Pending
+APP00396,OPEN0022,Megan Scott,10/22/2019,Screen,LinkedIn,Black,Pending
+APP00397,OPEN0022,Joseph Johnson,10/7/2019,Applied,LinkedIn,Black,Pending
+APP00398,OPEN0022,Ashlee Austin,10/3/2019,Interview,LinkedIn,White,Pending
+APP00399,OPEN0022,Dennis Young,10/21/2019,Applied,LinkedIn,Black,Pending
+APP00400,OPEN0022,Elizabeth Cooper,10/12/2019,Interview,LinkedIn,Hispanic,Pending
+APP00401,OPEN0022,Jack Chapman,10/30/2019,Interview,LinkedIn,White,Pending
+APP00402,OPEN0022,Christina Keith,10/8/2019,Screen,LinkedIn,White,Pending
+APP00403,OPEN0022,Eileen Mcpherson,10/28/2019,Applied,LinkedIn,Black,Pending
+APP00404,OPEN0022,Steven Andrews,10/19/2019,Interview,LinkedIn,Asian,Pending
+APP00405,OPEN0022,Sarah Long,10/10/2019,Screen,LinkedIn,Black,Pending
+APP00406,OPEN0022,Doris Romero,10/24/2019,Applied,LinkedIn,White,Pending
+APP00407,OPEN0022,Richard Yoder,10/4/2019,Applied,LinkedIn,White,Pending
+APP00408,OPEN0022,Mrs. Angela Russell,10/15/2019,Screen,LinkedIn,White,Pending
+APP00409,OPEN0023,Christine Mccoy,5/5/2019,Applied,Indeed,White,Pending
+APP00410,OPEN0023,Evelyn Palmer,5/8/2019,Applied,Indeed,Asian,Pending
+APP00411,OPEN0023,Christina Haney,5/12/2019,Applied,Indeed,White,Pending
+APP00412,OPEN0023,Dawn Hernandez,5/9/2019,Applied,Indeed,White,Pending
+APP00413,OPEN0023,Raven Miller,5/24/2019,Screen,Indeed,White,Pending
+APP00414,OPEN0023,Kaitlyn Butler,4/27/2019,Applied,Indeed,White,Pending
+APP00415,OPEN0023,Jay Garcia,4/28/2019,Interview,Indeed,White,Pending
+APP00416,OPEN0023,Jessica Rhodes,5/2/2019,Screen,Indeed,White,Pending
+APP00417,OPEN0023,Yvette Marsh,5/16/2019,Applied,Indeed,Hispanic,Pending
+APP00418,OPEN0023,Alan Odonnell,5/14/2019,Applied,Indeed,Black,Pending
+APP00419,OPEN0023,Keith Thornton,5/11/2019,Applied,Indeed,White,Pending
+APP00420,OPEN0023,Geoffrey Sanchez,5/16/2019,Screen,Indeed,Black,Pending
+APP00421,OPEN0023,William Green,5/20/2019,Screen,Indeed,Black,Pending
+APP00422,OPEN0023,Katrina Williams DDS,5/3/2019,Screen,Indeed,White,Pending
+APP00423,OPEN0023,David Conley,5/17/2019,Screen,Indeed,White,Pending
+APP00424,OPEN0023,Julia Jones,5/26/2019,Applied,Indeed,White,Pending
+APP00425,OPEN0023,Troy Coleman,5/18/2019,Screen,Indeed,Black,Pending
+APP00426,OPEN0023,Matthew Wall,5/10/2019,Offer,Indeed,White,Pending
+APP00427,OPEN0023,Eric Taylor,5/26/2019,Applied,Indeed,Asian,Pending
+APP00428,OPEN0023,John Thompson,5/17/2019,Interview,Indeed,White,Pending
+APP00429,OPEN0023,Stephanie Nelson,5/15/2019,Interview,Indeed,White,Pending
+APP00430,OPEN0023,Kelly Jones,5/12/2019,Offer,Indeed,White,Pending
+APP00431,OPEN0023,John Murray,4/27/2019,Applied,Indeed,White,Pending
+APP00432,OPEN0023,Sandra Martinez,5/22/2019,Screen,Indeed,White,Pending
+APP00433,OPEN0023,Susan Martin,5/26/2019,Screen,Indeed,White,Pending
+APP00434,OPEN0023,Carolyn Jackson,5/17/2019,Interview,Indeed,Asian,Pending
+APP00435,OPEN0024,Eric Campos,2/4/2022,Interview,Referral,White,Pending
+APP00436,OPEN0024,Jessica Scott,2/16/2022,Screen,Referral,White,Pending
+APP00437,OPEN0024,Mrs. Mary Yoder,1/31/2022,Offer,Referral,White,Pending
+APP00438,OPEN0024,Stephen Nielsen,2/15/2022,Interview,Referral,Asian,Pending
+APP00439,OPEN0024,Tammy Hunter,2/18/2022,Screen,Referral,Black,Pending
+APP00440,OPEN0024,Vincent Anderson,2/7/2022,Hired,Referral,Black,Hired
+APP00441,OPEN0024,Janice Daugherty,2/22/2022,Interview,Referral,White,Pending
+APP00442,OPEN0024,Donna Brown,2/5/2022,Screen,Referral,Asian,Pending
+APP00443,OPEN0024,Amber Higgins,2/17/2022,Applied,Referral,Black,Pending
+APP00444,OPEN0024,Tiffany Salas,2/13/2022,Applied,Referral,White,Pending
+APP00445,OPEN0024,Mark Flynn,1/27/2022,Screen,Referral,Black,Pending
+APP00446,OPEN0024,Aaron Smith,2/3/2022,Screen,Referral,Black,Pending
+APP00447,OPEN0024,Robin Garcia,1/24/2022,Screen,Referral,Black,Pending
+APP00448,OPEN0024,Virginia Hernandez,2/20/2022,Screen,Referral,White,Pending
+APP00449,OPEN0024,Beth Hicks,1/29/2022,Applied,Referral,Hispanic,Pending
+APP00450,OPEN0024,Allison Smith,2/2/2022,Screen,Referral,White,Pending
+APP00451,OPEN0024,James Stewart,2/16/2022,Screen,Referral,White,Pending
+APP00452,OPEN0024,Paul Nelson,2/8/2022,Interview,Referral,White,Pending
+APP00453,OPEN0025,Ethan Martinez,1/29/2021,Applied,Indeed,White,Pending
+APP00454,OPEN0025,Donna Carroll,1/27/2021,Screen,Indeed,White,Pending
+APP00455,OPEN0025,Stephanie Stanton,2/14/2021,Applied,Indeed,Hispanic,Pending
+APP00456,OPEN0025,Raymond Page,2/10/2021,Applied,Indeed,Asian,Pending
+APP00457,OPEN0025,Steven Simmons,2/22/2021,Interview,Indeed,Asian,Pending
+APP00458,OPEN0025,Paul Carr,1/27/2021,Screen,Indeed,Black,Pending
+APP00459,OPEN0025,Daniel Richard,2/24/2021,Applied,Indeed,White,Pending
+APP00460,OPEN0025,Elizabeth Jimenez,2/13/2021,Offer,Indeed,White,Pending
+APP00461,OPEN0025,Sarah Joseph,2/10/2021,Interview,Indeed,White,Pending
+APP00462,OPEN0025,Michelle Bowen,2/5/2021,Screen,Indeed,White,Pending
+APP00463,OPEN0025,Mr. Michael Curtis DDS,2/24/2021,Screen,Indeed,Black,Pending
+APP00464,OPEN0025,David Butler,2/5/2021,Interview,Indeed,Black,Pending
+APP00465,OPEN0026,Austin Parks,3/9/2019,Applied,LinkedIn,Asian,Pending
+APP00466,OPEN0026,Adam Henson,3/31/2019,Interview,LinkedIn,White,Pending
+APP00467,OPEN0026,Mitchell Hodges,4/6/2019,Applied,LinkedIn,White,Pending
+APP00468,OPEN0026,Jack Contreras,4/2/2019,Applied,LinkedIn,White,Pending
+APP00469,OPEN0026,Sarah Campbell,3/28/2019,Applied,LinkedIn,Black,Pending
+APP00470,OPEN0026,Mr. Steven Robinson,3/12/2019,Applied,LinkedIn,Asian,Pending
+APP00471,OPEN0026,Michael Bell,3/22/2019,Applied,LinkedIn,Black,Pending
+APP00472,OPEN0026,Claire Nelson,3/12/2019,Applied,LinkedIn,White,Pending
+APP00473,OPEN0026,Susan Hernandez,3/10/2019,Applied,LinkedIn,White,Pending
+APP00474,OPEN0026,Cameron Barron,3/27/2019,Applied,LinkedIn,White,Pending
+APP00475,OPEN0026,Tammy Wilson,4/5/2019,Applied,LinkedIn,White,Pending
+APP00476,OPEN0026,Ronald Garcia,3/21/2019,Applied,LinkedIn,Black,Pending
+APP00477,OPEN0026,Troy Pittman,3/9/2019,Applied,LinkedIn,Hispanic,Pending
+APP00478,OPEN0026,Matthew Chavez,3/31/2019,Screen,LinkedIn,White,Pending
+APP00479,OPEN0026,Tina Hamilton,3/22/2019,Applied,LinkedIn,Hispanic,Pending
+APP00480,OPEN0027,Stacey Rivera DVM,8/9/2023,Applied,LinkedIn,White,Pending
+APP00481,OPEN0027,Dawn Day,8/18/2023,Interview,LinkedIn,White,Pending
+APP00482,OPEN0027,Matthew Romero,8/9/2023,Applied,LinkedIn,Hispanic,Pending
+APP00483,OPEN0027,Scott Holmes,7/28/2023,Applied,LinkedIn,Asian,Pending
+APP00484,OPEN0027,Julie Sheppard,8/11/2023,Applied,LinkedIn,White,Pending
+APP00485,OPEN0027,Kimberly Campbell,8/16/2023,Screen,LinkedIn,Black,Pending
+APP00486,OPEN0027,Isaiah Mcintosh,8/23/2023,Screen,LinkedIn,White,Pending
+APP00487,OPEN0027,Kelly Ward,8/20/2023,Applied,LinkedIn,White,Pending
+APP00488,OPEN0027,Joseph Young,7/31/2023,Screen,LinkedIn,White,Pending
+APP00489,OPEN0027,Stephen Mendez,7/31/2023,Screen,LinkedIn,White,Pending
+APP00490,OPEN0027,James Walton,8/16/2023,Applied,LinkedIn,Asian,Pending
+APP00491,OPEN0027,Jason Cook,7/26/2023,Interview,LinkedIn,White,Pending
+APP00492,OPEN0027,Andrew Charles,8/10/2023,Screen,LinkedIn,White,Pending
+APP00493,OPEN0027,Jason Harris,7/26/2023,Interview,LinkedIn,White,Pending
+APP00494,OPEN0027,Gabriella Adams,7/26/2023,Screen,LinkedIn,White,Pending
+APP00495,OPEN0027,Ethan Morgan,8/22/2023,Interview,LinkedIn,Asian,Pending
+APP00496,OPEN0027,Jennifer May,8/2/2023,Applied,LinkedIn,Black,Pending
+APP00497,OPEN0027,Christopher Green,7/30/2023,Screen,LinkedIn,White,Pending
+APP00498,OPEN0027,Caitlin Ford,8/23/2023,Screen,LinkedIn,White,Pending
+APP00499,OPEN0027,James Johnson IV,7/26/2023,Applied,LinkedIn,Hispanic,Pending
+APP00500,OPEN0028,Gina Jackson,10/6/2023,Interview,LinkedIn,Hispanic,Pending
+APP00501,OPEN0028,Carol Manning,10/13/2023,Offer,LinkedIn,White,Pending
+APP00502,OPEN0028,Lisa Wagner,10/27/2023,Screen,LinkedIn,White,Pending
+APP00503,OPEN0028,Julie Diaz,10/31/2023,Applied,LinkedIn,Hispanic,Pending
+APP00504,OPEN0028,Alfred Avila,11/3/2023,Interview,LinkedIn,Hispanic,Pending
+APP00505,OPEN0028,Brandon Rodriguez,10/30/2023,Interview,LinkedIn,White,Pending
+APP00506,OPEN0028,Kevin Quinn,10/22/2023,Screen,LinkedIn,Black,Pending
+APP00507,OPEN0028,Jessica Stewart,10/23/2023,Interview,LinkedIn,White,Pending
+APP00508,OPEN0028,Matthew Burton,10/14/2023,Applied,LinkedIn,Asian,Pending
+APP00509,OPEN0028,April Henry,10/31/2023,Offer,LinkedIn,Black,Pending
+APP00510,OPEN0028,Sharon Alvarez,10/19/2023,Screen,LinkedIn,White,Pending
+APP00511,OPEN0028,Yvonne Moore,11/3/2023,Screen,LinkedIn,Hispanic,Pending
+APP00512,OPEN0028,Alexis Allen,11/4/2023,Screen,LinkedIn,White,Pending
+APP00513,OPEN0028,Devin Benton,10/7/2023,Screen,LinkedIn,White,Pending
+APP00514,OPEN0028,Joe Harris,10/24/2023,Screen,LinkedIn,White,Pending
+APP00515,OPEN0028,Kristina Frost,10/23/2023,Applied,LinkedIn,White,Pending
+APP00516,OPEN0029,Tony Lee,9/13/2023,Screen,Company Website,Black,Pending
+APP00517,OPEN0029,Amanda Jones,9/3/2023,Applied,Company Website,Black,Pending
+APP00518,OPEN0029,Tyler Hooper,9/11/2023,Applied,Company Website,White,Pending
+APP00519,OPEN0029,Susan Novak,8/25/2023,Applied,Company Website,White,Pending
+APP00520,OPEN0029,Nicholas Lewis,8/20/2023,Applied,Company Website,White,Pending
+APP00521,OPEN0029,Rebecca Rodriguez,9/5/2023,Applied,Company Website,White,Pending
+APP00522,OPEN0029,Tyler Cross DDS,9/8/2023,Applied,Company Website,White,Pending
+APP00523,OPEN0029,Matthew Wright,9/9/2023,Applied,Company Website,Asian,Pending
+APP00524,OPEN0029,Marie Weaver,8/21/2023,Screen,Company Website,Asian,Pending
+APP00525,OPEN0029,Joan Henson,8/22/2023,Screen,Company Website,Black,Pending
+APP00526,OPEN0029,Rachael Nichols,9/9/2023,Applied,Company Website,White,Pending
+APP00527,OPEN0029,Katherine Weber,9/16/2023,Applied,Company Website,White,Pending
+APP00528,OPEN0030,Alexander Edwards,11/9/2019,Interview,LinkedIn,White,Pending
+APP00529,OPEN0030,Anthony Leblanc,11/17/2019,Applied,LinkedIn,White,Pending
+APP00530,OPEN0030,Ronald Ramos,12/5/2019,Interview,LinkedIn,White,Pending
+APP00531,OPEN0030,Angela Schaefer,11/22/2019,Interview,LinkedIn,Asian,Pending
+APP00532,OPEN0030,Kelly Hicks MD,11/10/2019,Applied,LinkedIn,White,Pending
+APP00533,OPEN0030,Courtney Mcgrath,11/18/2019,Interview,LinkedIn,Hispanic,Pending
+APP00534,OPEN0030,Brian Obrien,11/13/2019,Hired,LinkedIn,White,Hired
+APP00535,OPEN0030,Robert Burns,11/26/2019,Offer,LinkedIn,White,Pending
+APP00536,OPEN0030,Jason Blankenship,12/5/2019,Applied,LinkedIn,White,Pending
+APP00537,OPEN0030,Jessica Russell,11/17/2019,Screen,LinkedIn,Black,Pending
+APP00538,OPEN0030,Kenneth Walters,11/25/2019,Offer,LinkedIn,Hispanic,Pending
+APP00539,OPEN0030,James Jenkins,11/9/2019,Offer,LinkedIn,White,Pending
+APP00540,OPEN0030,Michael Travis,11/21/2019,Screen,LinkedIn,Hispanic,Pending
+APP00541,OPEN0030,Jennifer Martin,11/25/2019,Interview,LinkedIn,White,Pending
+APP00542,OPEN0030,Debbie Jimenez,11/21/2019,Screen,LinkedIn,Black,Pending
+APP00543,OPEN0030,Jamie Williams,11/11/2019,Screen,LinkedIn,Asian,Pending
+APP00544,OPEN0030,Albert Hill,11/23/2019,Applied,LinkedIn,White,Pending
+APP00545,OPEN0030,Madison Jones,11/9/2019,Applied,LinkedIn,White,Pending
+APP00546,OPEN0030,Anne Taylor,11/7/2019,Applied,LinkedIn,Black,Pending
+APP00547,OPEN0031,Alex Fowler,3/11/2020,Screen,Indeed,Black,Pending
+APP00548,OPEN0031,Erica Reynolds,3/27/2020,Interview,Indeed,Asian,Pending
+APP00549,OPEN0031,David Clark,4/1/2020,Offer,Indeed,White,Pending
+APP00550,OPEN0031,Robert Barrett,3/29/2020,Applied,Indeed,Black,Pending
+APP00551,OPEN0031,Kristina Murphy,3/13/2020,Interview,Indeed,White,Pending
+APP00552,OPEN0031,Jeffrey Gardner,3/22/2020,Screen,Indeed,Asian,Pending
+APP00553,OPEN0031,Deborah Swanson,3/31/2020,Applied,Indeed,White,Pending
+APP00554,OPEN0031,Jason Lopez,3/11/2020,Screen,Indeed,White,Pending
+APP00555,OPEN0031,Penny Brooks,4/2/2020,Offer,Indeed,Black,Pending
+APP00556,OPEN0031,Eric Cook,3/18/2020,Applied,Indeed,White,Pending
+APP00557,OPEN0031,Nicole Long,4/5/2020,Screen,Indeed,Black,Pending
+APP00558,OPEN0031,Pamela Camacho,3/30/2020,Screen,Indeed,Hispanic,Pending
+APP00559,OPEN0031,Nichole Blevins,3/28/2020,Applied,Indeed,Asian,Pending
+APP00560,OPEN0031,Denise Watts,3/26/2020,Screen,Indeed,Asian,Pending
+APP00561,OPEN0031,Timothy Fox,3/11/2020,Applied,Indeed,Asian,Pending
+APP00562,OPEN0031,April Mcdonald,4/5/2020,Applied,Indeed,White,Pending
+APP00563,OPEN0031,Miranda Spencer,3/23/2020,Interview,Indeed,White,Pending
+APP00564,OPEN0031,Alexis Bell PhD,3/8/2020,Applied,Indeed,Asian,Pending
+APP00565,OPEN0032,Donald Anderson,5/31/2022,Applied,LinkedIn,Asian,Pending
+APP00566,OPEN0032,Patrick Lopez,6/3/2022,Applied,LinkedIn,White,Pending
+APP00567,OPEN0032,Melissa Jordan,6/4/2022,Applied,LinkedIn,White,Pending
+APP00568,OPEN0032,Robin Dickerson,5/22/2022,Applied,LinkedIn,Black,Pending
+APP00569,OPEN0032,Victoria Walker,5/19/2022,Applied,LinkedIn,Black,Pending
+APP00570,OPEN0032,Ruben Stone,5/12/2022,Applied,LinkedIn,Black,Pending
+APP00571,OPEN0032,Desiree Ford,5/9/2022,Applied,LinkedIn,Asian,Pending
+APP00572,OPEN0032,Lee Morris,5/11/2022,Applied,LinkedIn,White,Pending
+APP00573,OPEN0033,Howard Martin,6/9/2020,Applied,Company Website,Black,Pending
+APP00574,OPEN0033,Timothy Miles,6/30/2020,Applied,Company Website,Black,Pending
+APP00575,OPEN0033,Michael Flores,6/13/2020,Screen,Company Website,Black,Pending
+APP00576,OPEN0033,Dennis Logan,7/1/2020,Applied,Company Website,White,Pending
+APP00577,OPEN0033,David Simon,6/15/2020,Applied,Company Website,White,Pending
+APP00578,OPEN0033,Sophia Wells,6/11/2020,Applied,Company Website,White,Pending
+APP00579,OPEN0033,Ryan Baker,7/1/2020,Interview,Company Website,White,Pending
+APP00580,OPEN0033,Guy Drake,6/17/2020,Applied,Company Website,White,Pending
+APP00581,OPEN0033,Misty Ross,6/8/2020,Screen,Company Website,White,Pending
+APP00582,OPEN0033,David Fletcher,6/17/2020,Screen,Company Website,Asian,Pending
+APP00583,OPEN0033,Paul Calhoun,6/13/2020,Applied,Company Website,White,Pending
+APP00584,OPEN0033,Gregory Kim,6/30/2020,Applied,Company Website,White,Pending
+APP00585,OPEN0033,Douglas Hudson,7/5/2020,Applied,Company Website,White,Pending
+APP00586,OPEN0033,Sandra Acosta,7/7/2020,Screen,Company Website,Hispanic,Pending
+APP00587,OPEN0033,Sharon Preston,6/24/2020,Interview,Company Website,Asian,Pending
+APP00588,OPEN0033,Robert Herrera,6/21/2020,Screen,Company Website,Asian,Pending
+APP00589,OPEN0033,Kelly Weeks,6/10/2020,Applied,Company Website,Black,Pending
+APP00590,OPEN0033,Michael Parker,6/22/2020,Screen,Company Website,Asian,Pending
+APP00591,OPEN0033,Katrina Everett,6/8/2020,Screen,Company Website,Asian,Pending
+APP00592,OPEN0033,Patrick White,6/10/2020,Interview,Company Website,White,Pending
+APP00593,OPEN0033,Rachel Walsh,6/8/2020,Screen,Company Website,White,Pending
+APP00594,OPEN0034,Wayne Thomas,10/18/2021,Applied,Indeed,White,Pending
+APP00595,OPEN0034,Alexandra Miller,10/27/2021,Applied,Indeed,White,Pending
+APP00596,OPEN0034,Derrick Jordan,10/27/2021,Interview,Indeed,White,Pending
+APP00597,OPEN0034,Tyler Jones,10/26/2021,Screen,Indeed,White,Pending
+APP00598,OPEN0034,Anna Vargas,10/15/2021,Applied,Indeed,White,Pending
+APP00599,OPEN0034,Brandon Duffy,10/29/2021,Screen,Indeed,White,Pending
+APP00600,OPEN0034,Matthew Fletcher,10/20/2021,Screen,Indeed,White,Pending
+APP00601,OPEN0034,Philip Hawkins,10/7/2021,Offer,Indeed,White,Pending
+APP00602,OPEN0034,Michael Boone,10/17/2021,Interview,Indeed,White,Pending
+APP00603,OPEN0034,Michael Aguirre,10/13/2021,Applied,Indeed,White,Pending
+APP00604,OPEN0034,Mitchell Reese,10/21/2021,Applied,Indeed,White,Pending
+APP00605,OPEN0034,Allen Harris,10/25/2021,Screen,Indeed,White,Pending
+APP00606,OPEN0034,Elizabeth Weiss,10/12/2021,Applied,Indeed,White,Pending
+APP00607,OPEN0034,Joseph West,10/24/2021,Applied,Indeed,Asian,Pending
+APP00608,OPEN0034,Lisa Fletcher MD,11/5/2021,Screen,Indeed,Black,Pending
+APP00609,OPEN0034,Mrs. Danielle Hall,10/8/2021,Offer,Indeed,White,Pending
+APP00610,OPEN0034,Michael Strong,10/10/2021,Applied,Indeed,Asian,Pending
+APP00611,OPEN0034,Stephen King,10/23/2021,Applied,Indeed,White,Pending
+APP00612,OPEN0034,Margaret Hendrix,10/19/2021,Interview,Indeed,Black,Pending
+APP00613,OPEN0034,Matthew Leblanc,10/23/2021,Screen,Indeed,White,Pending
+APP00614,OPEN0034,Heather Wallace,10/25/2021,Screen,Indeed,Black,Pending
+APP00615,OPEN0034,Derek Maddox,10/26/2021,Applied,Indeed,Black,Pending
+APP00616,OPEN0034,Michael Moon,10/12/2021,Screen,Indeed,Black,Pending
+APP00617,OPEN0034,Lori Cherry,10/15/2021,Screen,Indeed,White,Pending
+APP00618,OPEN0034,Jeremy Berger,10/9/2021,Offer,Indeed,White,Pending
+APP00619,OPEN0034,Matthew Morgan,10/30/2021,Applied,Indeed,White,Pending
+APP00620,OPEN0034,Mark Burns,10/28/2021,Hired,Indeed,White,Hired
+APP00621,OPEN0034,Todd Alexander,10/24/2021,Interview,Indeed,Asian,Pending
+APP00622,OPEN0034,Kaitlin Roberts,10/16/2021,Applied,Indeed,Asian,Pending
+APP00623,OPEN0035,Bradley Wise,6/7/2021,Applied,LinkedIn,White,Pending
+APP00624,OPEN0035,Stacy Rivas,6/11/2021,Screen,LinkedIn,Hispanic,Pending
+APP00625,OPEN0035,Ashley York,5/27/2021,Applied,LinkedIn,Black,Pending
+APP00626,OPEN0035,Jessica Dawson,6/15/2021,Screen,LinkedIn,White,Pending
+APP00627,OPEN0035,Janet Hamilton,6/7/2021,Applied,LinkedIn,White,Pending
+APP00628,OPEN0035,Joseph Hodge,5/28/2021,Applied,LinkedIn,Asian,Pending
+APP00629,OPEN0035,Heather Marshall,6/23/2021,Applied,LinkedIn,Hispanic,Pending
+APP00630,OPEN0035,James Bell,6/13/2021,Applied,LinkedIn,White,Pending
+APP00631,OPEN0035,Bruce Silva,6/18/2021,Applied,LinkedIn,Black,Pending
+APP00632,OPEN0035,Calvin Miller,6/5/2021,Screen,LinkedIn,White,Pending
+APP00633,OPEN0035,Mr. Anthony Costa,6/13/2021,Applied,LinkedIn,White,Pending
+APP00634,OPEN0035,Patrick Brown,6/4/2021,Applied,LinkedIn,Black,Pending
+APP00635,OPEN0035,Allison Rivera,6/15/2021,Applied,LinkedIn,White,Pending
+APP00636,OPEN0035,Gabriella Williams,6/3/2021,Applied,LinkedIn,White,Pending
+APP00637,OPEN0036,Mrs. Kelsey Williams DDS,12/28/2021,Screen,Indeed,White,Pending
+APP00638,OPEN0036,Heather Brown,12/14/2021,Applied,Indeed,Hispanic,Pending
+APP00639,OPEN0036,Paul Gomez,1/9/2022,Screen,Indeed,Black,Pending
+APP00640,OPEN0036,Gail Weaver,1/3/2022,Applied,Indeed,White,Pending
+APP00641,OPEN0036,Tyler Miles,1/4/2022,Applied,Indeed,White,Pending
+APP00642,OPEN0036,Dr. Jose Gray,12/26/2021,Applied,Indeed,Black,Pending
+APP00643,OPEN0036,Jessica Flores,12/17/2021,Screen,Indeed,White,Pending
+APP00644,OPEN0036,Nathan Wright,12/26/2021,Applied,Indeed,White,Pending
+APP00645,OPEN0036,Lori Daugherty,12/20/2021,Screen,Indeed,Asian,Pending
+APP00646,OPEN0036,Cynthia Mcfarland,1/1/2022,Interview,Indeed,Asian,Pending
+APP00647,OPEN0036,Barbara Sanchez,12/15/2021,Screen,Indeed,White,Pending
+APP00648,OPEN0036,Christine Alvarez,12/26/2021,Applied,Indeed,White,Pending
+APP00649,OPEN0036,Gina Humphrey,12/26/2021,Screen,Indeed,Hispanic,Pending
+APP00650,OPEN0036,Colleen Shields,12/31/2021,Interview,Indeed,White,Pending
+APP00651,OPEN0036,Alicia Fox,1/2/2022,Applied,Indeed,White,Pending
+APP00652,OPEN0036,Michael Monroe,12/18/2021,Screen,Indeed,White,Pending
+APP00653,OPEN0036,Kimberly Daniels,12/25/2021,Screen,Indeed,Black,Pending
+APP00654,OPEN0037,Joshua Stout,10/4/2021,Screen,Indeed,Black,Pending
+APP00655,OPEN0037,Jessica Hines,10/5/2021,Screen,Indeed,White,Pending
+APP00656,OPEN0037,Dr. Heather Boone MD,10/26/2021,Applied,Indeed,White,Pending
+APP00657,OPEN0037,Patricia Maynard,10/4/2021,Applied,Indeed,White,Pending
+APP00658,OPEN0037,Ryan Oconnor Jr.,10/14/2021,Interview,Indeed,Asian,Pending
+APP00659,OPEN0037,James Bates,10/26/2021,Interview,Indeed,Asian,Pending
+APP00660,OPEN0037,Mrs. Christina Morales,10/31/2021,Applied,Indeed,White,Pending
+APP00661,OPEN0037,Phillip Smith,10/17/2021,Interview,Indeed,Hispanic,Pending
+APP00662,OPEN0037,Jason Tanner,10/13/2021,Screen,Indeed,White,Pending
+APP00663,OPEN0037,Teresa Mccoy,10/30/2021,Applied,Indeed,Black,Pending
+APP00664,OPEN0037,Lacey Becker,10/26/2021,Interview,Indeed,White,Pending
+APP00665,OPEN0037,Cynthia Kim,10/6/2021,Interview,Indeed,Black,Pending
+APP00666,OPEN0037,John Martinez,10/15/2021,Offer,Indeed,White,Pending
+APP00667,OPEN0037,Patrick Schmitt,10/17/2021,Screen,Indeed,White,Pending
+APP00668,OPEN0037,Jonathan Morgan,10/12/2021,Applied,Indeed,White,Pending
+APP00669,OPEN0037,Nathan Norris,10/28/2021,Applied,Indeed,Asian,Pending
+APP00670,OPEN0037,Dennis Stanton,10/4/2021,Hired,Indeed,White,Hired
+APP00671,OPEN0037,Rachel Delgado,10/20/2021,Applied,Indeed,White,Pending
+APP00672,OPEN0037,Juan Fox,10/5/2021,Screen,Indeed,Black,Pending
+APP00673,OPEN0037,Karen Simon,10/16/2021,Interview,Indeed,Black,Pending
+APP00674,OPEN0037,Jeffrey Thomas,10/14/2021,Screen,Indeed,White,Pending
+APP00675,OPEN0038,Tanya Casey,5/14/2022,Interview,LinkedIn,White,Pending
+APP00676,OPEN0038,Jonathan Simon,5/22/2022,Applied,LinkedIn,White,Pending
+APP00677,OPEN0038,Pamela Olson,5/17/2022,Screen,LinkedIn,Black,Pending
+APP00678,OPEN0038,Brandon Lucas,5/25/2022,Applied,LinkedIn,Black,Pending
+APP00679,OPEN0038,Mr. Joel Castro,5/10/2022,Applied,LinkedIn,White,Pending
+APP00680,OPEN0038,Donna Patel,5/21/2022,Screen,LinkedIn,White,Pending
+APP00681,OPEN0038,Jesse Williams,5/11/2022,Applied,LinkedIn,Hispanic,Pending
+APP00682,OPEN0038,Kristin Ortega,5/30/2022,Applied,LinkedIn,White,Pending
+APP00683,OPEN0039,Nathan Hendricks,12/28/2021,Interview,Indeed,White,Pending
+APP00684,OPEN0039,Carolyn Baker,12/25/2021,Screen,Indeed,Black,Pending
+APP00685,OPEN0039,Abigail Harris,12/25/2021,Screen,Indeed,White,Pending
+APP00686,OPEN0039,Amanda Graham,12/17/2021,Screen,Indeed,White,Pending
+APP00687,OPEN0039,Richard Paul,1/9/2022,Applied,Indeed,White,Pending
+APP00688,OPEN0039,Jennifer Vincent,12/31/2021,Screen,Indeed,Asian,Pending
+APP00689,OPEN0039,Brianna Lucas,1/9/2022,Interview,Indeed,White,Pending
+APP00690,OPEN0039,Anthony Carter,12/30/2021,Interview,Indeed,White,Pending
+APP00691,OPEN0039,David Foster,12/31/2021,Screen,Indeed,Asian,Pending
+APP00692,OPEN0039,Donald Trevino,12/31/2021,Interview,Indeed,White,Pending
+APP00693,OPEN0039,Nicholas Porter,12/13/2021,Screen,Indeed,White,Pending
+APP00694,OPEN0039,Thomas King,12/27/2021,Interview,Indeed,White,Pending
+APP00695,OPEN0039,Charles Sanchez,12/21/2021,Applied,Indeed,White,Pending
+APP00696,OPEN0039,Robert Cox,1/10/2022,Hired,Indeed,White,Hired
+APP00697,OPEN0039,Mitchell Wilson,12/13/2021,Screen,Indeed,White,Pending
+APP00698,OPEN0039,Kimberly Gibson,12/30/2021,Screen,Indeed,White,Pending
+APP00699,OPEN0039,Robin Villarreal,1/11/2022,Interview,Indeed,White,Pending
+APP00700,OPEN0039,Matthew Price,12/19/2021,Screen,Indeed,White,Pending
+APP00701,OPEN0039,Randy Shaw,1/8/2022,Screen,Indeed,White,Pending
+APP00702,OPEN0039,Katherine Burke,12/21/2021,Screen,Indeed,Asian,Pending
+APP00703,OPEN0039,Brendan Norris,12/23/2021,Interview,Indeed,White,Pending
+APP00704,OPEN0039,Christopher Mcdonald,12/22/2021,Applied,Indeed,White,Pending
+APP00705,OPEN0039,Veronica Rogers,12/31/2021,Interview,Indeed,Black,Pending
+APP00706,OPEN0039,Mr. Chris Hamilton MD,12/18/2021,Applied,Indeed,Black,Pending
+APP00707,OPEN0039,Joshua Washington,1/8/2022,Interview,Indeed,White,Pending
+APP00708,OPEN0039,Laura Thomas,1/5/2022,Applied,Indeed,Asian,Pending
+APP00709,OPEN0039,Pamela Gonzales,12/15/2021,Applied,Indeed,White,Pending
+APP00710,OPEN0039,Antonio Arroyo,12/22/2021,Screen,Indeed,White,Pending
+APP00711,OPEN0040,Elizabeth Howard,6/7/2023,Screen,Indeed,White,Pending
+APP00712,OPEN0040,Nancy Miller,6/3/2023,Applied,Indeed,White,Pending
+APP00713,OPEN0040,John Lee MD,5/31/2023,Applied,Indeed,White,Pending
+APP00714,OPEN0040,Mr. Brian Perez,5/16/2023,Applied,Indeed,Hispanic,Pending
+APP00715,OPEN0040,Matthew Lee,5/26/2023,Applied,Indeed,White,Pending
+APP00716,OPEN0040,Stacey Meyer,5/24/2023,Applied,Indeed,White,Pending
+APP00717,OPEN0040,Tonya Thomas,5/19/2023,Screen,Indeed,White,Pending
+APP00718,OPEN0040,Robert Vaughn,6/13/2023,Screen,Indeed,Black,Pending
+APP00719,OPEN0040,Chelsea Cross,5/25/2023,Applied,Indeed,Black,Pending
+APP00720,OPEN0040,Kayla Yang,6/14/2023,Applied,Indeed,White,Pending
+APP00721,OPEN0040,Cheryl Romero,5/29/2023,Screen,Indeed,Hispanic,Pending
+APP00722,OPEN0040,Bridget Tucker,5/30/2023,Applied,Indeed,Black,Pending
+APP00723,OPEN0041,Michael Small,6/15/2018,Screen,Company Website,Asian,Pending
+APP00724,OPEN0041,Heidi Barber,7/2/2018,Offer,Company Website,White,Pending
+APP00725,OPEN0041,Melanie Shields,6/10/2018,Screen,Company Website,White,Pending
+APP00726,OPEN0041,Aaron Mitchell,6/7/2018,Interview,Company Website,White,Pending
+APP00727,OPEN0041,Daniel Allen,6/15/2018,Screen,Company Website,White,Pending
+APP00728,OPEN0041,Kelly King,6/20/2018,Interview,Company Website,White,Pending
+APP00729,OPEN0041,Karen Carr,6/26/2018,Interview,Company Website,Asian,Pending
+APP00730,OPEN0041,Catherine Austin,6/20/2018,Screen,Company Website,White,Pending
+APP00731,OPEN0041,Desiree Rich,6/9/2018,Screen,Company Website,Black,Pending
+APP00732,OPEN0041,Catherine Sims,6/24/2018,Screen,Company Website,Asian,Pending
+APP00733,OPEN0041,Juan Henry,6/30/2018,Interview,Company Website,Black,Pending
+APP00734,OPEN0041,Melissa Clark,7/5/2018,Screen,Company Website,White,Pending
+APP00735,OPEN0041,Chad Fox,7/5/2018,Applied,Company Website,Asian,Pending
+APP00736,OPEN0041,Robert Fields,6/25/2018,Screen,Company Website,White,Pending
+APP00737,OPEN0041,Lacey Clark,6/16/2018,Applied,Company Website,Black,Pending
+APP00738,OPEN0041,Mrs. Joan Travis MD,6/25/2018,Interview,Company Website,White,Pending
+APP00739,OPEN0041,Deanna Brewer,7/1/2018,Interview,Company Website,White,Pending
+APP00740,OPEN0041,Casey Wade,6/29/2018,Interview,Company Website,White,Pending
+APP00741,OPEN0041,Richard Barrett,6/9/2018,Applied,Company Website,Black,Pending
+APP00742,OPEN0041,Lawrence Holt,6/21/2018,Applied,Company Website,White,Pending
+APP00743,OPEN0041,Dylan Young,6/7/2018,Applied,Company Website,White,Pending
+APP00744,OPEN0042,Mary Barry,5/4/2019,Screen,Company Website,Asian,Pending
+APP00745,OPEN0042,Michael James,4/30/2019,Applied,Company Website,Hispanic,Pending
+APP00746,OPEN0042,Kimberly Sutton,5/22/2019,Interview,Company Website,White,Pending
+APP00747,OPEN0042,John Taylor,5/26/2019,Interview,Company Website,White,Pending
+APP00748,OPEN0042,Micheal Randolph,5/27/2019,Applied,Company Website,White,Pending
+APP00749,OPEN0042,Maria Burgess,5/26/2019,Applied,Company Website,Black,Pending
+APP00750,OPEN0042,Joshua Bell,5/3/2019,Interview,Company Website,White,Pending
+APP00751,OPEN0042,Nancy Bryan,5/27/2019,Screen,Company Website,Black,Pending
+APP00752,OPEN0042,Courtney Morales,5/13/2019,Offer,Company Website,Asian,Pending
+APP00753,OPEN0042,Angelica Clements,5/9/2019,Applied,Company Website,Black,Pending
+APP00754,OPEN0042,Dr. Stephen Miller,5/13/2019,Applied,Company Website,Black,Pending
+APP00755,OPEN0042,Julie Valenzuela,5/19/2019,Applied,Company Website,Black,Pending
+APP00756,OPEN0042,Samantha Lopez,4/28/2019,Applied,Company Website,White,Pending
+APP00757,OPEN0042,Abigail Boyer,5/11/2019,Applied,Company Website,White,Pending
+APP00758,OPEN0042,Brent Wells,5/25/2019,Screen,Company Website,White,Pending
+APP00759,OPEN0042,Michael Mitchell,5/24/2019,Applied,Company Website,Asian,Pending
+APP00760,OPEN0042,Ann Brown,5/2/2019,Screen,Company Website,White,Pending
+APP00761,OPEN0042,Denise Martinez,5/10/2019,Applied,Company Website,Asian,Pending
+APP00762,OPEN0043,Andrew Roberts,3/27/2019,Screen,LinkedIn,White,Pending
+APP00763,OPEN0043,Emily Davis,4/22/2019,Offer,LinkedIn,White,Pending
+APP00764,OPEN0043,Mr. Chad Hill,4/12/2019,Interview,LinkedIn,White,Pending
+APP00765,OPEN0043,Amanda Hall,4/5/2019,Offer,LinkedIn,White,Pending
+APP00766,OPEN0043,Adriana Schroeder,4/20/2019,Applied,LinkedIn,White,Pending
+APP00767,OPEN0043,Gavin Nichols,3/25/2019,Applied,LinkedIn,White,Pending
+APP00768,OPEN0043,Angela Johnson,4/7/2019,Screen,LinkedIn,White,Pending
+APP00769,OPEN0043,Philip Williams,4/2/2019,Screen,LinkedIn,Asian,Pending
+APP00770,OPEN0043,Jessica Patterson,4/12/2019,Applied,LinkedIn,White,Pending
+APP00771,OPEN0043,Laura Carlson,4/6/2019,Applied,LinkedIn,White,Pending
+APP00772,OPEN0043,Nicholas Parks,4/3/2019,Screen,LinkedIn,White,Pending
+APP00773,OPEN0043,Elizabeth Gardner,4/1/2019,Screen,LinkedIn,White,Pending
+APP00774,OPEN0043,Michael Parrish,3/30/2019,Screen,LinkedIn,Hispanic,Pending
+APP00775,OPEN0043,Elaine Lewis,3/29/2019,Screen,LinkedIn,Asian,Pending
+APP00776,OPEN0043,Jennifer Davis,4/7/2019,Applied,LinkedIn,Asian,Pending
+APP00777,OPEN0043,Mark Price,4/23/2019,Screen,LinkedIn,White,Pending
+APP00778,OPEN0043,Patrick Reid,4/1/2019,Screen,LinkedIn,White,Pending
+APP00779,OPEN0043,Nicholas Harris,4/1/2019,Screen,LinkedIn,White,Pending
+APP00780,OPEN0043,Tyler Edwards,4/10/2019,Applied,LinkedIn,Asian,Pending
+APP00781,OPEN0043,David Cherry,3/25/2019,Applied,LinkedIn,White,Pending
+APP00782,OPEN0044,Chelsea Nelson,6/2/2020,Screen,Company Website,White,Pending
+APP00783,OPEN0044,Anne Davis,5/11/2020,Applied,Company Website,White,Pending
+APP00784,OPEN0044,Heather Huerta,5/20/2020,Screen,Company Website,White,Pending
+APP00785,OPEN0044,Rebekah Miller,5/27/2020,Interview,Company Website,White,Pending
+APP00786,OPEN0044,Mary Price,6/5/2020,Screen,Company Website,White,Pending
+APP00787,OPEN0044,Wendy Villa DDS,6/2/2020,Applied,Company Website,White,Pending
+APP00788,OPEN0044,Sarah Mason,5/10/2020,Applied,Company Website,Black,Pending
+APP00789,OPEN0044,Christine Bell,6/4/2020,Screen,Company Website,White,Pending
+APP00790,OPEN0044,Joseph Stewart,5/24/2020,Offer,Company Website,White,Pending
+APP00791,OPEN0044,Marilyn Roberts,5/24/2020,Applied,Company Website,Hispanic,Pending
+APP00792,OPEN0044,Danielle Carr,5/26/2020,Interview,Company Website,White,Pending
+APP00793,OPEN0044,Joseph Mccall,6/3/2020,Screen,Company Website,White,Pending
+APP00794,OPEN0044,Vanessa Carpenter,5/13/2020,Applied,Company Website,White,Pending
+APP00795,OPEN0044,Ryan Huber,5/12/2020,Screen,Company Website,Asian,Pending
+APP00796,OPEN0044,Dr. Steven Ramirez,5/10/2020,Offer,Company Website,White,Pending
+APP00797,OPEN0044,Rebekah Hill,6/4/2020,Screen,Company Website,Asian,Pending
+APP00798,OPEN0044,Jennifer Carter,5/16/2020,Applied,Company Website,White,Pending
+APP00799,OPEN0044,Kelly Thomas,5/19/2020,Hired,Company Website,White,Hired
+APP00800,OPEN0044,Jillian Curtis,5/16/2020,Applied,Company Website,White,Pending
+APP00801,OPEN0044,Michael Valdez,6/4/2020,Applied,Company Website,White,Pending
+APP00802,OPEN0044,Joseph Murphy,5/26/2020,Applied,Company Website,White,Pending
+APP00803,OPEN0044,Alicia Diaz,6/3/2020,Interview,Company Website,White,Pending
+APP00804,OPEN0044,Michele Phillips,5/19/2020,Applied,Company Website,White,Pending
+APP00805,OPEN0045,Natalie Scott,5/22/2022,Applied,Referral,Black,Pending
+APP00806,OPEN0045,Brian Simpson,5/30/2022,Screen,Referral,White,Pending
+APP00807,OPEN0045,Tiffany Hogan,5/28/2022,Applied,Referral,White,Pending
+APP00808,OPEN0045,Rodney Taylor,6/10/2022,Applied,Referral,Hispanic,Pending
+APP00809,OPEN0045,James Tucker,5/24/2022,Applied,Referral,White,Pending
+APP00810,OPEN0045,Kristina Heath,6/13/2022,Screen,Referral,Asian,Pending
+APP00811,OPEN0045,Tanya Woodard,5/18/2022,Interview,Referral,White,Pending
+APP00812,OPEN0045,Sean Hudson,6/6/2022,Applied,Referral,White,Pending
+APP00813,OPEN0045,Amanda Rose,5/17/2022,Interview,Referral,White,Pending
+APP00814,OPEN0045,Allen Oconnor,6/12/2022,Applied,Referral,White,Pending
+APP00815,OPEN0045,Wendy Massey,6/11/2022,Screen,Referral,Hispanic,Pending
+APP00816,OPEN0045,Amy Harrison,6/8/2022,Screen,Referral,Asian,Pending
+APP00817,OPEN0045,Brittany Allen,5/21/2022,Applied,Referral,Asian,Pending
+APP00818,OPEN0045,Dr. Michael Vaughn,6/2/2022,Applied,Referral,Black,Pending
+APP00819,OPEN0045,Christina Mclean,6/2/2022,Interview,Referral,Hispanic,Pending
+APP00820,OPEN0045,Robert Yates,6/7/2022,Interview,Referral,Hispanic,Pending
+APP00821,OPEN0045,Shannon Mitchell,5/22/2022,Applied,Referral,White,Pending
+APP00822,OPEN0046,Brenda Dawson,7/14/2021,Screen,LinkedIn,White,Pending
+APP00823,OPEN0046,William Velazquez,7/7/2021,Offer,LinkedIn,White,Pending
+APP00824,OPEN0046,Mr. Justin Fisher,6/19/2021,Interview,LinkedIn,Black,Pending
+APP00825,OPEN0046,Mercedes Ellis DDS,6/17/2021,Offer,LinkedIn,White,Pending
+APP00826,OPEN0046,David Wilson,6/28/2021,Screen,LinkedIn,White,Pending
+APP00827,OPEN0046,Elizabeth Hernandez,6/16/2021,Applied,LinkedIn,White,Pending
+APP00828,OPEN0046,Alexander Harrington,6/24/2021,Interview,LinkedIn,White,Pending
+APP00829,OPEN0046,Heather Burch,6/28/2021,Applied,LinkedIn,Black,Pending
+APP00830,OPEN0046,Edgar Armstrong,7/6/2021,Applied,LinkedIn,White,Pending
+APP00831,OPEN0046,Matthew Duarte,7/13/2021,Screen,LinkedIn,Asian,Pending
+APP00832,OPEN0046,Andrew Sellers,6/27/2021,Screen,LinkedIn,Hispanic,Pending
+APP00833,OPEN0046,Michael Lee,7/10/2021,Screen,LinkedIn,White,Pending
+APP00834,OPEN0046,Brian Wells,6/17/2021,Applied,LinkedIn,White,Pending
+APP00835,OPEN0046,Christina Wolfe,6/20/2021,Interview,LinkedIn,White,Pending
+APP00836,OPEN0046,James Taylor,7/8/2021,Applied,LinkedIn,White,Pending
+APP00837,OPEN0046,David Freeman,6/21/2021,Applied,LinkedIn,White,Pending
+APP00838,OPEN0046,Donna Wilson,6/30/2021,Interview,LinkedIn,White,Pending
+APP00839,OPEN0046,James Foster,6/21/2021,Applied,LinkedIn,White,Pending
+APP00840,OPEN0046,Benjamin Marks,6/21/2021,Applied,LinkedIn,White,Pending
+APP00841,OPEN0046,Amanda Johnson,6/18/2021,Interview,LinkedIn,Asian,Pending
+APP00842,OPEN0047,Allison Johnson,10/12/2021,Offer,LinkedIn,White,Pending
+APP00843,OPEN0047,David Gonzalez,10/3/2021,Interview,LinkedIn,Black,Pending
+APP00844,OPEN0047,Jasmine White,10/1/2021,Screen,LinkedIn,Asian,Pending
+APP00845,OPEN0047,Jodi Morrison,9/16/2021,Applied,LinkedIn,Black,Pending
+APP00846,OPEN0047,Michelle Suarez,10/10/2021,Applied,LinkedIn,Hispanic,Pending
+APP00847,OPEN0047,Julie Johnson,10/13/2021,Applied,LinkedIn,White,Pending
+APP00848,OPEN0047,Megan Joseph,9/25/2021,Applied,LinkedIn,Hispanic,Pending
+APP00849,OPEN0047,Kimberly Thomas,9/24/2021,Screen,LinkedIn,Black,Pending
+APP00850,OPEN0047,Cynthia Waller,9/21/2021,Applied,LinkedIn,White,Pending
+APP00851,OPEN0047,Ryan Mills,10/4/2021,Screen,LinkedIn,White,Pending
+APP00852,OPEN0047,Sandra Roy,10/3/2021,Screen,LinkedIn,Black,Pending
+APP00853,OPEN0047,William Chavez,9/20/2021,Interview,LinkedIn,White,Pending
+APP00854,OPEN0047,Jason Hughes,9/21/2021,Applied,LinkedIn,White,Pending
+APP00855,OPEN0047,Nicole Henry,9/19/2021,Offer,LinkedIn,White,Pending
+APP00856,OPEN0047,James Thomas,9/29/2021,Applied,LinkedIn,Asian,Pending
+APP00857,OPEN0047,Michael Smith,9/20/2021,Hired,LinkedIn,White,Hired
+APP00858,OPEN0047,Cathy Harris,9/21/2021,Screen,LinkedIn,Black,Pending
+APP00859,OPEN0047,Jasmine Henry,9/25/2021,Offer,LinkedIn,Asian,Pending
+APP00860,OPEN0048,Frances Jenkins,3/2/2019,Applied,LinkedIn,Hispanic,Pending
+APP00861,OPEN0048,Edward Edwards,3/2/2019,Applied,LinkedIn,White,Pending
+APP00862,OPEN0048,Andrew Miller,2/10/2019,Applied,LinkedIn,Black,Pending
+APP00863,OPEN0048,Blake Daniel,2/11/2019,Applied,LinkedIn,White,Pending
+APP00864,OPEN0048,James Mclaughlin,2/24/2019,Applied,LinkedIn,White,Pending
+APP00865,OPEN0048,Nancy Williams,2/13/2019,Applied,LinkedIn,White,Pending
+APP00866,OPEN0048,Christopher Ramsey,2/7/2019,Applied,LinkedIn,White,Pending
+APP00867,OPEN0048,Christopher Skinner,2/19/2019,Applied,LinkedIn,Hispanic,Pending
+APP00868,OPEN0048,Benjamin Sanchez,3/4/2019,Screen,LinkedIn,White,Pending
+APP00869,OPEN0048,Brad Ray,2/20/2019,Screen,LinkedIn,White,Pending
+APP00870,OPEN0048,Shelly Wilson,3/3/2019,Applied,LinkedIn,Asian,Pending
+APP00871,OPEN0048,Anthony Strong,2/6/2019,Applied,LinkedIn,White,Pending
+APP00872,OPEN0048,Nathan Oneill,2/7/2019,Applied,LinkedIn,White,Pending
+APP00873,OPEN0048,Destiny Clarke,2/4/2019,Applied,LinkedIn,Asian,Pending
+APP00874,OPEN0048,Kevin Harmon,2/13/2019,Applied,LinkedIn,Black,Pending
+APP00875,OPEN0048,Robert Ray,2/16/2019,Applied,LinkedIn,White,Pending
+APP00876,OPEN0048,Kelly Johnson,2/14/2019,Applied,LinkedIn,White,Pending
+APP00877,OPEN0049,Kristin Gonzalez,4/26/2018,Applied,LinkedIn,Hispanic,Pending
+APP00878,OPEN0049,James Sherman,4/29/2018,Screen,LinkedIn,Asian,Pending
+APP00879,OPEN0049,Blake Boone,5/18/2018,Offer,LinkedIn,White,Pending
+APP00880,OPEN0049,Jonathan Flores,5/2/2018,Interview,LinkedIn,White,Pending
+APP00881,OPEN0049,Judy Brown,4/28/2018,Applied,LinkedIn,White,Pending
+APP00882,OPEN0049,Levi Miller,5/4/2018,Screen,LinkedIn,White,Pending
+APP00883,OPEN0049,Mary Flowers,5/6/2018,Applied,LinkedIn,White,Pending
+APP00884,OPEN0049,Eric Robinson,5/7/2018,Applied,LinkedIn,Black,Pending
+APP00885,OPEN0049,Jeffery King,5/5/2018,Applied,LinkedIn,White,Pending
+APP00886,OPEN0049,Tiffany Watson,5/2/2018,Screen,LinkedIn,Black,Pending
+APP00887,OPEN0049,Devon Robinson,5/15/2018,Applied,LinkedIn,White,Pending
+APP00888,OPEN0049,Adrienne Pratt,5/22/2018,Screen,LinkedIn,White,Pending
+APP00889,OPEN0049,Hector Diaz,4/29/2018,Applied,LinkedIn,Hispanic,Pending
+APP00890,OPEN0050,Amanda Young,11/6/2020,Screen,LinkedIn,White,Pending
+APP00891,OPEN0050,Linda Lopez,11/23/2020,Screen,LinkedIn,White,Pending
+APP00892,OPEN0050,Kimberly Villegas,11/6/2020,Applied,LinkedIn,Black,Pending
+APP00893,OPEN0050,Charles Stokes,10/30/2020,Applied,LinkedIn,Asian,Pending
+APP00894,OPEN0050,Lauren Norris,11/7/2020,Screen,LinkedIn,White,Pending
+APP00895,OPEN0050,Kevin Gonzalez,11/2/2020,Applied,LinkedIn,Hispanic,Pending
+APP00896,OPEN0050,Debra Williams,10/30/2020,Screen,LinkedIn,White,Pending
+APP00897,OPEN0050,Brad Moore,11/9/2020,Interview,LinkedIn,White,Pending
+APP00898,OPEN0050,Melissa Frazier,11/8/2020,Applied,LinkedIn,Asian,Pending
+APP00899,OPEN0050,David Rivera,11/12/2020,Interview,LinkedIn,White,Pending
+APP00900,OPEN0050,Kelli Smith,11/12/2020,Screen,LinkedIn,White,Pending
+APP00901,OPEN0050,Jeremy Mclaughlin,11/16/2020,Offer,LinkedIn,White,Pending
+APP00902,OPEN0050,Amber Fuentes,11/6/2020,Applied,LinkedIn,Hispanic,Pending
+APP00903,OPEN0050,Jordan Baird,11/5/2020,Applied,LinkedIn,Asian,Pending
+APP00904,OPEN0050,Debra Walker,11/7/2020,Applied,LinkedIn,Black,Pending
+APP00905,OPEN0050,Rebecca Patrick,11/17/2020,Applied,LinkedIn,White,Pending
+APP00906,OPEN0050,Lori Smith,11/2/2020,Offer,LinkedIn,Asian,Pending
+APP00907,OPEN0050,Jessica Hicks,11/14/2020,Applied,LinkedIn,White,Pending
+APP00908,OPEN0050,Tiffany Nichols,11/10/2020,Screen,LinkedIn,Hispanic,Pending
+APP00909,OPEN0050,Paul Oconnor,11/16/2020,Applied,LinkedIn,White,Pending
+APP00910,OPEN0050,Bruce Hart,11/25/2020,Offer,LinkedIn,White,Pending
+APP00911,OPEN0051,Samuel Mclean,4/15/2018,Applied,Campus,Hispanic,Pending
+APP00912,OPEN0051,Douglas Stevenson,3/21/2018,Applied,Campus,Hispanic,Pending
+APP00913,OPEN0051,Kevin Morrison,4/10/2018,Screen,Campus,White,Pending
+APP00914,OPEN0051,Elaine Sullivan,3/24/2018,Applied,Campus,Hispanic,Pending
+APP00915,OPEN0051,Valerie Cooper,3/31/2018,Applied,Campus,Black,Pending
+APP00916,OPEN0051,James Stanton,4/11/2018,Applied,Campus,White,Pending
+APP00917,OPEN0051,Gregory Luna,3/26/2018,Applied,Campus,Black,Pending
+APP00918,OPEN0051,Robert Flores,3/20/2018,Applied,Campus,Hispanic,Pending
+APP00919,OPEN0051,Timothy Jordan,3/24/2018,Screen,Campus,White,Pending
+APP00920,OPEN0051,Teresa Friedman,4/4/2018,Screen,Campus,White,Pending
+APP00921,OPEN0052,Brandon Edwards,3/5/2022,Interview,Indeed,White,Pending
+APP00922,OPEN0052,Jose Howell,2/8/2022,Applied,Indeed,White,Pending
+APP00923,OPEN0052,Diane Cunningham,2/27/2022,Applied,Indeed,White,Pending
+APP00924,OPEN0052,Michele Frazier,2/9/2022,Offer,Indeed,Black,Pending
+APP00925,OPEN0052,Andrea Meza,2/8/2022,Applied,Indeed,White,Pending
+APP00926,OPEN0052,Raymond Sims,2/16/2022,Applied,Indeed,Black,Pending
+APP00927,OPEN0052,Dawn Daniels,2/6/2022,Offer,Indeed,Asian,Pending
+APP00928,OPEN0052,Ryan Reed,2/5/2022,Screen,Indeed,Black,Pending
+APP00929,OPEN0052,Tonya Cox,3/1/2022,Interview,Indeed,Black,Pending
+APP00930,OPEN0052,Tammy Ford,2/12/2022,Applied,Indeed,White,Pending
+APP00931,OPEN0052,Mrs. Kara Ross,2/18/2022,Interview,Indeed,Asian,Pending
+APP00932,OPEN0052,Steve Fox,2/16/2022,Interview,Indeed,Asian,Pending
+APP00933,OPEN0052,Elizabeth Butler,2/4/2022,Applied,Indeed,Asian,Pending
+APP00934,OPEN0052,Antonio Williams,2/5/2022,Screen,Indeed,White,Pending
+APP00935,OPEN0052,Alan Thompson,3/4/2022,Interview,Indeed,White,Pending
+APP00936,OPEN0052,Debra Nixon,2/15/2022,Applied,Indeed,Asian,Pending
+APP00937,OPEN0052,Matthew Fisher,3/1/2022,Applied,Indeed,White,Pending
+APP00938,OPEN0052,Debra Frye,2/8/2022,Applied,Indeed,Asian,Pending
+APP00939,OPEN0052,Jessica Evans,3/5/2022,Interview,Indeed,White,Pending
+APP00940,OPEN0052,Shawn Adams,3/5/2022,Screen,Indeed,White,Pending
+APP00941,OPEN0052,Jenny Pena,2/22/2022,Screen,Indeed,White,Pending
+APP00942,OPEN0053,Christine Ramirez,3/31/2023,Applied,Referral,Asian,Pending
+APP00943,OPEN0053,John Davenport,4/15/2023,Applied,Referral,White,Pending
+APP00944,OPEN0053,Wendy Middleton,4/13/2023,Interview,Referral,Hispanic,Pending
+APP00945,OPEN0053,Amanda Rivera,4/17/2023,Applied,Referral,White,Pending
+APP00946,OPEN0053,Shane Brooks,3/28/2023,Offer,Referral,Black,Pending
+APP00947,OPEN0053,Kelly Kidd,4/8/2023,Offer,Referral,Asian,Pending
+APP00948,OPEN0053,Steven Leach,4/16/2023,Interview,Referral,White,Pending
+APP00949,OPEN0053,Dan Fisher,4/7/2023,Applied,Referral,Black,Pending
+APP00950,OPEN0053,Neil Miller,4/22/2023,Interview,Referral,Hispanic,Pending
+APP00951,OPEN0053,Jennifer Tucker,4/5/2023,Screen,Referral,White,Pending
+APP00952,OPEN0053,Paul Carr,3/24/2023,Screen,Referral,White,Pending
+APP00953,OPEN0053,Jessica Roberts MD,4/21/2023,Interview,Referral,Asian,Pending
+APP00954,OPEN0053,Jennifer Willis,4/22/2023,Screen,Referral,Hispanic,Pending
+APP00955,OPEN0053,Andrew Reyes,3/30/2023,Applied,Referral,White,Pending
+APP00956,OPEN0053,Courtney Reynolds,3/29/2023,Applied,Referral,White,Pending
+APP00957,OPEN0053,Scott Gomez,4/4/2023,Applied,Referral,White,Pending
+APP00958,OPEN0053,Holly Rodriguez,4/3/2023,Interview,Referral,White,Pending
+APP00959,OPEN0053,Wesley Clark,3/25/2023,Screen,Referral,White,Pending
+APP00960,OPEN0053,Garrett Schultz,3/24/2023,Applied,Referral,Black,Pending
+APP00961,OPEN0053,Eduardo Johnson,4/18/2023,Interview,Referral,Hispanic,Pending
+APP00962,OPEN0053,Chad White,3/28/2023,Applied,Referral,White,Pending
+APP00963,OPEN0053,Albert Gillespie,4/13/2023,Applied,Referral,Asian,Pending
+APP00964,OPEN0053,Stephanie Simon,4/10/2023,Applied,Referral,White,Pending
+APP00965,OPEN0053,Nichole Nguyen,3/28/2023,Screen,Referral,White,Pending
+APP00966,OPEN0054,Matthew Grimes,6/24/2019,Applied,Referral,White,Pending
+APP00967,OPEN0054,Sara Morrow,6/26/2019,Screen,Referral,White,Pending
+APP00968,OPEN0054,Stephanie Anderson,7/11/2019,Applied,Referral,White,Pending
+APP00969,OPEN0054,Victor Martin,7/18/2019,Applied,Referral,White,Pending
+APP00970,OPEN0054,Cindy Bates,7/11/2019,Screen,Referral,Asian,Pending
+APP00971,OPEN0054,Darryl Brown,7/12/2019,Screen,Referral,Black,Pending
+APP00972,OPEN0054,Katrina Hernandez,7/10/2019,Applied,Referral,White,Pending
+APP00973,OPEN0054,Christine Weaver,7/9/2019,Interview,Referral,White,Pending
+APP00974,OPEN0054,Jeremy Martinez,7/14/2019,Applied,Referral,Black,Pending
+APP00975,OPEN0054,Sandra Hines,7/5/2019,Applied,Referral,Black,Pending
+APP00976,OPEN0054,Michelle Duncan,7/1/2019,Interview,Referral,White,Pending
+APP00977,OPEN0054,Jackson Huynh,6/26/2019,Screen,Referral,Hispanic,Pending
+APP00978,OPEN0054,Megan Lewis,6/29/2019,Screen,Referral,Black,Pending
+APP00979,OPEN0054,Julie Jones,7/15/2019,Offer,Referral,White,Pending
+APP00980,OPEN0054,Michael Kim,6/24/2019,Interview,Referral,Black,Pending
+APP00981,OPEN0054,Lydia Martin,7/17/2019,Applied,Referral,White,Pending
+APP00982,OPEN0054,William Crawford,7/15/2019,Interview,Referral,White,Pending
+APP00983,OPEN0054,Ruben Stewart,6/29/2019,Interview,Referral,White,Pending
+APP00984,OPEN0054,Patrick Klein,7/3/2019,Screen,Referral,Black,Pending
+APP00985,OPEN0054,Michael Davis,6/27/2019,Screen,Referral,Hispanic,Pending
+APP00986,OPEN0054,Karen Smith,6/25/2019,Applied,Referral,White,Pending
+APP00987,OPEN0054,Rebecca Lucero MD,6/30/2019,Applied,Referral,Asian,Pending
+APP00988,OPEN0054,Jessica Bryan,7/18/2019,Applied,Referral,Hispanic,Pending
+APP00989,OPEN0054,Nathan Fleming,6/26/2019,Interview,Referral,White,Pending
+APP00990,OPEN0054,Dawn Martinez,7/1/2019,Applied,Referral,Asian,Pending
+APP00991,OPEN0054,Wanda Taylor DDS,7/5/2019,Applied,Referral,White,Pending
+APP00992,OPEN0055,Julie Marshall,10/29/2022,Offer,LinkedIn,Black,Pending
+APP00993,OPEN0055,Chad Collins,10/12/2022,Applied,LinkedIn,White,Pending
+APP00994,OPEN0055,Gloria Hawkins,10/17/2022,Interview,LinkedIn,White,Pending
+APP00995,OPEN0055,Mark Green,10/23/2022,Screen,LinkedIn,Asian,Pending
+APP00996,OPEN0055,Jennifer Sanders,10/17/2022,Interview,LinkedIn,White,Pending
+APP00997,OPEN0055,Amanda Barrett,10/23/2022,Interview,LinkedIn,White,Pending
+APP00998,OPEN0055,Seth Contreras,11/8/2022,Screen,LinkedIn,Black,Pending
+APP00999,OPEN0055,Kathy Perry,10/28/2022,Applied,LinkedIn,White,Pending
+APP01000,OPEN0055,Patrick Taylor,10/31/2022,Applied,LinkedIn,Asian,Pending
+APP01001,OPEN0055,Jorge Adams,10/15/2022,Screen,LinkedIn,White,Pending
+APP01002,OPEN0055,Lori Floyd,10/20/2022,Interview,LinkedIn,White,Pending
+APP01003,OPEN0055,Timothy Krause,11/4/2022,Applied,LinkedIn,Black,Pending
+APP01004,OPEN0055,Anthony Martin,10/13/2022,Offer,LinkedIn,White,Pending
+APP01005,OPEN0055,Thomas Gilbert,11/1/2022,Applied,LinkedIn,White,Pending
+APP01006,OPEN0055,Gregory Bowen,10/18/2022,Applied,LinkedIn,White,Pending
+APP01007,OPEN0055,Rachel Green,10/19/2022,Screen,LinkedIn,White,Pending
+APP01008,OPEN0055,Crystal Roman,11/3/2022,Applied,LinkedIn,White,Pending
+APP01009,OPEN0055,Samantha Mcbride MD,10/25/2022,Screen,LinkedIn,White,Pending
+APP01010,OPEN0055,Penny Gould,10/29/2022,Interview,LinkedIn,White,Pending
+APP01011,OPEN0055,Kristin Cruz,10/13/2022,Applied,LinkedIn,White,Pending
+APP01012,OPEN0055,Larry Gates,10/27/2022,Screen,LinkedIn,White,Pending
+APP01013,OPEN0055,David Schmidt,10/21/2022,Applied,LinkedIn,Asian,Pending
+APP01014,OPEN0055,Valerie Cunningham,10/27/2022,Screen,LinkedIn,White,Pending
+APP01015,OPEN0056,Mark Franco,4/3/2019,Applied,LinkedIn,Hispanic,Pending
+APP01016,OPEN0056,David White,4/23/2019,Interview,LinkedIn,White,Pending
+APP01017,OPEN0056,Timothy Hernandez,4/10/2019,Applied,LinkedIn,Asian,Pending
+APP01018,OPEN0056,Katie Weaver,4/9/2019,Screen,LinkedIn,Hispanic,Pending
+APP01019,OPEN0056,Jasmine Chavez,4/13/2019,Screen,LinkedIn,Black,Pending
+APP01020,OPEN0056,Danielle Williams,4/24/2019,Applied,LinkedIn,Asian,Pending
+APP01021,OPEN0056,Raymond Walker,4/6/2019,Applied,LinkedIn,White,Pending
+APP01022,OPEN0056,Traci Stone,4/14/2019,Applied,LinkedIn,White,Pending
+APP01023,OPEN0056,Cameron Brown,4/20/2019,Applied,LinkedIn,White,Pending
+APP01024,OPEN0056,Joann Shelton,4/4/2019,Screen,LinkedIn,White,Pending
+APP01025,OPEN0056,Heather Ballard,4/7/2019,Screen,LinkedIn,Black,Pending
+APP01026,OPEN0056,Michael Butler,4/27/2019,Screen,LinkedIn,White,Pending
+APP01027,OPEN0056,Elizabeth Gonzalez,4/7/2019,Screen,LinkedIn,White,Pending
+APP01028,OPEN0056,Deborah Hughes,4/6/2019,Screen,LinkedIn,White,Pending
+APP01029,OPEN0056,Robert Johnson,4/24/2019,Applied,LinkedIn,White,Pending
+APP01030,OPEN0056,Christopher Reyes,4/2/2019,Offer,LinkedIn,Black,Pending
+APP01031,OPEN0056,Ashley Hicks MD,4/21/2019,Applied,LinkedIn,White,Pending
+APP01032,OPEN0056,Joshua Richards,4/19/2019,Interview,LinkedIn,White,Pending
+APP01033,OPEN0056,Brittany Moore,4/25/2019,Interview,LinkedIn,Black,Pending
+APP01034,OPEN0057,Melanie Jones,7/12/2020,Offer,Company Website,Asian,Pending
+APP01035,OPEN0057,Laura Edwards,7/2/2020,Applied,Company Website,White,Pending
+APP01036,OPEN0057,Rick Adams,6/24/2020,Applied,Company Website,Hispanic,Pending
+APP01037,OPEN0057,Susan Shaffer,6/27/2020,Applied,Company Website,White,Pending
+APP01038,OPEN0057,Kyle Ferguson,7/2/2020,Hired,Company Website,Black,Hired
+APP01039,OPEN0057,Jessica Cole,7/2/2020,Applied,Company Website,White,Pending
+APP01040,OPEN0057,Michael White,6/25/2020,Screen,Company Website,Black,Pending
+APP01041,OPEN0057,Richard Howell,6/19/2020,Interview,Company Website,White,Pending
+APP01042,OPEN0057,Rachel Brown,7/15/2020,Screen,Company Website,White,Pending
+APP01043,OPEN0057,Leslie Carr,7/5/2020,Applied,Company Website,Black,Pending
+APP01044,OPEN0057,Jeffrey Martinez,6/22/2020,Offer,Company Website,Black,Pending
+APP01045,OPEN0057,Elizabeth Gutierrez,7/4/2020,Screen,Company Website,Black,Pending
+APP01046,OPEN0057,Katherine Walters,7/1/2020,Applied,Company Website,Black,Pending
+APP01047,OPEN0057,Ashley Ponce,7/14/2020,Screen,Company Website,White,Pending
+APP01048,OPEN0057,Stephen Bowman,6/24/2020,Applied,Company Website,Black,Pending
+APP01049,OPEN0057,Austin Gilbert,7/4/2020,Offer,Company Website,White,Pending
+APP01050,OPEN0057,Mrs. Jennifer James,6/25/2020,Screen,Company Website,Hispanic,Pending
+APP01051,OPEN0057,Yvette Myers,6/25/2020,Applied,Company Website,Asian,Pending
+APP01052,OPEN0057,Paul Burke,7/5/2020,Screen,Company Website,White,Pending
+APP01053,OPEN0057,Stephen Ramirez,6/24/2020,Applied,Company Website,White,Pending
+APP01054,OPEN0058,Sean English,4/9/2023,Screen,Indeed,Hispanic,Pending
+APP01055,OPEN0058,Lisa Baxter,4/11/2023,Screen,Indeed,White,Pending
+APP01056,OPEN0058,Anthony Gordon,4/17/2023,Applied,Indeed,White,Pending
+APP01057,OPEN0058,Kristy Hatfield,4/23/2023,Screen,Indeed,Black,Pending
+APP01058,OPEN0058,Tracy Pearson,4/2/2023,Interview,Indeed,White,Pending
+APP01059,OPEN0058,Phillip Clark,4/15/2023,Applied,Indeed,White,Pending
+APP01060,OPEN0058,Jeffrey Carr,4/27/2023,Applied,Indeed,White,Pending
+APP01061,OPEN0058,Carl Holland,3/30/2023,Screen,Indeed,White,Pending
+APP01062,OPEN0058,Leslie Flores,4/20/2023,Interview,Indeed,Asian,Pending
+APP01063,OPEN0058,Christopher Macias,4/21/2023,Screen,Indeed,White,Pending
+APP01064,OPEN0058,Laura Cochran,4/23/2023,Screen,Indeed,White,Pending
+APP01065,OPEN0058,Amber Henry,4/10/2023,Offer,Indeed,White,Pending
+APP01066,OPEN0058,Robert Carter,4/27/2023,Applied,Indeed,White,Pending
+APP01067,OPEN0058,Brian Gonzalez,4/13/2023,Applied,Indeed,White,Pending
+APP01068,OPEN0058,Jamie Cohen,3/31/2023,Offer,Indeed,Black,Pending
+APP01069,OPEN0058,Jose Smith,4/23/2023,Applied,Indeed,White,Pending
+APP01070,OPEN0059,Tamara Espinoza,11/20/2019,Interview,LinkedIn,Asian,Pending
+APP01071,OPEN0059,Daniel Robbins,11/18/2019,Screen,LinkedIn,White,Pending
+APP01072,OPEN0059,Kristina Brown,11/21/2019,Applied,LinkedIn,White,Pending
+APP01073,OPEN0059,Erik Cook,11/9/2019,Interview,LinkedIn,White,Pending
+APP01074,OPEN0059,Eric Collier,11/11/2019,Screen,LinkedIn,Black,Pending
+APP01075,OPEN0059,Cindy Brown,11/6/2019,Interview,LinkedIn,Black,Pending
+APP01076,OPEN0059,Christina Padilla,10/31/2019,Screen,LinkedIn,Hispanic,Pending
+APP01077,OPEN0059,Stephen Park,11/2/2019,Interview,LinkedIn,White,Pending
+APP01078,OPEN0059,Heather Woods,11/5/2019,Offer,LinkedIn,Hispanic,Pending
+APP01079,OPEN0059,Lonnie Ruiz,10/29/2019,Interview,LinkedIn,White,Pending
+APP01080,OPEN0059,David Howard,11/5/2019,Applied,LinkedIn,Asian,Pending
+APP01081,OPEN0059,Benjamin Nelson,11/8/2019,Interview,LinkedIn,White,Pending
+APP01082,OPEN0059,Patrick Shaw,11/10/2019,Interview,LinkedIn,White,Pending
+APP01083,OPEN0059,Leslie Watson,10/28/2019,Applied,LinkedIn,Asian,Pending
+APP01084,OPEN0059,Christopher Jimenez,11/19/2019,Screen,LinkedIn,White,Pending
+APP01085,OPEN0059,Amy Greene,10/26/2019,Interview,LinkedIn,White,Pending
+APP01086,OPEN0060,Mrs. Danielle Armstrong DVM,4/8/2018,Screen,LinkedIn,Black,Pending
+APP01087,OPEN0060,Stephen Mcmillan,4/29/2018,Applied,LinkedIn,White,Pending
+APP01088,OPEN0060,Brandon Miller,4/23/2018,Screen,LinkedIn,White,Pending
+APP01089,OPEN0060,Michelle Mills,4/23/2018,Interview,LinkedIn,Asian,Pending
+APP01090,OPEN0060,Ethan Taylor,5/7/2018,Screen,LinkedIn,Hispanic,Pending
+APP01091,OPEN0060,Jason Castro,4/14/2018,Offer,LinkedIn,White,Pending
+APP01092,OPEN0060,Gabrielle Alvarado,4/23/2018,Screen,LinkedIn,Asian,Pending
+APP01093,OPEN0060,Sydney Riddle,4/30/2018,Applied,LinkedIn,Black,Pending
+APP01094,OPEN0060,Juan Hoover,5/6/2018,Interview,LinkedIn,Asian,Pending
+APP01095,OPEN0060,Lori Smith,5/2/2018,Applied,LinkedIn,Asian,Pending
+APP01096,OPEN0060,Traci Gardner PhD,4/16/2018,Screen,LinkedIn,White,Pending
+APP01097,OPEN0060,Karen Payne,5/6/2018,Applied,LinkedIn,White,Pending
+APP01098,OPEN0060,Bryan King,4/24/2018,Screen,LinkedIn,Asian,Pending
+APP01099,OPEN0060,Crystal Waters,4/20/2018,Screen,LinkedIn,White,Pending
+APP01100,OPEN0060,Beth Johnson,4/25/2018,Interview,LinkedIn,White,Pending
+APP01101,OPEN0060,Kimberly Warren,4/18/2018,Offer,LinkedIn,White,Pending
+APP01102,OPEN0061,Christian Martinez,7/25/2021,Screen,Indeed,White,Pending
+APP01103,OPEN0061,Bruce Cook,7/9/2021,Screen,Indeed,White,Pending
+APP01104,OPEN0061,Bryan Anderson,7/21/2021,Screen,Indeed,Black,Pending
+APP01105,OPEN0061,Crystal Cabrera,7/3/2021,Applied,Indeed,Hispanic,Pending
+APP01106,OPEN0061,John Parks,7/17/2021,Applied,Indeed,White,Pending
+APP01107,OPEN0061,Erik Harris,7/6/2021,Applied,Indeed,Black,Pending
+APP01108,OPEN0061,Patrick Daniels,7/20/2021,Applied,Indeed,Asian,Pending
+APP01109,OPEN0061,Sandra Smith,7/26/2021,Applied,Indeed,Asian,Pending
+APP01110,OPEN0061,Debra Gonzalez,7/19/2021,Applied,Indeed,White,Pending
+APP01111,OPEN0061,Jeremy Simpson,7/2/2021,Screen,Indeed,Black,Pending
+APP01112,OPEN0061,Mrs. Brooke Burnett,7/26/2021,Applied,Indeed,White,Pending
+APP01113,OPEN0062,Mr. Allen Curtis MD,5/9/2019,Offer,Indeed,Hispanic,Pending
+APP01114,OPEN0062,Daniel Allen,4/22/2019,Screen,Indeed,White,Pending
+APP01115,OPEN0062,Sabrina Guerra,4/30/2019,Applied,Indeed,White,Pending
+APP01116,OPEN0062,David Johnson,4/25/2019,Applied,Indeed,White,Pending
+APP01117,OPEN0062,Katrina Flores,4/22/2019,Screen,Indeed,Asian,Pending
+APP01118,OPEN0062,Jeanette Davis,4/23/2019,Screen,Indeed,White,Pending
+APP01119,OPEN0062,Jennifer Dixon,4/29/2019,Offer,Indeed,White,Pending
+APP01120,OPEN0062,Gary Snow,4/26/2019,Screen,Indeed,White,Pending
+APP01121,OPEN0062,Brittney Rodriguez,5/17/2019,Applied,Indeed,White,Pending
+APP01122,OPEN0062,Connie Gregory,5/6/2019,Screen,Indeed,Black,Pending
+APP01123,OPEN0062,Amanda Hughes,4/23/2019,Interview,Indeed,White,Pending
+APP01124,OPEN0062,Dr. Joseph Smith,5/17/2019,Screen,Indeed,White,Pending
+APP01125,OPEN0062,Anthony Cole,5/8/2019,Offer,Indeed,White,Pending
+APP01126,OPEN0062,David Smith,5/9/2019,Offer,Indeed,Black,Pending
+APP01127,OPEN0062,Randy Vasquez,4/24/2019,Offer,Indeed,White,Pending
+APP01128,OPEN0062,Ashley Young,5/8/2019,Screen,Indeed,White,Pending
+APP01129,OPEN0062,Denise White,4/22/2019,Applied,Indeed,Asian,Pending
+APP01130,OPEN0062,Robin Woodard,5/10/2019,Applied,Indeed,Asian,Pending
+APP01131,OPEN0063,Victoria Jones,5/28/2020,Applied,Indeed,White,Pending
+APP01132,OPEN0063,Tiffany Jones,6/2/2020,Screen,Indeed,White,Pending
+APP01133,OPEN0063,Wesley Dillon,5/24/2020,Screen,Indeed,Black,Pending
+APP01134,OPEN0063,Taylor Oconnor,6/10/2020,Applied,Indeed,White,Pending
+APP01135,OPEN0063,George Hernandez,5/27/2020,Applied,Indeed,Asian,Pending
+APP01136,OPEN0063,Jennifer Gentry,5/30/2020,Offer,Indeed,Asian,Pending
+APP01137,OPEN0063,Julie Duke,6/2/2020,Applied,Indeed,Black,Pending
+APP01138,OPEN0063,Joseph Lucas,6/3/2020,Screen,Indeed,White,Pending
+APP01139,OPEN0063,Mark Rodgers,6/4/2020,Interview,Indeed,White,Pending
+APP01140,OPEN0063,Barbara Hill,6/4/2020,Interview,Indeed,White,Pending
+APP01141,OPEN0063,Lisa Floyd,6/12/2020,Screen,Indeed,Black,Pending
+APP01142,OPEN0063,Jacob Hines,6/12/2020,Hired,Indeed,White,Hired
+APP01143,OPEN0063,Jose Thompson,5/28/2020,Interview,Indeed,White,Pending
+APP01144,OPEN0063,Krystal Smith,5/23/2020,Applied,Indeed,White,Pending
+APP01145,OPEN0063,Anthony Cowan,6/11/2020,Screen,Indeed,Asian,Pending
+APP01146,OPEN0063,Cheryl Pena,6/13/2020,Screen,Indeed,White,Pending
+APP01147,OPEN0063,Dr. Lisa Williams,6/6/2020,Applied,Indeed,White,Pending
+APP01148,OPEN0063,Christina Munoz,5/30/2020,Applied,Indeed,White,Pending
+APP01149,OPEN0063,Michael Taylor,5/21/2020,Interview,Indeed,Hispanic,Pending
+APP01150,OPEN0064,Larry Morgan,5/12/2019,Applied,Company Website,White,Pending
+APP01151,OPEN0064,David Yang,5/18/2019,Applied,Company Website,Black,Pending
+APP01152,OPEN0064,Lisa Burns,5/28/2019,Applied,Company Website,White,Pending
+APP01153,OPEN0064,Kayla Kramer,5/13/2019,Applied,Company Website,Black,Pending
+APP01154,OPEN0064,Colin Sutton,5/18/2019,Screen,Company Website,White,Pending
+APP01155,OPEN0064,Rose Mata,5/23/2019,Applied,Company Website,Asian,Pending
+APP01156,OPEN0064,Chad Villarreal,5/28/2019,Applied,Company Website,Black,Pending
+APP01157,OPEN0064,Tamara Morris,5/26/2019,Applied,Company Website,Black,Pending
+APP01158,OPEN0064,Michael Grant,6/1/2019,Applied,Company Website,Asian,Pending
+APP01159,OPEN0064,Jillian Bailey,5/19/2019,Applied,Company Website,Black,Pending
+APP01160,OPEN0064,Donald King,5/29/2019,Applied,Company Website,Black,Pending
+APP01161,OPEN0064,Steven Morris,6/9/2019,Interview,Company Website,Asian,Pending
+APP01162,OPEN0064,Martha Parrish,6/4/2019,Applied,Company Website,White,Pending
+APP01163,OPEN0064,Tony Logan,6/4/2019,Interview,Company Website,Asian,Pending
+APP01164,OPEN0064,Luke Clements,6/6/2019,Applied,Company Website,White,Pending
+APP01165,OPEN0064,Steven Hernandez,5/18/2019,Applied,Company Website,Black,Pending
+APP01166,OPEN0065,Susan Johnson,10/10/2019,Interview,Campus,Black,Pending
+APP01167,OPEN0065,Alexandra Moss,9/27/2019,Interview,Campus,White,Pending
+APP01168,OPEN0065,Jacob Scott,10/13/2019,Screen,Campus,White,Pending
+APP01169,OPEN0065,Rebekah Sanchez,9/20/2019,Applied,Campus,White,Pending
+APP01170,OPEN0065,Shane Young,9/26/2019,Applied,Campus,White,Pending
+APP01171,OPEN0065,Sandra Moreno,9/19/2019,Applied,Campus,White,Pending
+APP01172,OPEN0065,Brian Levy,10/13/2019,Applied,Campus,White,Pending
+APP01173,OPEN0065,Peter Garcia,10/14/2019,Interview,Campus,White,Pending
+APP01174,OPEN0065,Teresa Warren,10/1/2019,Offer,Campus,White,Pending
+APP01175,OPEN0065,Kevin Sparks,10/12/2019,Screen,Campus,Black,Pending
+APP01176,OPEN0065,Joseph Adams,10/2/2019,Screen,Campus,Hispanic,Pending
+APP01177,OPEN0065,Sara Schaefer,10/8/2019,Applied,Campus,Black,Pending
+APP01178,OPEN0065,Crystal Mcconnell,9/21/2019,Interview,Campus,Black,Pending
+APP01179,OPEN0065,Casey Ortiz,10/2/2019,Offer,Campus,White,Pending
+APP01180,OPEN0065,Jennifer Wilson,9/20/2019,Interview,Campus,White,Pending
+APP01181,OPEN0066,Michael Stewart,11/10/2021,Interview,LinkedIn,White,Pending
+APP01182,OPEN0066,Zachary Bell,11/25/2021,Applied,LinkedIn,White,Pending
+APP01183,OPEN0066,Brian Jenkins,11/16/2021,Applied,LinkedIn,Hispanic,Pending
+APP01184,OPEN0066,Dalton Silva,11/3/2021,Applied,LinkedIn,Black,Pending
+APP01185,OPEN0066,Tony Jenkins,11/24/2021,Offer,LinkedIn,White,Pending
+APP01186,OPEN0066,Andrea Huber,11/20/2021,Interview,LinkedIn,White,Pending
+APP01187,OPEN0066,Christopher Haynes,11/13/2021,Applied,LinkedIn,Asian,Pending
+APP01188,OPEN0066,David Crane,11/23/2021,Applied,LinkedIn,White,Pending
+APP01189,OPEN0066,Heather Sutton,11/18/2021,Screen,LinkedIn,White,Pending
+APP01190,OPEN0066,Shannon Potter,11/4/2021,Applied,LinkedIn,White,Pending
+APP01191,OPEN0066,Michael Pierce,11/10/2021,Screen,LinkedIn,White,Pending
+APP01192,OPEN0066,David Hawkins,11/15/2021,Screen,LinkedIn,White,Pending
+APP01193,OPEN0066,Shirley Yang,11/9/2021,Applied,LinkedIn,Black,Pending
+APP01194,OPEN0066,John Perry MD,11/13/2021,Offer,LinkedIn,Black,Pending
+APP01195,OPEN0066,Angela Lane,11/20/2021,Applied,LinkedIn,White,Pending
+APP01196,OPEN0066,Carlos Sanchez,10/29/2021,Screen,LinkedIn,White,Pending
+APP01197,OPEN0066,Crystal Rocha,11/17/2021,Interview,LinkedIn,Black,Pending
+APP01198,OPEN0066,Jacqueline Strickland,10/30/2021,Screen,LinkedIn,Hispanic,Pending
+APP01199,OPEN0066,Kathryn Owens,11/22/2021,Interview,LinkedIn,White,Pending
+APP01200,OPEN0066,Patrick Brown,11/4/2021,Applied,LinkedIn,White,Pending
+APP01201,OPEN0066,Tim Carter,11/7/2021,Applied,LinkedIn,Black,Pending
+APP01202,OPEN0067,Colton Olsen,9/25/2023,Interview,Company Website,White,Pending
+APP01203,OPEN0067,Sharon Clarke,8/31/2023,Applied,Company Website,White,Pending
+APP01204,OPEN0067,Jorge Jenkins,8/30/2023,Applied,Company Website,White,Pending
+APP01205,OPEN0067,Steven Santos,9/2/2023,Interview,Company Website,Black,Pending
+APP01206,OPEN0067,Javier Clark,9/6/2023,Applied,Company Website,White,Pending
+APP01207,OPEN0067,James Tanner,9/23/2023,Screen,Company Website,Asian,Pending
+APP01208,OPEN0067,Carly Chase,9/15/2023,Interview,Company Website,Asian,Pending
+APP01209,OPEN0067,Michael Ross,9/6/2023,Applied,Company Website,Black,Pending
+APP01210,OPEN0067,Cindy Bailey,9/7/2023,Interview,Company Website,White,Pending
+APP01211,OPEN0067,Holly Williams,9/25/2023,Screen,Company Website,Black,Pending
+APP01212,OPEN0067,Stephanie Davis,9/17/2023,Applied,Company Website,White,Pending
+APP01213,OPEN0067,Christina Robinson,9/12/2023,Applied,Company Website,White,Pending
+APP01214,OPEN0067,Jennifer Diaz,9/7/2023,Applied,Company Website,White,Pending
+APP01215,OPEN0067,Jason Anderson,9/26/2023,Offer,Company Website,White,Pending
+APP01216,OPEN0067,Darrell Sanchez,8/31/2023,Screen,Company Website,White,Pending
+APP01217,OPEN0067,Wesley Watson,9/8/2023,Applied,Company Website,Black,Pending
+APP01218,OPEN0067,Theresa King,9/22/2023,Applied,Company Website,Black,Pending
+APP01219,OPEN0067,Nicole Friedman DVM,9/10/2023,Screen,Company Website,White,Pending
+APP01220,OPEN0068,Matthew Lawson,6/5/2018,Screen,LinkedIn,White,Pending
+APP01221,OPEN0068,Matthew Nichols,5/20/2018,Applied,LinkedIn,White,Pending
+APP01222,OPEN0068,Timothy Mcconnell,5/8/2018,Screen,LinkedIn,Asian,Pending
+APP01223,OPEN0068,Ryan Franklin,6/5/2018,Interview,LinkedIn,White,Pending
+APP01224,OPEN0068,Jennifer Carlson,6/5/2018,Applied,LinkedIn,White,Pending
+APP01225,OPEN0068,Brandon Thompson,5/8/2018,Applied,LinkedIn,White,Pending
+APP01226,OPEN0068,Joseph Long,6/5/2018,Screen,LinkedIn,Black,Pending
+APP01227,OPEN0068,Joshua Bauer,5/27/2018,Interview,LinkedIn,Asian,Pending
+APP01228,OPEN0068,Julie Romero,5/21/2018,Interview,LinkedIn,White,Pending
+APP01229,OPEN0068,Robert Wright,6/1/2018,Interview,LinkedIn,White,Pending
+APP01230,OPEN0068,Leah Bullock,6/4/2018,Screen,LinkedIn,White,Pending
+APP01231,OPEN0068,Samuel Diaz,6/1/2018,Screen,LinkedIn,Hispanic,Pending
+APP01232,OPEN0068,Sara Brown,6/5/2018,Interview,LinkedIn,White,Pending
+APP01233,OPEN0068,Jacob Burke,6/4/2018,Screen,LinkedIn,Asian,Pending
+APP01234,OPEN0068,Shannon Perry,6/4/2018,Interview,LinkedIn,White,Pending
+APP01235,OPEN0068,Timothy Bennett,6/4/2018,Applied,LinkedIn,White,Pending
+APP01236,OPEN0068,David Day,5/27/2018,Applied,LinkedIn,Black,Pending
+APP01237,OPEN0068,Kevin Smith,5/27/2018,Interview,LinkedIn,White,Pending
+APP01238,OPEN0068,Melissa Jones,5/25/2018,Screen,LinkedIn,Asian,Pending
+APP01239,OPEN0068,Mrs. Amber Patel,5/27/2018,Screen,LinkedIn,White,Pending
+APP01240,OPEN0068,Cynthia Sellers,6/2/2018,Applied,LinkedIn,White,Pending
+APP01241,OPEN0068,Barbara Brooks,5/31/2018,Applied,LinkedIn,Black,Pending
+APP01242,OPEN0068,Kristopher Shields,5/27/2018,Applied,LinkedIn,Asian,Pending
+APP01243,OPEN0068,Casey Beard,5/9/2018,Screen,LinkedIn,Black,Pending
+APP01244,OPEN0068,Mark Jarvis,5/18/2018,Applied,LinkedIn,White,Pending
+APP01245,OPEN0069,Cynthia Stewart,9/17/2023,Applied,LinkedIn,White,Pending
+APP01246,OPEN0069,Tonya Duncan,8/23/2023,Applied,LinkedIn,Hispanic,Pending
+APP01247,OPEN0069,Angela Hernandez,8/27/2023,Screen,LinkedIn,White,Pending
+APP01248,OPEN0069,Dominique Garza,9/9/2023,Applied,LinkedIn,Black,Pending
+APP01249,OPEN0069,Terry Meyer,8/26/2023,Offer,LinkedIn,White,Pending
+APP01250,OPEN0069,David Wu,9/15/2023,Offer,LinkedIn,Black,Pending
+APP01251,OPEN0069,Jack Rogers,9/4/2023,Interview,LinkedIn,White,Pending
+APP01252,OPEN0069,Jill Thornton,9/17/2023,Applied,LinkedIn,White,Pending
+APP01253,OPEN0069,Richard Ferguson PhD,9/2/2023,Screen,LinkedIn,White,Pending
+APP01254,OPEN0069,Michele Lowe,9/14/2023,Interview,LinkedIn,White,Pending
+APP01255,OPEN0069,Vincent Stewart,9/2/2023,Interview,LinkedIn,Black,Pending
+APP01256,OPEN0069,Catherine Spencer,9/4/2023,Applied,LinkedIn,White,Pending
+APP01257,OPEN0069,Kelli Lopez,9/6/2023,Screen,LinkedIn,Hispanic,Pending
+APP01258,OPEN0069,John Adams,9/11/2023,Screen,LinkedIn,Hispanic,Pending
+APP01259,OPEN0069,Jessica Mccullough,8/21/2023,Screen,LinkedIn,Asian,Pending
+APP01260,OPEN0069,Samantha Barton,9/14/2023,Applied,LinkedIn,White,Pending
+APP01261,OPEN0069,Garrett Villanueva,8/25/2023,Offer,LinkedIn,White,Pending
+APP01262,OPEN0069,Jesse Lowery,8/31/2023,Applied,LinkedIn,Asian,Pending
+APP01263,OPEN0069,Frank Jackson,9/6/2023,Screen,LinkedIn,Black,Pending
+APP01264,OPEN0069,Lori Reeves,8/20/2023,Interview,LinkedIn,White,Pending
+APP01265,OPEN0069,Tiffany Bailey,9/10/2023,Screen,LinkedIn,White,Pending
+APP01266,OPEN0069,Kathleen Mcdonald,8/21/2023,Applied,LinkedIn,White,Pending
+APP01267,OPEN0069,Kimberly Lynch,9/5/2023,Applied,LinkedIn,White,Pending
+APP01268,OPEN0069,Justin Fields,9/11/2023,Applied,LinkedIn,White,Pending
+APP01269,OPEN0070,John Cruz,5/21/2023,Applied,Indeed,White,Pending
+APP01270,OPEN0070,Suzanne Diaz,5/12/2023,Applied,Indeed,White,Pending
+APP01271,OPEN0070,William Butler,5/10/2023,Interview,Indeed,White,Pending
+APP01272,OPEN0070,Kathryn Smith,5/5/2023,Applied,Indeed,White,Pending
+APP01273,OPEN0070,Veronica Buck,4/29/2023,Applied,Indeed,White,Pending
+APP01274,OPEN0070,Matthew Livingston,4/23/2023,Screen,Indeed,Black,Pending
+APP01275,OPEN0070,Jeremiah Curry,5/5/2023,Interview,Indeed,White,Pending
+APP01276,OPEN0070,Matthew King,4/29/2023,Applied,Indeed,Black,Pending
+APP01277,OPEN0070,Cody Meyer,5/10/2023,Applied,Indeed,White,Pending
+APP01278,OPEN0070,Amanda Gordon,5/18/2023,Interview,Indeed,White,Pending
+APP01279,OPEN0071,Stefanie Shaw,1/14/2020,Applied,LinkedIn,Black,Pending
+APP01280,OPEN0071,Cheryl Patrick,12/18/2019,Offer,LinkedIn,White,Pending
+APP01281,OPEN0071,Herbert Jackson,12/30/2019,Offer,LinkedIn,Asian,Pending
+APP01282,OPEN0071,Angela Rogers,12/23/2019,Applied,LinkedIn,Black,Pending
+APP01283,OPEN0071,Brad Mitchell,12/30/2019,Interview,LinkedIn,White,Pending
+APP01284,OPEN0071,Bryce Gordon,12/28/2019,Applied,LinkedIn,White,Pending
+APP01285,OPEN0071,Susan Wright,12/26/2019,Screen,LinkedIn,White,Pending
+APP01286,OPEN0071,Reginald Ramirez,1/14/2020,Screen,LinkedIn,White,Pending
+APP01287,OPEN0071,Timothy Scott,1/14/2020,Applied,LinkedIn,White,Pending
+APP01288,OPEN0071,Austin Ford,1/14/2020,Interview,LinkedIn,White,Pending
+APP01289,OPEN0071,Chris Mayo,12/18/2019,Interview,LinkedIn,Asian,Pending
+APP01290,OPEN0071,Kevin Reyes,1/10/2020,Applied,LinkedIn,Black,Pending
+APP01291,OPEN0071,James Guerrero,12/22/2019,Screen,LinkedIn,White,Pending
+APP01292,OPEN0071,Miguel Miller,1/5/2020,Interview,LinkedIn,White,Pending
+APP01293,OPEN0071,Kristin Hunter,12/26/2019,Offer,LinkedIn,Black,Pending
+APP01294,OPEN0071,Susan Cortez,12/19/2019,Interview,LinkedIn,White,Pending
+APP01295,OPEN0071,Tracy Smith,1/2/2020,Screen,LinkedIn,Asian,Pending
+APP01296,OPEN0072,Mary Bolton,9/27/2018,Applied,Indeed,Hispanic,Pending
+APP01297,OPEN0072,Shannon Ramirez MD,9/15/2018,Applied,Indeed,Asian,Pending
+APP01298,OPEN0072,Linda Conley,9/17/2018,Applied,Indeed,White,Pending
+APP01299,OPEN0072,Sara Harris,9/23/2018,Applied,Indeed,White,Pending
+APP01300,OPEN0072,David Barker,9/20/2018,Screen,Indeed,Black,Pending
+APP01301,OPEN0072,John Schmidt,9/13/2018,Screen,Indeed,White,Pending
+APP01302,OPEN0072,Timothy Castro,9/30/2018,Applied,Indeed,White,Pending
+APP01303,OPEN0072,Kevin Gay,9/21/2018,Applied,Indeed,Black,Pending
+APP01304,OPEN0073,Parker Washington,12/25/2020,Applied,Indeed,Black,Pending
+APP01305,OPEN0073,Daniel Miller,1/10/2021,Applied,Indeed,Asian,Pending
+APP01306,OPEN0073,John Guzman,12/28/2020,Applied,Indeed,Asian,Pending
+APP01307,OPEN0073,Vincent Carlson,1/9/2021,Screen,Indeed,White,Pending
+APP01308,OPEN0073,Justin Williams,1/5/2021,Applied,Indeed,White,Pending
+APP01309,OPEN0073,Erin Stephens,1/4/2021,Applied,Indeed,Black,Pending
+APP01310,OPEN0073,Andrew Meyers,1/3/2021,Applied,Indeed,White,Pending
+APP01311,OPEN0073,Mr. Charles Ramirez,1/3/2021,Screen,Indeed,Asian,Pending
+APP01312,OPEN0073,Christopher Moore,12/28/2020,Applied,Indeed,Black,Pending
+APP01313,OPEN0074,Vicki Chen,9/11/2023,Screen,Indeed,White,Pending
+APP01314,OPEN0074,Maxwell White,8/19/2023,Screen,Indeed,Asian,Pending
+APP01315,OPEN0074,Pamela Norman,8/22/2023,Screen,Indeed,White,Pending
+APP01316,OPEN0074,Monique Morris DVM,8/17/2023,Screen,Indeed,White,Pending
+APP01317,OPEN0074,Latasha Brennan,8/20/2023,Screen,Indeed,Hispanic,Pending
+APP01318,OPEN0074,Stacy Butler,8/13/2023,Screen,Indeed,Asian,Pending
+APP01319,OPEN0074,Laura Tucker,8/22/2023,Applied,Indeed,White,Pending
+APP01320,OPEN0074,Richard Robinson,8/17/2023,Applied,Indeed,Asian,Pending
+APP01321,OPEN0074,Susan Roberts,8/18/2023,Applied,Indeed,Black,Pending
+APP01322,OPEN0074,Dawn Kelly,8/31/2023,Applied,Indeed,White,Pending
+APP01323,OPEN0074,Emily Smith,9/6/2023,Applied,Indeed,Black,Pending
+APP01324,OPEN0074,Krista Bryan,8/29/2023,Screen,Indeed,Black,Pending
+APP01325,OPEN0074,Michelle Mejia,8/21/2023,Screen,Indeed,White,Pending
+APP01326,OPEN0074,Matthew Lowe,8/13/2023,Screen,Indeed,White,Pending
+APP01327,OPEN0074,Jeffrey Rodgers,8/19/2023,Screen,Indeed,Black,Pending
+APP01328,OPEN0074,Gabriel Johnson,8/28/2023,Screen,Indeed,White,Pending
+APP01329,OPEN0074,Bill Edwards,8/18/2023,Screen,Indeed,White,Pending
+APP01330,OPEN0074,Brad Bowers,8/23/2023,Applied,Indeed,Black,Pending
+APP01331,OPEN0074,Michael Anderson,9/2/2023,Screen,Indeed,White,Pending
+APP01332,OPEN0074,Deborah Martinez,8/29/2023,Applied,Indeed,Asian,Pending
+APP01333,OPEN0074,Timothy Reid,8/14/2023,Offer,Indeed,White,Pending
+APP01334,OPEN0074,Carlos Clark,8/17/2023,Applied,Indeed,White,Pending
+APP01335,OPEN0074,Scott Robbins,8/13/2023,Applied,Indeed,Asian,Pending
+APP01336,OPEN0074,Peter Rivera,8/26/2023,Applied,Indeed,White,Pending
+APP01337,OPEN0075,Nathaniel Ayers,3/9/2022,Screen,LinkedIn,White,Pending
+APP01338,OPEN0075,Jessica Adams,3/10/2022,Applied,LinkedIn,Black,Pending
+APP01339,OPEN0075,James Houston,2/25/2022,Applied,LinkedIn,White,Pending
+APP01340,OPEN0075,Mary Lynch,2/18/2022,Interview,LinkedIn,Black,Pending
+APP01341,OPEN0075,Jacqueline Marshall,3/4/2022,Screen,LinkedIn,White,Pending
+APP01342,OPEN0075,Lauren Harvey,3/1/2022,Interview,LinkedIn,White,Pending
+APP01343,OPEN0075,Jared Flores,3/6/2022,Screen,LinkedIn,White,Pending
+APP01344,OPEN0075,Amy Walsh,2/17/2022,Hired,LinkedIn,White,Hired
+APP01345,OPEN0075,Rebecca Smith,3/7/2022,Applied,LinkedIn,Hispanic,Pending
+APP01346,OPEN0075,Elizabeth Ayala,3/10/2022,Interview,LinkedIn,White,Pending
+APP01347,OPEN0075,Sandra Alexander,3/6/2022,Screen,LinkedIn,Asian,Pending
+APP01348,OPEN0075,Timothy Hart,3/16/2022,Screen,LinkedIn,White,Pending
+APP01349,OPEN0075,Tammy Barnes,2/27/2022,Interview,LinkedIn,White,Pending
+APP01350,OPEN0075,John Trujillo,2/20/2022,Applied,LinkedIn,White,Pending
+APP01351,OPEN0075,Nicole Edwards,3/10/2022,Applied,LinkedIn,White,Pending
+APP01352,OPEN0075,Eric Baxter,3/3/2022,Offer,LinkedIn,White,Pending
+APP01353,OPEN0075,Danielle Macdonald,3/1/2022,Hired,LinkedIn,Black,Hired
+APP01354,OPEN0075,Adrian Morris MD,3/5/2022,Applied,LinkedIn,Asian,Pending
+APP01355,OPEN0075,Jeremy Gallagher,3/1/2022,Interview,LinkedIn,White,Pending
+APP01356,OPEN0075,Lisa Douglas,2/24/2022,Applied,LinkedIn,Black,Pending
+APP01357,OPEN0075,Nathan Reeves,3/6/2022,Applied,LinkedIn,Hispanic,Pending
+APP01358,OPEN0075,William Archer,3/13/2022,Hired,LinkedIn,White,Hired
+APP01359,OPEN0075,Blake Garza,3/7/2022,Applied,LinkedIn,Asian,Pending
+APP01360,OPEN0075,Danny Campbell,3/17/2022,Interview,LinkedIn,Hispanic,Pending
+APP01361,OPEN0075,James Stanley,3/4/2022,Screen,LinkedIn,Black,Pending
+APP01362,OPEN0076,James Vaughn,3/6/2020,Applied,Indeed,Asian,Pending
+APP01363,OPEN0076,Todd Allen,3/11/2020,Screen,Indeed,White,Pending
+APP01364,OPEN0076,Jodi Clayton,3/17/2020,Screen,Indeed,White,Pending
+APP01365,OPEN0076,Michael Johnson,2/25/2020,Screen,Indeed,Asian,Pending
+APP01366,OPEN0076,Scott Garcia,2/18/2020,Screen,Indeed,Hispanic,Pending
+APP01367,OPEN0076,Melanie Lynch,3/17/2020,Applied,Indeed,White,Pending
+APP01368,OPEN0076,Erin Neal,3/7/2020,Screen,Indeed,White,Pending
+APP01369,OPEN0076,James Shannon,3/8/2020,Screen,Indeed,White,Pending
+APP01370,OPEN0076,Michelle Gray,2/24/2020,Interview,Indeed,White,Pending
+APP01371,OPEN0076,Dan Jordan,3/7/2020,Applied,Indeed,Hispanic,Pending
+APP01372,OPEN0076,Mary Howard,3/12/2020,Applied,Indeed,White,Pending
+APP01373,OPEN0076,Jesus Mccormick,3/1/2020,Screen,Indeed,White,Pending
+APP01374,OPEN0076,Ashley James,3/16/2020,Applied,Indeed,White,Pending
+APP01375,OPEN0076,Jennifer Calhoun,3/8/2020,Interview,Indeed,White,Pending
+APP01376,OPEN0076,Megan Barber,2/20/2020,Interview,Indeed,Asian,Pending
+APP01377,OPEN0076,Yvonne Foster,2/19/2020,Interview,Indeed,White,Pending
+APP01378,OPEN0076,Steve Black,2/19/2020,Hired,Indeed,White,Hired
+APP01379,OPEN0076,Edward Chung,2/26/2020,Screen,Indeed,White,Pending
+APP01380,OPEN0076,Patricia Quinn,3/6/2020,Applied,Indeed,White,Pending
+APP01381,OPEN0076,Carlos Moore,3/18/2020,Offer,Indeed,White,Pending
+APP01382,OPEN0076,Michaela Davis,2/18/2020,Applied,Indeed,Black,Pending
+APP01383,OPEN0076,Rose Shaffer,3/18/2020,Screen,Indeed,Asian,Pending
+APP01384,OPEN0076,Amanda Diaz,3/14/2020,Interview,Indeed,Hispanic,Pending
+APP01385,OPEN0076,April Smith,2/24/2020,Applied,Indeed,Black,Pending
+APP01386,OPEN0076,Debbie Cantu,3/3/2020,Screen,Indeed,Black,Pending
+APP01387,OPEN0076,Mr. Samuel Flores,2/26/2020,Applied,Indeed,White,Pending
+APP01388,OPEN0076,Sarah Drake,3/17/2020,Offer,Indeed,White,Pending
+APP01389,OPEN0077,Daniel Garcia,1/8/2018,Offer,Company Website,White,Pending
+APP01390,OPEN0077,Daniel Graham,1/28/2018,Applied,Company Website,White,Pending
+APP01391,OPEN0077,Christopher Molina,1/29/2018,Screen,Company Website,White,Pending
+APP01392,OPEN0077,Peter Mercer,1/10/2018,Applied,Company Website,White,Pending
+APP01393,OPEN0077,Nathan Torres,1/20/2018,Screen,Company Website,Black,Pending
+APP01394,OPEN0077,Joseph George,1/21/2018,Offer,Company Website,Asian,Pending
+APP01395,OPEN0077,Sarah Fleming,1/31/2018,Interview,Company Website,White,Pending
+APP01396,OPEN0077,Stephen Moore,1/19/2018,Offer,Company Website,White,Pending
+APP01397,OPEN0077,Abigail Khan MD,1/18/2018,Screen,Company Website,Asian,Pending
+APP01398,OPEN0077,Amy Gray,1/12/2018,Offer,Company Website,White,Pending
+APP01399,OPEN0077,Teresa Blankenship,1/19/2018,Screen,Company Website,White,Pending
+APP01400,OPEN0077,Mark Weiss,1/16/2018,Hired,Company Website,White,Hired
+APP01401,OPEN0077,Jamie Newman,1/8/2018,Screen,Company Website,White,Pending
+APP01402,OPEN0077,Hannah Rogers,1/8/2018,Interview,Company Website,White,Pending
+APP01403,OPEN0077,Donald Hopkins,1/9/2018,Screen,Company Website,White,Pending
+APP01404,OPEN0077,Earl Galvan,1/24/2018,Screen,Company Website,White,Pending
+APP01405,OPEN0077,Richard Hansen,1/5/2018,Applied,Company Website,Asian,Pending
+APP01406,OPEN0077,Nicole Crawford,1/23/2018,Screen,Company Website,Black,Pending
+APP01407,OPEN0077,Vanessa Young,1/8/2018,Screen,Company Website,Hispanic,Pending
+APP01408,OPEN0077,Deborah Morales,1/23/2018,Screen,Company Website,Black,Pending
+APP01409,OPEN0077,Robert Turner,1/12/2018,Screen,Company Website,Asian,Pending
+APP01410,OPEN0078,Monica Moore,12/18/2019,Screen,Indeed,White,Pending
+APP01411,OPEN0078,Michael Hood,12/13/2019,Interview,Indeed,White,Pending
+APP01412,OPEN0078,Daniel Barker,11/30/2019,Interview,Indeed,Black,Pending
+APP01413,OPEN0078,Carol Taylor,12/2/2019,Screen,Indeed,Asian,Pending
+APP01414,OPEN0078,Mary Estrada,12/14/2019,Interview,Indeed,White,Pending
+APP01415,OPEN0078,Whitney Smith,12/19/2019,Applied,Indeed,White,Pending
+APP01416,OPEN0078,Joshua Harris,12/24/2019,Offer,Indeed,Black,Pending
+APP01417,OPEN0078,Fernando Crawford,12/8/2019,Applied,Indeed,Asian,Pending
+APP01418,OPEN0078,Larry Shah,12/4/2019,Screen,Indeed,Asian,Pending
+APP01419,OPEN0078,Kelsey Middleton,12/25/2019,Interview,Indeed,White,Pending
+APP01420,OPEN0078,Antonio Taylor,12/3/2019,Interview,Indeed,Asian,Pending
+APP01421,OPEN0078,Patricia Carpenter,12/24/2019,Applied,Indeed,Black,Pending
+APP01422,OPEN0078,Ashley Bruce,12/17/2019,Applied,Indeed,White,Pending
+APP01423,OPEN0078,Jaclyn Ortega,12/24/2019,Applied,Indeed,White,Pending
+APP01424,OPEN0078,Christopher Davies,12/10/2019,Hired,Indeed,White,Hired
+APP01425,OPEN0078,Grace Rhodes,12/7/2019,Applied,Indeed,Black,Pending
+APP01426,OPEN0078,Bradley Diaz,12/9/2019,Screen,Indeed,Black,Pending
+APP01427,OPEN0078,Austin Schneider,12/21/2019,Applied,Indeed,White,Pending
+APP01428,OPEN0078,Jimmy Dodson,12/19/2019,Applied,Indeed,White,Pending
+APP01429,OPEN0078,Brittany Diaz,12/9/2019,Applied,Indeed,Hispanic,Pending
+APP01430,OPEN0078,Randy Raymond,12/5/2019,Offer,Indeed,White,Pending
+APP01431,OPEN0078,John Black,12/11/2019,Screen,Indeed,Hispanic,Pending
+APP01432,OPEN0078,John Brown,12/25/2019,Interview,Indeed,Asian,Pending
+APP01433,OPEN0078,Henry Logan,12/5/2019,Interview,Indeed,Black,Pending
+APP01434,OPEN0078,Austin Becker,12/20/2019,Applied,Indeed,White,Pending
+APP01435,OPEN0078,Kevin Galvan,12/11/2019,Screen,Indeed,White,Pending
+APP01436,OPEN0078,Rachel Chen,12/13/2019,Applied,Indeed,Asian,Pending
+APP01437,OPEN0079,Denise Clark,4/16/2023,Applied,LinkedIn,White,Pending
+APP01438,OPEN0079,Darlene White,4/4/2023,Applied,LinkedIn,White,Pending
+APP01439,OPEN0079,Jeffrey Wiggins,4/19/2023,Interview,LinkedIn,White,Pending
+APP01440,OPEN0079,Dominique Wright,4/10/2023,Interview,LinkedIn,White,Pending
+APP01441,OPEN0079,Michael Brewer,4/21/2023,Screen,LinkedIn,White,Pending
+APP01442,OPEN0079,James Chapman,4/28/2023,Screen,LinkedIn,White,Pending
+APP01443,OPEN0079,Mark Smith,4/15/2023,Offer,LinkedIn,White,Pending
+APP01444,OPEN0079,Patricia Clark,4/6/2023,Applied,LinkedIn,White,Pending
+APP01445,OPEN0079,Linda Johnson,4/4/2023,Offer,LinkedIn,White,Pending
+APP01446,OPEN0079,Jamie Olson,4/24/2023,Interview,LinkedIn,White,Pending
+APP01447,OPEN0079,Tara Prince,4/16/2023,Screen,LinkedIn,Black,Pending
+APP01448,OPEN0079,Shari Velasquez,4/13/2023,Screen,LinkedIn,Black,Pending
+APP01449,OPEN0079,Michael Fisher,4/4/2023,Interview,LinkedIn,Asian,Pending
+APP01450,OPEN0079,Brittany Castillo,4/24/2023,Applied,LinkedIn,Black,Pending
+APP01451,OPEN0079,Emily Peterson,4/9/2023,Applied,LinkedIn,White,Pending
+APP01452,OPEN0079,Charles Blair,4/4/2023,Offer,LinkedIn,Asian,Pending
+APP01453,OPEN0079,Frederick Peterson,4/18/2023,Interview,LinkedIn,Black,Pending
+APP01454,OPEN0080,Gina Bender,8/14/2018,Screen,Indeed,White,Pending
+APP01455,OPEN0080,Melanie Martin,8/1/2018,Applied,Indeed,White,Pending
+APP01456,OPEN0080,Kim Johnson,7/22/2018,Screen,Indeed,White,Pending
+APP01457,OPEN0080,Natalie Massey,7/23/2018,Applied,Indeed,Hispanic,Pending
+APP01458,OPEN0080,Paul Green,8/9/2018,Applied,Indeed,Asian,Pending
+APP01459,OPEN0080,Nancy Gentry,8/10/2018,Screen,Indeed,White,Pending
+APP01460,OPEN0080,Sarah Smith,8/6/2018,Applied,Indeed,White,Pending
+APP01461,OPEN0080,Michele Case,7/24/2018,Interview,Indeed,Black,Pending
+APP01462,OPEN0080,Rachel Mclaughlin,7/29/2018,Applied,Indeed,White,Pending
+APP01463,OPEN0080,Gabriela Cobb,7/31/2018,Applied,Indeed,Asian,Pending
+APP01464,OPEN0080,Sarah Potter,7/30/2018,Applied,Indeed,White,Pending
+APP01465,OPEN0080,Mark Jacobs,7/21/2018,Applied,Indeed,White,Pending
+APP01466,OPEN0080,Elizabeth Butler,8/11/2018,Applied,Indeed,White,Pending
+APP01467,OPEN0080,Michelle Perez,8/13/2018,Applied,Indeed,White,Pending
+APP01468,OPEN0080,Dylan Stewart,8/14/2018,Screen,Indeed,Hispanic,Pending
+APP01469,OPEN0080,Steven Anderson,8/9/2018,Applied,Indeed,Black,Pending
+APP01470,OPEN0080,John Perez,7/28/2018,Applied,Indeed,White,Pending
+APP01471,OPEN0080,Jasmine Stark,7/19/2018,Applied,Indeed,Black,Pending
+APP01472,OPEN0080,Mark Evans,8/14/2018,Applied,Indeed,White,Pending
+APP01473,OPEN0080,Melanie Bowman,7/24/2018,Applied,Indeed,White,Pending
+APP01474,OPEN0080,Taylor Scott,8/5/2018,Screen,Indeed,White,Pending
+APP01475,OPEN0080,Kyle Parks,7/22/2018,Applied,Indeed,White,Pending
+APP01476,OPEN0081,Heidi Ware,5/20/2023,Interview,Indeed,White,Pending
+APP01477,OPEN0081,Samuel Figueroa,5/20/2023,Interview,Indeed,Asian,Pending
+APP01478,OPEN0081,Aaron Jones,4/29/2023,Applied,Indeed,White,Pending
+APP01479,OPEN0081,Zachary Young,5/1/2023,Applied,Indeed,White,Pending
+APP01480,OPEN0081,Whitney Carrillo,5/19/2023,Screen,Indeed,White,Pending
+APP01481,OPEN0081,Barbara Vega MD,5/5/2023,Screen,Indeed,Asian,Pending
+APP01482,OPEN0081,Suzanne Lee,5/8/2023,Interview,Indeed,White,Pending
+APP01483,OPEN0081,James Ortiz,4/28/2023,Applied,Indeed,Hispanic,Pending
+APP01484,OPEN0081,Deanna Gallegos,5/6/2023,Applied,Indeed,Asian,Pending
+APP01485,OPEN0081,Jacqueline Sweeney,5/1/2023,Interview,Indeed,White,Pending
+APP01486,OPEN0081,Dennis Romero,5/12/2023,Screen,Indeed,Hispanic,Pending
+APP01487,OPEN0081,Jessica Mullen,4/28/2023,Interview,Indeed,White,Pending
+APP01488,OPEN0081,Carrie Greene,5/5/2023,Applied,Indeed,White,Pending
+APP01489,OPEN0081,Clarence Parker,5/9/2023,Screen,Indeed,White,Pending
+APP01490,OPEN0081,Christopher Clayton,5/13/2023,Applied,Indeed,Asian,Pending
+APP01491,OPEN0081,Lawrence Peters,4/30/2023,Interview,Indeed,Black,Pending
+APP01492,OPEN0081,Brenda James,5/21/2023,Applied,Indeed,White,Pending
+APP01493,OPEN0081,Jason Hall,4/28/2023,Interview,Indeed,White,Pending
+APP01494,OPEN0081,Alexander Jones,5/14/2023,Interview,Indeed,White,Pending
+APP01495,OPEN0081,Daniel Johnson,5/5/2023,Applied,Indeed,Black,Pending
+APP01496,OPEN0081,Rachel Hanson,5/8/2023,Applied,Indeed,White,Pending
+APP01497,OPEN0081,April Miller,4/24/2023,Applied,Indeed,White,Pending
+APP01498,OPEN0081,Nicholas King,5/2/2023,Applied,Indeed,Black,Pending
+APP01499,OPEN0081,Allen Hoffman,5/6/2023,Screen,Indeed,Black,Pending
+APP01500,OPEN0081,Loretta Rojas,5/22/2023,Applied,Indeed,Asian,Pending
+APP01501,OPEN0081,Misty Reilly,5/9/2023,Offer,Indeed,White,Pending
+APP01502,OPEN0081,Timothy Stout,4/27/2023,Applied,Indeed,White,Pending
+APP01503,OPEN0081,Margaret Banks,4/23/2023,Applied,Indeed,Black,Pending
+APP01504,OPEN0081,Pamela Glover,5/22/2023,Interview,Indeed,White,Pending
+APP01505,OPEN0082,Francis Grant,2/19/2019,Applied,Referral,White,Pending
+APP01506,OPEN0082,David Payne,2/18/2019,Screen,Referral,Asian,Pending
+APP01507,OPEN0082,Caleb Allen,2/8/2019,Interview,Referral,Black,Pending
+APP01508,OPEN0082,Patty Howard,2/23/2019,Applied,Referral,White,Pending
+APP01509,OPEN0082,Patricia Vance,2/10/2019,Applied,Referral,White,Pending
+APP01510,OPEN0082,Rita Daniels,2/19/2019,Applied,Referral,White,Pending
+APP01511,OPEN0082,Joshua Curry,2/12/2019,Applied,Referral,Black,Pending
+APP01512,OPEN0082,Ebony Morris,2/14/2019,Screen,Referral,White,Pending
+APP01513,OPEN0082,Richard Hernandez,1/30/2019,Interview,Referral,Hispanic,Pending
+APP01514,OPEN0082,Joseph Ortiz,2/8/2019,Applied,Referral,Black,Pending
+APP01515,OPEN0082,Matthew Obrien,2/13/2019,Applied,Referral,Asian,Pending
+APP01516,OPEN0082,Nathan Clark,2/16/2019,Screen,Referral,White,Pending
+APP01517,OPEN0083,Stacy Gonzales,3/31/2020,Applied,Referral,White,Pending
+APP01518,OPEN0083,John Collins,3/21/2020,Screen,Referral,Black,Pending
+APP01519,OPEN0083,Steven Sloan,4/2/2020,Interview,Referral,White,Pending
+APP01520,OPEN0083,Mrs. Pamela Nicholson,3/26/2020,Interview,Referral,Asian,Pending
+APP01521,OPEN0083,Robert Berg,3/27/2020,Screen,Referral,White,Pending
+APP01522,OPEN0083,Kenneth Sanchez,4/4/2020,Screen,Referral,White,Pending
+APP01523,OPEN0083,Autumn Lee,3/16/2020,Screen,Referral,White,Pending
+APP01524,OPEN0083,Tammy Mann,3/9/2020,Interview,Referral,White,Pending
+APP01525,OPEN0083,Robert Patterson,3/26/2020,Screen,Referral,White,Pending
+APP01526,OPEN0083,Christopher Taylor,3/14/2020,Screen,Referral,Black,Pending
+APP01527,OPEN0083,Jose Moore,3/23/2020,Interview,Referral,White,Pending
+APP01528,OPEN0083,Elizabeth Barnett,4/3/2020,Applied,Referral,White,Pending
+APP01529,OPEN0083,Joseph Baker,3/16/2020,Screen,Referral,White,Pending
+APP01530,OPEN0083,Andrea Henderson,3/30/2020,Applied,Referral,Black,Pending
+APP01531,OPEN0083,Barbara Solis,3/13/2020,Offer,Referral,Hispanic,Pending
+APP01532,OPEN0083,Hannah Reed,3/28/2020,Screen,Referral,White,Pending
+APP01533,OPEN0084,Nancy Cox,6/7/2019,Applied,Indeed,White,Pending
+APP01534,OPEN0084,Stacy Frazier,5/21/2019,Screen,Indeed,White,Pending
+APP01535,OPEN0084,Diana Martin,5/23/2019,Applied,Indeed,White,Pending
+APP01536,OPEN0084,Michael Adams,5/31/2019,Applied,Indeed,White,Pending
+APP01537,OPEN0084,Olivia Lucas,6/1/2019,Applied,Indeed,White,Pending
+APP01538,OPEN0084,Erika Melendez,6/2/2019,Applied,Indeed,White,Pending
+APP01539,OPEN0084,Laura Shepherd,5/18/2019,Applied,Indeed,White,Pending
+APP01540,OPEN0084,Isabel Wise,5/30/2019,Screen,Indeed,Asian,Pending
+APP01541,OPEN0084,Craig Wu,5/25/2019,Applied,Indeed,Hispanic,Pending
+APP01542,OPEN0084,Nicholas Berry,5/27/2019,Applied,Indeed,White,Pending
+APP01543,OPEN0084,Larry Lynch,5/27/2019,Applied,Indeed,White,Pending
+APP01544,OPEN0084,Jamie Farley,5/25/2019,Applied,Indeed,White,Pending
+APP01545,OPEN0084,Daniel Rodriguez,5/18/2019,Applied,Indeed,White,Pending
+APP01546,OPEN0085,Kenneth Ingram,7/17/2022,Screen,Company Website,Black,Pending
+APP01547,OPEN0085,Sandra Elliott,8/5/2022,Screen,Company Website,Hispanic,Pending
+APP01548,OPEN0085,Brian Woods,8/2/2022,Screen,Company Website,White,Pending
+APP01549,OPEN0085,Nicholas Moore,7/22/2022,Applied,Company Website,Black,Pending
+APP01550,OPEN0085,Tony Hogan,7/30/2022,Screen,Company Website,White,Pending
+APP01551,OPEN0085,Jared Miller,8/12/2022,Applied,Company Website,White,Pending
+APP01552,OPEN0085,Tanya Brown,7/29/2022,Interview,Company Website,White,Pending
+APP01553,OPEN0085,Dustin Smith,8/1/2022,Applied,Company Website,White,Pending
+APP01554,OPEN0085,Angela Horton,8/6/2022,Screen,Company Website,White,Pending
+APP01555,OPEN0085,Katrina Hernandez,7/18/2022,Screen,Company Website,White,Pending
+APP01556,OPEN0085,Zachary Williams,7/31/2022,Applied,Company Website,White,Pending
+APP01557,OPEN0085,Jessica Johnson,8/2/2022,Applied,Company Website,White,Pending
+APP01558,OPEN0085,Cynthia Moore,8/8/2022,Applied,Company Website,Asian,Pending
+APP01559,OPEN0086,Stacey Alexander,12/24/2018,Applied,LinkedIn,White,Pending
+APP01560,OPEN0086,Savannah Anderson,12/14/2018,Applied,LinkedIn,Black,Pending
+APP01561,OPEN0086,Heather Wilson,12/20/2018,Screen,LinkedIn,White,Pending
+APP01562,OPEN0086,Kelly Murray,11/30/2018,Screen,LinkedIn,White,Pending
+APP01563,OPEN0086,Alexander Holt,12/21/2018,Interview,LinkedIn,White,Pending
+APP01564,OPEN0086,Caroline Scott,12/26/2018,Screen,LinkedIn,White,Pending
+APP01565,OPEN0086,Margaret Leon,12/3/2018,Interview,LinkedIn,White,Pending
+APP01566,OPEN0086,William Johnson,12/2/2018,Applied,LinkedIn,Black,Pending
+APP01567,OPEN0086,Darren Lloyd,12/12/2018,Applied,LinkedIn,Black,Pending
+APP01568,OPEN0086,Justin Burgess,12/8/2018,Applied,LinkedIn,White,Pending
+APP01569,OPEN0086,Marcus Obrien,12/20/2018,Interview,LinkedIn,Hispanic,Pending
+APP01570,OPEN0086,Stephen Williams,12/10/2018,Applied,LinkedIn,Black,Pending
+APP01571,OPEN0086,Stephen Chang,12/21/2018,Interview,LinkedIn,White,Pending
+APP01572,OPEN0086,Crystal Morales,12/16/2018,Applied,LinkedIn,Black,Pending
+APP01573,OPEN0086,Crystal Smith,12/5/2018,Interview,LinkedIn,Hispanic,Pending
+APP01574,OPEN0086,Louis Brown,12/6/2018,Applied,LinkedIn,White,Pending
+APP01575,OPEN0086,Valerie Foster,12/27/2018,Applied,LinkedIn,Black,Pending
+APP01576,OPEN0086,Noah Sexton,12/26/2018,Screen,LinkedIn,Black,Pending
+APP01577,OPEN0086,John Williams,12/14/2018,Applied,LinkedIn,White,Pending
+APP01578,OPEN0087,Lisa Phillips,7/3/2023,Applied,LinkedIn,Black,Pending
+APP01579,OPEN0087,Brian Anderson,6/17/2023,Offer,LinkedIn,Black,Pending
+APP01580,OPEN0087,Robert Jones,6/27/2023,Offer,LinkedIn,Asian,Pending
+APP01581,OPEN0087,Denise Parker,7/3/2023,Interview,LinkedIn,Black,Pending
+APP01582,OPEN0087,Lawrence Moody,6/14/2023,Screen,LinkedIn,Black,Pending
+APP01583,OPEN0087,Edward Bowers,7/4/2023,Applied,LinkedIn,White,Pending
+APP01584,OPEN0087,Christopher Molina,6/13/2023,Screen,LinkedIn,Black,Pending
+APP01585,OPEN0087,Holly Marquez,7/2/2023,Interview,LinkedIn,White,Pending
+APP01586,OPEN0087,Ashlee Johnson,7/6/2023,Interview,LinkedIn,White,Pending
+APP01587,OPEN0087,Brian Gutierrez,7/6/2023,Applied,LinkedIn,Asian,Pending
+APP01588,OPEN0087,Victor Elliott,6/10/2023,Applied,LinkedIn,White,Pending
+APP01589,OPEN0087,Julie Kim,6/28/2023,Applied,LinkedIn,Asian,Pending
+APP01590,OPEN0087,Angela Buck,7/6/2023,Screen,LinkedIn,Asian,Pending
+APP01591,OPEN0087,Tamara Cuevas,6/26/2023,Interview,LinkedIn,Black,Pending
+APP01592,OPEN0087,Lisa Russell,7/5/2023,Interview,LinkedIn,White,Pending
+APP01593,OPEN0087,Janice Taylor,6/11/2023,Screen,LinkedIn,White,Pending
+APP01594,OPEN0087,Teresa Leonard,6/9/2023,Interview,LinkedIn,White,Pending
+APP01595,OPEN0087,Lindsey Villanueva,6/18/2023,Offer,LinkedIn,Black,Pending
+APP01596,OPEN0087,Jessica Williams,6/22/2023,Applied,LinkedIn,White,Pending
+APP01597,OPEN0087,Tony Weber,6/7/2023,Interview,LinkedIn,Asian,Pending
+APP01598,OPEN0087,Denise White,6/26/2023,Offer,LinkedIn,Black,Pending
+APP01599,OPEN0087,Jason Washington,6/14/2023,Offer,LinkedIn,Asian,Pending
+APP01600,OPEN0087,Danielle Watkins,6/11/2023,Screen,LinkedIn,Hispanic,Pending
+APP01601,OPEN0087,James Wiggins,6/23/2023,Screen,LinkedIn,White,Pending
+APP01602,OPEN0087,Rebecca Phillips,6/15/2023,Screen,LinkedIn,Asian,Pending
+APP01603,OPEN0087,Christopher Murray,6/9/2023,Interview,LinkedIn,Asian,Pending
+APP01604,OPEN0087,Ashley Hampton,7/3/2023,Applied,LinkedIn,White,Pending
+APP01605,OPEN0088,Crystal Schaefer,9/14/2023,Applied,Indeed,White,Pending
+APP01606,OPEN0088,Ryan Knight,9/10/2023,Applied,Indeed,White,Pending
+APP01607,OPEN0088,Robert Wolfe,10/4/2023,Applied,Indeed,White,Pending
+APP01608,OPEN0088,David Bauer,9/20/2023,Applied,Indeed,White,Pending
+APP01609,OPEN0088,Darren Mcknight,9/23/2023,Screen,Indeed,Black,Pending
+APP01610,OPEN0088,Stephanie Matthews,9/13/2023,Applied,Indeed,Black,Pending
+APP01611,OPEN0088,Calvin Mitchell,9/22/2023,Applied,Indeed,White,Pending
+APP01612,OPEN0088,Dawn Johnson,9/24/2023,Applied,Indeed,Asian,Pending
+APP01613,OPEN0088,Vanessa Boyer,9/7/2023,Screen,Indeed,White,Pending
+APP01614,OPEN0088,Thomas Hancock,9/11/2023,Applied,Indeed,Asian,Pending
+APP01615,OPEN0088,Justin Jones,9/13/2023,Screen,Indeed,Asian,Pending
+APP01616,OPEN0088,Thomas Taylor,9/14/2023,Interview,Indeed,White,Pending
+APP01617,OPEN0088,Holly Richards,9/28/2023,Interview,Indeed,White,Pending
+APP01618,OPEN0089,Anthony Porter,8/3/2023,Screen,LinkedIn,Black,Pending
+APP01619,OPEN0089,Roberto George,8/9/2023,Applied,LinkedIn,White,Pending
+APP01620,OPEN0089,Alison Barnett,7/31/2023,Applied,LinkedIn,Hispanic,Pending
+APP01621,OPEN0089,Donna Rivera,7/22/2023,Hired,LinkedIn,White,Hired
+APP01622,OPEN0089,Maria Horton,7/23/2023,Applied,LinkedIn,Asian,Pending
+APP01623,OPEN0089,Heidi White,8/1/2023,Screen,LinkedIn,White,Pending
+APP01624,OPEN0089,Tiffany Ward,8/4/2023,Interview,LinkedIn,White,Pending
+APP01625,OPEN0089,Julie Ballard,8/18/2023,Applied,LinkedIn,Black,Pending
+APP01626,OPEN0089,Michael Mccarthy,8/11/2023,Interview,LinkedIn,White,Pending
+APP01627,OPEN0089,Dylan Garcia DDS,8/9/2023,Applied,LinkedIn,White,Pending
+APP01628,OPEN0089,Jackie Baird,8/5/2023,Interview,LinkedIn,Asian,Pending
+APP01629,OPEN0089,Jon Wong,7/25/2023,Interview,LinkedIn,Black,Pending
+APP01630,OPEN0089,Adam Bates,8/2/2023,Interview,LinkedIn,White,Pending
+APP01631,OPEN0089,Wendy Schultz,7/23/2023,Screen,LinkedIn,White,Pending
+APP01632,OPEN0089,Charles Rocha,7/23/2023,Hired,LinkedIn,White,Hired
+APP01633,OPEN0089,Mark Torres,8/8/2023,Screen,LinkedIn,Black,Pending
+APP01634,OPEN0089,Vanessa Perez,7/23/2023,Offer,LinkedIn,Black,Pending
+APP01635,OPEN0089,Elizabeth West,8/16/2023,Screen,LinkedIn,Asian,Pending
+APP01636,OPEN0089,James Gaines,8/4/2023,Applied,LinkedIn,Black,Pending
+APP01637,OPEN0090,Shawn Stark,1/2/2023,Applied,Indeed,White,Pending
+APP01638,OPEN0090,Julie Coleman,12/19/2022,Applied,Indeed,White,Pending
+APP01639,OPEN0090,Patrick Mullins,1/15/2023,Applied,Indeed,Asian,Pending
+APP01640,OPEN0090,Ruth Andersen,1/13/2023,Applied,Indeed,White,Pending
+APP01641,OPEN0090,Michael Griffith,12/26/2022,Applied,Indeed,White,Pending
+APP01642,OPEN0090,Madeline Underwood,1/10/2023,Applied,Indeed,Black,Pending
+APP01643,OPEN0090,Sydney Pierce,1/6/2023,Applied,Indeed,White,Pending
+APP01644,OPEN0090,Teresa Campbell,12/21/2022,Applied,Indeed,Hispanic,Pending
+APP01645,OPEN0090,Joshua Mcmillan,1/12/2023,Screen,Indeed,White,Pending
+APP01646,OPEN0090,Charles Love,1/16/2023,Screen,Indeed,Black,Pending
+APP01647,OPEN0090,Willie Wong,1/8/2023,Applied,Indeed,White,Pending
+APP01648,OPEN0090,David Carroll,12/22/2022,Applied,Indeed,White,Pending
+APP01649,OPEN0090,Travis Fuller,12/27/2022,Applied,Indeed,White,Pending
+APP01650,OPEN0090,William Howard,12/24/2022,Applied,Indeed,White,Pending
+APP01651,OPEN0090,Kelly Nguyen,12/24/2022,Applied,Indeed,White,Pending
+APP01652,OPEN0090,Melissa Riley,1/12/2023,Applied,Indeed,White,Pending
+APP01653,OPEN0090,Wayne Li,1/14/2023,Applied,Indeed,White,Pending
+APP01654,OPEN0090,Briana Harris,12/25/2022,Screen,Indeed,White,Pending
+APP01655,OPEN0091,Edgar Ellis,8/21/2023,Interview,Company Website,Black,Pending
+APP01656,OPEN0091,Nicholas Smith,8/21/2023,Applied,Company Website,White,Pending
+APP01657,OPEN0091,Ann Harris,8/21/2023,Applied,Company Website,White,Pending
+APP01658,OPEN0091,John Lara,9/14/2023,Applied,Company Website,Hispanic,Pending
+APP01659,OPEN0091,Lisa Thomas,8/24/2023,Screen,Company Website,Asian,Pending
+APP01660,OPEN0091,Todd Lynch,9/4/2023,Offer,Company Website,Black,Pending
+APP01661,OPEN0091,Karen Webster,9/9/2023,Applied,Company Website,White,Pending
+APP01662,OPEN0091,Lawrence Hansen,9/13/2023,Applied,Company Website,White,Pending
+APP01663,OPEN0091,Tony Dawson,9/3/2023,Applied,Company Website,Asian,Pending
+APP01664,OPEN0091,Heather Watson,9/4/2023,Applied,Company Website,Asian,Pending
+APP01665,OPEN0091,Samuel Smith,8/26/2023,Screen,Company Website,Black,Pending
+APP01666,OPEN0091,Natalie Smith,9/15/2023,Screen,Company Website,White,Pending
+APP01667,OPEN0091,Dale Smith,9/15/2023,Applied,Company Website,White,Pending
+APP01668,OPEN0091,Alyssa Thomas,8/25/2023,Applied,Company Website,White,Pending
+APP01669,OPEN0091,Martin Mora,8/25/2023,Applied,Company Website,White,Pending
+APP01670,OPEN0091,Randall Campbell,8/23/2023,Applied,Company Website,Black,Pending
+APP01671,OPEN0091,Amy Rose,8/28/2023,Interview,Company Website,White,Pending
+APP01672,OPEN0091,Seth Scott,8/20/2023,Screen,Company Website,White,Pending
+APP01673,OPEN0092,Kristen Reed,7/18/2018,Applied,LinkedIn,White,Pending
+APP01674,OPEN0092,Suzanne Dyer,6/25/2018,Applied,LinkedIn,White,Pending
+APP01675,OPEN0092,Ashley Estrada,7/13/2018,Offer,LinkedIn,White,Pending
+APP01676,OPEN0092,Kelly Eaton,6/26/2018,Applied,LinkedIn,White,Pending
+APP01677,OPEN0092,Tyler Huffman,6/29/2018,Applied,LinkedIn,Asian,Pending
+APP01678,OPEN0092,Richard Vance,6/28/2018,Screen,LinkedIn,Black,Pending
+APP01679,OPEN0092,Christopher Ramirez,7/15/2018,Applied,LinkedIn,Black,Pending
+APP01680,OPEN0092,Erin Hill,7/13/2018,Screen,LinkedIn,White,Pending
+APP01681,OPEN0092,Bobby Melton,7/1/2018,Applied,LinkedIn,White,Pending
+APP01682,OPEN0092,Patrick Gates,7/1/2018,Screen,LinkedIn,Asian,Pending
+APP01683,OPEN0092,William Ross,6/25/2018,Screen,LinkedIn,White,Pending
+APP01684,OPEN0092,Dr. Danielle Morse,7/8/2018,Applied,LinkedIn,White,Pending
+APP01685,OPEN0092,Linda Webster,7/19/2018,Applied,LinkedIn,Hispanic,Pending
+APP01686,OPEN0092,Daniel Austin,7/11/2018,Interview,LinkedIn,Black,Pending
+APP01687,OPEN0092,Diana Washington,7/18/2018,Interview,LinkedIn,White,Pending
+APP01688,OPEN0092,John Lopez,6/26/2018,Applied,LinkedIn,White,Pending
+APP01689,OPEN0092,James Smith,7/20/2018,Applied,LinkedIn,White,Pending
+APP01690,OPEN0092,Anthony Solomon,6/27/2018,Applied,LinkedIn,White,Pending
+APP01691,OPEN0092,Timothy Morrow,7/11/2018,Applied,LinkedIn,Black,Pending
+APP01692,OPEN0092,Laura Solis,7/3/2018,Interview,LinkedIn,White,Pending
+APP01693,OPEN0092,Eric Lindsey,7/8/2018,Interview,LinkedIn,White,Pending
+APP01694,OPEN0092,Pamela Castillo,7/14/2018,Offer,LinkedIn,White,Pending
+APP01695,OPEN0092,Gerald Ramos,7/13/2018,Applied,LinkedIn,Black,Pending
+APP01696,OPEN0092,Whitney Lucero,7/7/2018,Interview,LinkedIn,Asian,Pending
+APP01697,OPEN0092,Marissa Adams,7/18/2018,Interview,LinkedIn,White,Pending
+APP01698,OPEN0092,Christopher Vazquez,7/4/2018,Applied,LinkedIn,Asian,Pending
+APP01699,OPEN0092,Taylor Clements,6/24/2018,Offer,LinkedIn,White,Pending
+APP01700,OPEN0092,Eugene Oliver,7/10/2018,Applied,LinkedIn,Asian,Pending
+APP01701,OPEN0092,Joseph Welch,6/27/2018,Offer,LinkedIn,Black,Pending
+APP01702,OPEN0092,Susan Johnson,7/4/2018,Screen,LinkedIn,White,Pending
+APP01703,OPEN0093,Nicholas Hill,6/21/2018,Applied,Indeed,White,Pending
+APP01704,OPEN0093,Courtney Campbell,6/29/2018,Offer,Indeed,White,Pending
+APP01705,OPEN0093,Juan Lopez,6/30/2018,Applied,Indeed,Black,Pending
+APP01706,OPEN0093,Yolanda Scott,6/30/2018,Interview,Indeed,Asian,Pending
+APP01707,OPEN0093,Eileen Miller,6/20/2018,Screen,Indeed,Black,Pending
+APP01708,OPEN0093,Richard Singleton,6/28/2018,Applied,Indeed,White,Pending
+APP01709,OPEN0093,Maria Johnson,7/12/2018,Hired,Indeed,White,Hired
+APP01710,OPEN0093,Krystal Smith,6/27/2018,Interview,Indeed,Black,Pending
+APP01711,OPEN0093,Joseph Higgins,7/11/2018,Applied,Indeed,White,Pending
+APP01712,OPEN0093,Shelby Wright,7/12/2018,Screen,Indeed,White,Pending
+APP01713,OPEN0093,Curtis Murphy,6/20/2018,Interview,Indeed,White,Pending
+APP01714,OPEN0093,Robert Webster,7/13/2018,Interview,Indeed,White,Pending
+APP01715,OPEN0093,Stephen Johnson,7/7/2018,Offer,Indeed,White,Pending
+APP01716,OPEN0093,Larry Torres,7/14/2018,Screen,Indeed,White,Pending
+APP01717,OPEN0093,Kimberly Wells,7/6/2018,Applied,Indeed,Black,Pending
+APP01718,OPEN0094,Susan Martinez,11/27/2023,Screen,LinkedIn,White,Pending
+APP01719,OPEN0094,Daniel Mills,12/5/2023,Interview,LinkedIn,White,Pending
+APP01720,OPEN0094,Austin Pope,11/27/2023,Interview,LinkedIn,White,Pending
+APP01721,OPEN0094,Anthony Johnson,12/1/2023,Applied,LinkedIn,Black,Pending
+APP01722,OPEN0094,Eric Duran,12/6/2023,Applied,LinkedIn,Hispanic,Pending
+APP01723,OPEN0094,Curtis Jacobson,11/12/2023,Interview,LinkedIn,White,Pending
+APP01724,OPEN0094,Janice Burke,11/23/2023,Applied,LinkedIn,Black,Pending
+APP01725,OPEN0094,Matthew Ellis,11/28/2023,Offer,LinkedIn,Black,Pending
+APP01726,OPEN0094,Bruce Campbell,12/5/2023,Screen,LinkedIn,White,Pending
+APP01727,OPEN0094,Chelsey Lewis,11/30/2023,Offer,LinkedIn,Black,Pending
+APP01728,OPEN0094,Joshua White,12/9/2023,Applied,LinkedIn,Black,Pending
+APP01729,OPEN0094,Elizabeth Solis,12/9/2023,Applied,LinkedIn,Black,Pending
+APP01730,OPEN0094,Vincent Wagner,11/28/2023,Applied,LinkedIn,White,Pending
+APP01731,OPEN0094,Jonathan Andrade,11/27/2023,Applied,LinkedIn,White,Pending
+APP01732,OPEN0094,Taylor Matthews,12/9/2023,Screen,LinkedIn,Asian,Pending
+APP01733,OPEN0094,Morgan Jones,11/19/2023,Applied,LinkedIn,White,Pending
+APP01734,OPEN0094,Alexis Sanchez,11/23/2023,Offer,LinkedIn,Asian,Pending
+APP01735,OPEN0094,Laura Hill,11/26/2023,Applied,LinkedIn,White,Pending
+APP01736,OPEN0094,Walter Ferguson,12/2/2023,Screen,LinkedIn,Asian,Pending
+APP01737,OPEN0094,Daniel Maldonado,11/17/2023,Applied,LinkedIn,White,Pending
+APP01738,OPEN0094,Zachary Johnson,12/11/2023,Screen,LinkedIn,Black,Pending
+APP01739,OPEN0095,Spencer Miller,5/20/2020,Screen,Referral,Black,Pending
+APP01740,OPEN0095,Jerry Roberts,5/21/2020,Applied,Referral,White,Pending
+APP01741,OPEN0095,Brad Collins,5/9/2020,Screen,Referral,White,Pending
+APP01742,OPEN0095,Allison Griffin,5/9/2020,Applied,Referral,Black,Pending
+APP01743,OPEN0095,Brett Rangel,5/13/2020,Screen,Referral,White,Pending
+APP01744,OPEN0095,Pamela Schultz,5/2/2020,Applied,Referral,White,Pending
+APP01745,OPEN0095,Scott Nelson,5/11/2020,Interview,Referral,White,Pending
+APP01746,OPEN0095,Tammy Edwards,5/17/2020,Applied,Referral,White,Pending
+APP01747,OPEN0095,Virginia Morgan,5/13/2020,Screen,Referral,Asian,Pending
+APP01748,OPEN0095,Maureen Sharp,5/3/2020,Screen,Referral,White,Pending
+APP01749,OPEN0096,Raymond Briggs,6/30/2020,Applied,LinkedIn,White,Pending
+APP01750,OPEN0096,Adam Turner,6/24/2020,Screen,LinkedIn,White,Pending
+APP01751,OPEN0096,Lindsay Brown,6/28/2020,Applied,LinkedIn,White,Pending
+APP01752,OPEN0096,Terry Cox,6/14/2020,Applied,LinkedIn,White,Pending
+APP01753,OPEN0096,Tanya Miller,6/14/2020,Applied,LinkedIn,White,Pending
+APP01754,OPEN0096,Michelle Hall,7/5/2020,Applied,LinkedIn,Black,Pending
+APP01755,OPEN0096,Chad Gomez,6/15/2020,Applied,LinkedIn,White,Pending
+APP01756,OPEN0096,Brian Petersen,6/26/2020,Applied,LinkedIn,White,Pending
+APP01757,OPEN0096,Anna Herrera,6/19/2020,Applied,LinkedIn,White,Pending
+APP01758,OPEN0096,Michael Harding,6/21/2020,Applied,LinkedIn,Asian,Pending
+APP01759,OPEN0096,Caitlin Galvan,7/4/2020,Screen,LinkedIn,White,Pending
+APP01760,OPEN0096,Nicholas Lee,6/19/2020,Interview,LinkedIn,White,Pending
+APP01761,OPEN0096,Marie Rodriguez,6/15/2020,Applied,LinkedIn,Black,Pending
+APP01762,OPEN0096,Jason Johnson,6/28/2020,Screen,LinkedIn,White,Pending
+APP01763,OPEN0096,Tracy Buchanan,7/1/2020,Interview,LinkedIn,Asian,Pending
+APP01764,OPEN0096,Grace Dunn,6/27/2020,Applied,LinkedIn,White,Pending
+APP01765,OPEN0097,Joanna Alvarez,11/3/2019,Applied,LinkedIn,White,Pending
+APP01766,OPEN0097,Joan Vasquez,11/2/2019,Screen,LinkedIn,Black,Pending
+APP01767,OPEN0097,Ms. Melissa Berry DDS,10/24/2019,Screen,LinkedIn,Asian,Pending
+APP01768,OPEN0097,James Brown,11/5/2019,Hired,LinkedIn,Black,Hired
+APP01769,OPEN0097,Zachary Bailey,11/11/2019,Interview,LinkedIn,White,Pending
+APP01770,OPEN0097,Michael Martin,10/29/2019,Screen,LinkedIn,White,Pending
+APP01771,OPEN0097,Dean Flores,10/19/2019,Screen,LinkedIn,Black,Pending
+APP01772,OPEN0097,Gina Vasquez,10/17/2019,Applied,LinkedIn,White,Pending
+APP01773,OPEN0097,Wayne Gallagher,11/6/2019,Interview,LinkedIn,Black,Pending
+APP01774,OPEN0097,Megan Vaughn,11/3/2019,Applied,LinkedIn,White,Pending
+APP01775,OPEN0097,Caroline Collier,10/16/2019,Hired,LinkedIn,White,Hired
+APP01776,OPEN0097,Devon Baxter,10/23/2019,Offer,LinkedIn,Hispanic,Pending
+APP01777,OPEN0097,Katie Williams,10/28/2019,Interview,LinkedIn,Black,Pending
+APP01778,OPEN0097,Micheal Rush,11/1/2019,Interview,LinkedIn,White,Pending
+APP01779,OPEN0097,Miss Kimberly Mcintosh,10/25/2019,Interview,LinkedIn,White,Pending
+APP01780,OPEN0097,Christopher Vaughn,10/14/2019,Screen,LinkedIn,White,Pending
+APP01781,OPEN0097,Abigail Salas,11/10/2019,Applied,LinkedIn,Black,Pending
+APP01782,OPEN0097,Amy Andrews PhD,10/27/2019,Screen,LinkedIn,White,Pending
+APP01783,OPEN0097,Alicia Lyons,10/21/2019,Interview,LinkedIn,Black,Pending
+APP01784,OPEN0097,Scott Benson,10/25/2019,Screen,LinkedIn,White,Pending
+APP01785,OPEN0098,Ryan Peterson,3/19/2022,Applied,LinkedIn,White,Pending
+APP01786,OPEN0098,Karen Carlson,3/22/2022,Screen,LinkedIn,Black,Pending
+APP01787,OPEN0098,Lauren Cooper,3/26/2022,Screen,LinkedIn,White,Pending
+APP01788,OPEN0098,Shannon Peterson,3/1/2022,Screen,LinkedIn,White,Pending
+APP01789,OPEN0098,Deborah Spears,3/5/2022,Applied,LinkedIn,White,Pending
+APP01790,OPEN0098,Daniel Herrera,3/6/2022,Applied,LinkedIn,White,Pending
+APP01791,OPEN0098,Ashley Johnson,3/1/2022,Applied,LinkedIn,White,Pending
+APP01792,OPEN0098,Shelly Long,3/24/2022,Applied,LinkedIn,White,Pending
+APP01793,OPEN0098,Patricia Dennis,3/2/2022,Applied,LinkedIn,White,Pending
+APP01794,OPEN0098,Claudia Brown,3/22/2022,Screen,LinkedIn,Asian,Pending
+APP01795,OPEN0098,Jessica Martin,3/13/2022,Applied,LinkedIn,Black,Pending
+APP01796,OPEN0098,Heather Moore,3/9/2022,Screen,LinkedIn,White,Pending
+APP01797,OPEN0098,James Phillips,3/16/2022,Screen,LinkedIn,White,Pending
+APP01798,OPEN0098,William Mejia,3/19/2022,Screen,LinkedIn,White,Pending
+APP01799,OPEN0098,Timothy Watts,3/8/2022,Offer,LinkedIn,White,Pending
+APP01800,OPEN0098,John Riddle,3/2/2022,Applied,LinkedIn,Black,Pending
+APP01801,OPEN0098,Stephanie Moore,3/5/2022,Screen,LinkedIn,White,Pending
+APP01802,OPEN0099,Charles Wade,4/4/2019,Interview,Referral,Hispanic,Pending
+APP01803,OPEN0099,Kayla Parker,4/4/2019,Interview,Referral,Asian,Pending
+APP01804,OPEN0099,Ian Ware,4/11/2019,Applied,Referral,Black,Pending
+APP01805,OPEN0099,Jeremy Curtis,3/25/2019,Applied,Referral,Black,Pending
+APP01806,OPEN0099,Thomas Simon,4/10/2019,Interview,Referral,Asian,Pending
+APP01807,OPEN0099,Christopher Garcia,3/20/2019,Interview,Referral,White,Pending
+APP01808,OPEN0099,Laura Wagner,3/23/2019,Applied,Referral,White,Pending
+APP01809,OPEN0099,Dale Meadows,3/24/2019,Interview,Referral,White,Pending
+APP01810,OPEN0099,Brandon Cain,3/30/2019,Applied,Referral,White,Pending
+APP01811,OPEN0099,Alexander Thomas,4/3/2019,Screen,Referral,Black,Pending
+APP01812,OPEN0099,Charles Olson,3/15/2019,Interview,Referral,Asian,Pending
+APP01813,OPEN0099,Joshua Wright,4/9/2019,Screen,Referral,White,Pending
+APP01814,OPEN0099,Stephanie Marshall,3/31/2019,Screen,Referral,Hispanic,Pending
+APP01815,OPEN0099,Cheryl Everett,4/11/2019,Applied,Referral,White,Pending
+APP01816,OPEN0099,Jeffrey Pugh,4/6/2019,Applied,Referral,White,Pending
+APP01817,OPEN0100,Danielle Nichols,10/19/2023,Interview,LinkedIn,Asian,Pending
+APP01818,OPEN0100,Kayla Williams,11/10/2023,Screen,LinkedIn,Hispanic,Pending
+APP01819,OPEN0100,Randall Andrews,11/15/2023,Applied,LinkedIn,White,Pending
+APP01820,OPEN0100,Seth Herring,10/29/2023,Applied,LinkedIn,Black,Pending
+APP01821,OPEN0100,Eric Horton,10/23/2023,Applied,LinkedIn,Asian,Pending
+APP01822,OPEN0100,Daniel Brown,11/15/2023,Applied,LinkedIn,Asian,Pending
+APP01823,OPEN0100,William Rose,10/30/2023,Applied,LinkedIn,White,Pending
+APP01824,OPEN0100,Garrett Cameron,11/5/2023,Applied,LinkedIn,White,Pending
+APP01825,OPEN0100,Mr. Brendan Williams,11/8/2023,Applied,LinkedIn,White,Pending
+APP01826,OPEN0100,Jamie Jones,10/19/2023,Applied,LinkedIn,Black,Pending
+APP01827,OPEN0100,Rebecca Best,10/30/2023,Applied,LinkedIn,Black,Pending
+APP01828,OPEN0100,Paul Wallace,10/20/2023,Applied,LinkedIn,White,Pending

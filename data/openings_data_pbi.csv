@@ -1,0 +1,101 @@
+opening_id,department,job_title,post_date,close_date,filled,source,days_to_fill
+OPEN0001,Finance,Staff Accountant,2022-11-24,2022-11-27,True,LinkedIn,3.0
+OPEN0002,Engineering,Data Engineer,2018-09-30,2018-10-12,True,Company Website,12.0
+OPEN0003,Engineering,Principal QA Engineer,2021-04-06,2021-04-15,True,Indeed,9.0
+OPEN0004,HR,Senior Business Partner,2021-03-11,2021-03-15,True,LinkedIn,4.0
+OPEN0005,Marketing,Assistant Coordinator,2021-10-04,,False,LinkedIn,
+OPEN0006,Engineering,Junior DevOps,2019-02-14,,False,LinkedIn,
+OPEN0007,Finance,Analyst,2020-08-02,2020-08-05,True,Indeed,3.0
+OPEN0008,Operations,Associate Manager,2023-12-22,2023-12-27,True,Indeed,5.0
+OPEN0009,Engineering,QA Engineer,2019-11-03,2019-11-08,True,Company Website,5.0
+OPEN0010,Engineering,Junior Data Engineer,2023-02-17,2023-02-24,True,LinkedIn,7.0
+OPEN0011,Sales,Senior SDR,2019-04-05,,False,Campus,
+OPEN0012,Operations,Manager,2023-05-19,2023-05-23,True,LinkedIn,4.0
+OPEN0013,Marketing,Senior Manager,2023-02-05,2023-02-11,True,Indeed,6.0
+OPEN0014,Finance,Manager Analyst,2019-06-03,,False,Indeed,
+OPEN0015,Engineering,Software Engineer,2020-01-12,2020-01-16,True,LinkedIn,4.0
+OPEN0016,Sales,Account Manager,2020-11-25,2020-12-03,True,Referral,8.0
+OPEN0017,Operations,Associate Analyst,2023-01-05,,False,Company Website,
+OPEN0018,Marketing,Lead Manager,2022-01-03,2022-01-11,True,LinkedIn,8.0
+OPEN0019,Sales,Enterprise Account Manager,2023-12-01,2023-12-05,True,Indeed,4.0
+OPEN0020,Operations,Analyst,2019-11-26,2019-12-01,True,LinkedIn,5.0
+OPEN0021,Marketing,Senior Director,2020-04-02,,False,Referral,
+OPEN0022,Sales,Associate Account Manager,2019-10-01,2019-10-03,True,LinkedIn,2.0
+OPEN0023,Marketing,Specialist,2019-04-27,2019-05-13,True,Indeed,16.0
+OPEN0024,HR,Assistant Business Partner,2022-01-24,2022-02-04,True,Referral,11.0
+OPEN0025,Finance,Staff Analyst,2021-01-27,2021-01-30,True,Indeed,3.0
+OPEN0026,Engineering,Software Engineer,2019-03-09,,False,LinkedIn,
+OPEN0027,HR,Recruiter,2023-07-25,2023-07-28,True,LinkedIn,3.0
+OPEN0028,Marketing,Specialist,2023-10-06,2023-10-08,True,LinkedIn,2.0
+OPEN0029,Operations,Associate Specialist,2023-08-19,,False,Company Website,
+OPEN0030,Engineering,DevOps,2019-11-07,2019-11-14,True,LinkedIn,7.0
+OPEN0031,Engineering,Principal Software Engineer,2020-03-08,2020-03-15,True,Indeed,7.0
+OPEN0032,Engineering,Lead Data Engineer,2022-05-06,,False,LinkedIn,
+OPEN0033,Sales,Senior SDR,2020-06-08,2020-06-19,True,Company Website,11.0
+OPEN0034,Engineering,Senior Software Engineer,2021-10-07,2021-10-13,True,Indeed,6.0
+OPEN0035,Sales,SDR,2021-05-27,,False,LinkedIn,
+OPEN0036,Sales,SDR,2021-12-12,2021-12-13,True,Indeed,1.0
+OPEN0037,Engineering,QA Engineer,2021-10-04,2021-10-06,True,Indeed,2.0
+OPEN0038,Finance,Analyst,2022-05-05,,False,LinkedIn,
+OPEN0039,Finance,Staff Analyst,2021-12-13,2021-12-17,True,Indeed,4.0
+OPEN0040,Operations,Analyst,2023-05-16,,False,Indeed,
+OPEN0041,Engineering,Senior Software Engineer,2018-06-06,2018-06-14,True,Company Website,8.0
+OPEN0042,Finance,Senior Analyst,2019-04-28,2019-05-08,True,Company Website,10.0
+OPEN0043,Engineering,Junior DevOps,2019-03-25,2019-04-01,True,LinkedIn,7.0
+OPEN0044,Sales,Senior Account Executive,2020-05-07,2020-05-22,True,Company Website,15.0
+OPEN0045,Marketing,Assistant Director,2022-05-17,2022-05-19,True,Referral,2.0
+OPEN0046,Marketing,Senior Director,2021-06-15,2021-06-25,True,LinkedIn,10.0
+OPEN0047,Sales,SDR,2021-09-16,2021-09-17,True,LinkedIn,1.0
+OPEN0048,Finance,Analyst,2019-02-04,,False,LinkedIn,
+OPEN0049,Sales,Account Manager,2018-04-24,2018-04-27,True,LinkedIn,3.0
+OPEN0050,Marketing,Coordinator,2020-10-29,2020-10-29,True,LinkedIn,0.0
+OPEN0051,Operations,Analyst,2018-03-17,,False,Campus,
+OPEN0052,Sales,Senior SDR,2022-02-04,2022-02-06,True,Indeed,2.0
+OPEN0053,HR,Senior Generalist,2023-03-24,2023-03-24,True,Referral,0.0
+OPEN0054,Operations,Specialist,2019-06-21,2019-06-26,True,Referral,5.0
+OPEN0055,Sales,Account Manager,2022-10-10,2022-10-13,True,LinkedIn,3.0
+OPEN0056,Engineering,Principal Software Engineer,2019-03-29,2019-04-03,True,LinkedIn,5.0
+OPEN0057,Marketing,Senior Specialist,2020-06-19,2020-06-21,True,Company Website,2.0
+OPEN0058,Engineering,Manager Software Engineer,2023-03-30,2023-03-31,True,Indeed,1.0
+OPEN0059,Marketing,Manager,2019-10-26,2019-10-31,True,LinkedIn,5.0
+OPEN0060,Marketing,Lead Specialist,2018-04-08,2018-04-11,True,LinkedIn,3.0
+OPEN0061,HR,Assistant Generalist,2021-06-29,,False,Indeed,
+OPEN0062,Operations,Associate Analyst,2019-04-20,2019-04-29,True,Indeed,9.0
+OPEN0063,Engineering,Data Engineer,2020-05-19,2020-05-25,True,Indeed,6.0
+OPEN0064,Sales,Senior Account Executive,2019-05-12,,False,Company Website,
+OPEN0065,HR,Recruiter,2019-09-18,2019-09-25,True,Campus,7.0
+OPEN0066,Sales,Senior Account Executive,2021-10-29,2021-11-09,True,LinkedIn,11.0
+OPEN0067,Engineering,Junior Data Engineer,2023-08-30,2023-09-01,True,Company Website,2.0
+OPEN0068,Finance,Controller,2018-05-08,2018-05-10,True,LinkedIn,2.0
+OPEN0069,Engineering,Software Engineer,2023-08-19,2023-08-21,True,LinkedIn,2.0
+OPEN0070,Operations,Associate Manager,2023-04-23,2023-04-29,True,Indeed,6.0
+OPEN0071,Operations,Analyst,2019-12-16,2019-12-17,True,LinkedIn,1.0
+OPEN0072,Marketing,Coordinator,2018-09-08,,False,Indeed,
+OPEN0073,Sales,Enterprise Account Executive,2020-12-24,,False,Indeed,
+OPEN0074,Engineering,Data Engineer,2023-08-13,2023-08-25,True,Indeed,12.0
+OPEN0075,HR,Recruiter,2022-02-16,2022-02-21,True,LinkedIn,5.0
+OPEN0076,Engineering,Senior Data Engineer,2020-02-18,2020-02-21,True,Indeed,3.0
+OPEN0077,Engineering,Manager Software Engineer,2018-01-04,2018-01-10,True,Company Website,6.0
+OPEN0078,Marketing,Assistant Director,2019-11-30,2019-12-10,True,Indeed,10.0
+OPEN0079,Sales,Senior SDR,2023-04-04,2023-04-08,True,LinkedIn,4.0
+OPEN0080,Engineering,QA Engineer,2018-07-17,,False,Indeed,
+OPEN0081,Engineering,Junior DevOps,2023-04-23,2023-04-28,True,Indeed,5.0
+OPEN0082,Operations,Associate Specialist,2019-01-28,,False,Referral,
+OPEN0083,Sales,Account Manager,2020-03-07,2020-03-28,True,Referral,21.0
+OPEN0084,Marketing,Senior Specialist,2019-05-11,,False,Indeed,
+OPEN0085,Sales,Enterprise Account Manager,2022-07-17,,False,Company Website,
+OPEN0086,Sales,Associate Account Executive,2018-11-28,2018-12-07,True,LinkedIn,9.0
+OPEN0087,Engineering,Junior Software Engineer,2023-06-07,2023-06-19,True,LinkedIn,12.0
+OPEN0088,Engineering,Lead QA Engineer,2023-09-06,,False,Indeed,
+OPEN0089,Engineering,Junior QA Engineer,2023-07-20,2023-07-26,True,LinkedIn,6.0
+OPEN0090,Finance,Staff Analyst,2022-12-19,,False,Indeed,
+OPEN0091,HR,Generalist,2023-08-18,2023-08-25,True,Company Website,7.0
+OPEN0092,Engineering,Junior QA Engineer,2018-06-22,2018-06-25,True,LinkedIn,3.0
+OPEN0093,Finance,Senior Analyst,2018-06-17,2018-06-18,True,Indeed,1.0
+OPEN0094,Engineering,Junior Data Engineer,2023-11-12,2023-11-21,True,LinkedIn,9.0
+OPEN0095,Operations,Associate Analyst,2020-05-01,,False,Referral,
+OPEN0096,Finance,Controller,2020-06-07,,False,LinkedIn,
+OPEN0097,Marketing,Senior Specialist,2019-10-13,2019-10-22,True,LinkedIn,9.0
+OPEN0098,Operations,Specialist,2022-02-27,2022-03-02,True,LinkedIn,3.0
+OPEN0099,HR,Manager Business Partner,2019-03-13,2019-03-16,True,Referral,3.0
+OPEN0100,Engineering,Junior QA Engineer,2023-10-17,,False,LinkedIn,

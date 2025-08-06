@@ -1,0 +1,1302 @@
+training_id,employee_id,course_name,course_type,completion_date,pre_test,post_test,hours,applied,skill_improvement
+TRN001,EMP0154,Leadership Fundamentals,Management,2022-06-09,41,48,4,0,7
+TRN001,EMP0061,Leadership Fundamentals,Management,2023-02-05,65,97,1,1,32
+TRN001,EMP0242,Leadership Fundamentals,Management,2020-10-08,40,44,2,1,4
+TRN001,EMP0055,Leadership Fundamentals,Management,2021-06-23,41,65,4,0,24
+TRN001,EMP0023,Leadership Fundamentals,Management,2022-04-24,43,58,2,0,15
+TRN001,EMP0132,Leadership Fundamentals,Management,2022-01-29,40,59,2,1,19
+TRN001,EMP0199,Leadership Fundamentals,Management,2021-12-10,56,81,2,0,25
+TRN001,EMP0083,Leadership Fundamentals,Management,2021-03-16,40,50,4,0,10
+TRN001,EMP0167,Leadership Fundamentals,Management,2021-04-05,41,61,2,0,20
+TRN001,EMP0103,Leadership Fundamentals,Management,2020-08-24,51,67,1,1,16
+TRN001,EMP0281,Leadership Fundamentals,Management,2020-12-29,43,61,1,0,18
+TRN001,EMP0279,Leadership Fundamentals,Management,2022-08-07,50,71,16,1,21
+TRN001,EMP0150,Leadership Fundamentals,Management,2021-09-06,40,57,4,0,17
+TRN001,EMP0097,Leadership Fundamentals,Management,2022-12-01,57,70,4,0,13
+TRN001,EMP0221,Leadership Fundamentals,Management,2021-05-14,60,82,4,0,22
+TRN001,EMP0010,Leadership Fundamentals,Management,2020-08-08,40,57,16,1,17
+TRN001,EMP0143,Leadership Fundamentals,Management,2022-03-14,40,50,2,0,10
+TRN001,EMP0100,Leadership Fundamentals,Management,2022-08-20,50,77,4,1,27
+TRN001,EMP0278,Leadership Fundamentals,Management,2020-08-13,48,77,2,1,29
+TRN001,EMP0004,Leadership Fundamentals,Management,2021-03-04,56,83,2,1,27
+TRN001,EMP0166,Leadership Fundamentals,Management,2023-04-05,40,57,2,0,17
+TRN001,EMP0222,Leadership Fundamentals,Management,2022-05-05,40,67,4,0,27
+TRN001,EMP0145,Leadership Fundamentals,Management,2022-08-26,43,67,2,0,24
+TRN001,EMP0293,Leadership Fundamentals,Management,2023-01-11,46,68,16,1,22
+TRN001,EMP0183,Leadership Fundamentals,Management,2021-11-19,56,67,4,0,11
+TRN001,EMP0071,Leadership Fundamentals,Management,2023-04-26,41,57,4,0,16
+TRN001,EMP0129,Leadership Fundamentals,Management,2023-12-26,40,57,8,0,17
+TRN001,EMP0021,Leadership Fundamentals,Management,2022-03-27,40,57,2,1,17
+TRN001,EMP0030,Leadership Fundamentals,Management,2020-05-30,40,55,4,0,15
+TRN001,EMP0252,Leadership Fundamentals,Management,2023-02-26,68,99,2,1,31
+TRN001,EMP0072,Leadership Fundamentals,Management,2022-03-30,45,78,2,1,33
+TRN001,EMP0230,Leadership Fundamentals,Management,2023-02-14,47,65,16,1,18
+TRN001,EMP0017,Leadership Fundamentals,Management,2021-01-12,40,61,4,0,21
+TRN001,EMP0172,Leadership Fundamentals,Management,2023-02-25,58,76,2,1,18
+TRN001,EMP0033,Leadership Fundamentals,Management,2020-03-19,50,67,4,1,17
+TRN001,EMP0015,Leadership Fundamentals,Management,2021-04-23,53,78,2,1,25
+TRN001,EMP0251,Leadership Fundamentals,Management,2022-10-12,40,62,4,0,22
+TRN001,EMP0013,Leadership Fundamentals,Management,2022-06-07,59,83,4,1,24
+TRN001,EMP0253,Leadership Fundamentals,Management,2020-04-01,49,68,16,0,19
+TRN001,EMP0079,Leadership Fundamentals,Management,2022-07-04,62,86,4,1,24
+TRN001,EMP0127,Leadership Fundamentals,Management,2022-12-16,63,88,4,0,25
+TRN001,EMP0012,Leadership Fundamentals,Management,2023-11-11,44,61,4,1,17
+TRN001,EMP0135,Leadership Fundamentals,Management,2020-02-24,62,70,2,0,8
+TRN001,EMP0170,Leadership Fundamentals,Management,2023-04-22,45,70,4,0,25
+TRN001,EMP0098,Leadership Fundamentals,Management,2023-02-10,43,64,8,0,21
+TRN001,EMP0094,Leadership Fundamentals,Management,2022-12-05,40,56,4,0,16
+TRN001,EMP0111,Leadership Fundamentals,Management,2022-04-16,40,56,2,0,16
+TRN001,EMP0028,Leadership Fundamentals,Management,2023-01-09,40,56,2,1,16
+TRN001,EMP0292,Leadership Fundamentals,Management,2021-12-23,40,57,2,0,17
+TRN001,EMP0260,Leadership Fundamentals,Management,2021-08-04,40,58,4,0,18
+TRN001,EMP0180,Leadership Fundamentals,Management,2023-10-20,58,82,2,1,24
+TRN001,EMP0211,Leadership Fundamentals,Management,2021-10-02,40,54,2,0,14
+TRN001,EMP0085,Leadership Fundamentals,Management,2022-11-16,42,59,4,0,17
+TRN001,EMP0190,Leadership Fundamentals,Management,2023-10-30,40,70,2,1,30
+TRN001,EMP0137,Leadership Fundamentals,Management,2023-06-18,47,69,4,0,22
+TRN001,EMP0149,Leadership Fundamentals,Management,2023-05-08,40,68,16,1,28
+TRN001,EMP0231,Leadership Fundamentals,Management,2023-08-20,53,73,2,1,20
+TRN001,EMP0086,Leadership Fundamentals,Management,2023-06-08,40,45,2,0,5
+TRN001,EMP0096,Leadership Fundamentals,Management,2020-11-02,46,61,1,0,15
+TRN001,EMP0280,Leadership Fundamentals,Management,2022-05-27,41,71,4,1,30
+TRN001,EMP0019,Leadership Fundamentals,Management,2022-03-19,49,76,4,1,27
+TRN001,EMP0151,Leadership Fundamentals,Management,2020-06-16,50,71,2,1,21
+TRN001,EMP0274,Leadership Fundamentals,Management,2023-01-06,51,70,4,1,19
+TRN001,EMP0191,Leadership Fundamentals,Management,2021-11-16,40,56,4,0,16
+TRN001,EMP0169,Leadership Fundamentals,Management,2023-03-23,70,81,4,1,11
+TRN001,EMP0077,Leadership Fundamentals,Management,2021-03-22,40,59,2,0,19
+TRN001,EMP0108,Leadership Fundamentals,Management,2020-05-31,49,67,8,1,18
+TRN001,EMP0259,Leadership Fundamentals,Management,2023-04-06,45,61,4,1,16
+TRN002,EMP0005,Unconscious Bias,HR,2020-07-28,71,92,4,1,21
+TRN002,EMP0206,Unconscious Bias,HR,2022-02-15,64,84,4,1,20
+TRN002,EMP0064,Unconscious Bias,HR,2021-05-16,40,58,2,0,18
+TRN002,EMP0079,Unconscious Bias,HR,2021-01-21,64,95,4,1,31
+TRN002,EMP0202,Unconscious Bias,HR,2020-12-07,54,71,2,0,17
+TRN002,EMP0300,Unconscious Bias,HR,2021-10-17,79,100,8,1,21
+TRN002,EMP0237,Unconscious Bias,HR,2023-08-27,40,60,8,0,20
+TRN002,EMP0077,Unconscious Bias,HR,2023-05-20,40,64,8,1,24
+TRN002,EMP0061,Unconscious Bias,HR,2021-09-20,71,95,2,1,24
+TRN002,EMP0265,Unconscious Bias,HR,2022-10-10,40,57,2,0,17
+TRN002,EMP0141,Unconscious Bias,HR,2022-09-30,40,64,4,0,24
+TRN002,EMP0043,Unconscious Bias,HR,2023-07-07,73,94,2,1,21
+TRN002,EMP0263,Unconscious Bias,HR,2021-03-07,40,61,8,1,21
+TRN002,EMP0248,Unconscious Bias,HR,2023-01-01,47,58,8,0,11
+TRN002,EMP0297,Unconscious Bias,HR,2023-05-29,42,59,2,1,17
+TRN002,EMP0273,Unconscious Bias,HR,2020-10-09,40,67,4,1,27
+TRN002,EMP0259,Unconscious Bias,HR,2023-12-20,52,70,2,0,18
+TRN002,EMP0015,Unconscious Bias,HR,2021-09-28,54,85,4,1,31
+TRN002,EMP0032,Unconscious Bias,HR,2021-06-19,63,88,4,1,25
+TRN002,EMP0180,Unconscious Bias,HR,2020-04-26,71,90,4,1,19
+TRN002,EMP0168,Unconscious Bias,HR,2022-10-23,47,70,1,1,23
+TRN002,EMP0146,Unconscious Bias,HR,2021-11-28,41,63,8,1,22
+TRN002,EMP0129,Unconscious Bias,HR,2020-11-01,40,64,2,0,24
+TRN002,EMP0138,Unconscious Bias,HR,2021-12-05,41,58,4,0,17
+TRN002,EMP0001,Unconscious Bias,HR,2022-09-04,40,49,8,1,9
+TRN002,EMP0089,Unconscious Bias,HR,2023-02-22,40,57,8,1,17
+TRN002,EMP0164,Unconscious Bias,HR,2023-03-28,46,73,2,0,27
+TRN002,EMP0221,Unconscious Bias,HR,2021-11-21,53,72,4,1,19
+TRN002,EMP0171,Unconscious Bias,HR,2023-08-26,62,77,4,1,15
+TRN002,EMP0008,Unconscious Bias,HR,2021-10-31,44,61,1,1,17
+TRN002,EMP0143,Unconscious Bias,HR,2020-10-18,44,62,2,1,18
+TRN002,EMP0098,Unconscious Bias,HR,2023-04-16,44,69,4,1,25
+TRN002,EMP0279,Unconscious Bias,HR,2022-04-01,57,87,4,1,30
+TRN002,EMP0039,Unconscious Bias,HR,2023-06-20,51,75,16,0,24
+TRN002,EMP0207,Unconscious Bias,HR,2022-06-04,40,67,8,1,27
+TRN002,EMP0142,Unconscious Bias,HR,2021-01-06,50,68,4,1,18
+TRN002,EMP0173,Unconscious Bias,HR,2022-09-28,40,65,4,0,25
+TRN002,EMP0145,Unconscious Bias,HR,2023-01-02,40,56,8,1,16
+TRN002,EMP0054,Unconscious Bias,HR,2022-11-18,43,73,4,1,30
+TRN002,EMP0101,Unconscious Bias,HR,2021-09-23,40,53,4,1,13
+TRN002,EMP0197,Unconscious Bias,HR,2023-06-08,44,65,4,0,21
+TRN002,EMP0272,Unconscious Bias,HR,2020-05-04,44,61,8,1,17
+TRN002,EMP0200,Unconscious Bias,HR,2020-04-21,40,56,2,1,16
+TRN002,EMP0012,Unconscious Bias,HR,2023-01-20,52,74,4,0,22
+TRN002,EMP0158,Unconscious Bias,HR,2021-07-10,40,61,2,1,21
+TRN002,EMP0231,Unconscious Bias,HR,2021-10-03,52,71,2,1,19
+TRN002,EMP0245,Unconscious Bias,HR,2021-01-20,40,62,4,1,22
+TRN002,EMP0086,Unconscious Bias,HR,2021-08-02,40,59,4,0,19
+TRN002,EMP0250,Unconscious Bias,HR,2020-07-31,40,63,4,0,23
+TRN002,EMP0027,Unconscious Bias,HR,2023-11-07,42,55,2,0,13
+TRN002,EMP0075,Unconscious Bias,HR,2021-04-20,63,83,4,0,20
+TRN002,EMP0187,Unconscious Bias,HR,2023-05-06,44,71,4,1,27
+TRN002,EMP0154,Unconscious Bias,HR,2023-10-09,40,54,2,1,14
+TRN002,EMP0167,Unconscious Bias,HR,2021-07-09,40,58,4,1,18
+TRN002,EMP0209,Unconscious Bias,HR,2023-05-20,40,58,2,0,18
+TRN002,EMP0090,Unconscious Bias,HR,2023-07-22,69,85,1,1,16
+TRN002,EMP0140,Unconscious Bias,HR,2020-07-06,49,73,4,1,24
+TRN002,EMP0041,Unconscious Bias,HR,2021-09-03,42,55,4,1,13
+TRN002,EMP0227,Unconscious Bias,HR,2022-03-01,42,76,2,1,34
+TRN002,EMP0107,Unconscious Bias,HR,2020-04-15,47,67,2,0,20
+TRN002,EMP0042,Unconscious Bias,HR,2021-11-03,40,62,1,0,22
+TRN002,EMP0125,Unconscious Bias,HR,2020-04-26,40,48,4,0,8
+TRN002,EMP0294,Unconscious Bias,HR,2021-07-11,50,55,1,0,5
+TRN002,EMP0161,Unconscious Bias,HR,2023-12-19,60,81,2,0,21
+TRN002,EMP0181,Unconscious Bias,HR,2020-06-22,53,62,4,0,9
+TRN002,EMP0280,Unconscious Bias,HR,2023-03-09,46,66,4,0,20
+TRN002,EMP0257,Unconscious Bias,HR,2020-09-07,50,65,4,0,15
+TRN002,EMP0055,Unconscious Bias,HR,2021-05-26,42,64,1,0,22
+TRN002,EMP0132,Unconscious Bias,HR,2022-04-17,40,42,4,0,2
+TRN002,EMP0135,Unconscious Bias,HR,2023-05-18,49,70,2,0,21
+TRN002,EMP0240,Unconscious Bias,HR,2021-12-19,40,53,4,0,13
+TRN002,EMP0188,Unconscious Bias,HR,2022-03-28,40,58,2,0,18
+TRN002,EMP0208,Unconscious Bias,HR,2020-05-18,60,83,2,1,23
+TRN002,EMP0299,Unconscious Bias,HR,2022-10-10,75,90,4,1,15
+TRN002,EMP0022,Unconscious Bias,HR,2023-05-23,40,54,8,0,14
+TRN002,EMP0070,Unconscious Bias,HR,2023-05-03,46,70,8,1,24
+TRN002,EMP0123,Unconscious Bias,HR,2023-03-18,40,54,4,0,14
+TRN002,EMP0114,Unconscious Bias,HR,2020-07-16,48,67,2,0,19
+TRN002,EMP0009,Unconscious Bias,HR,2020-08-18,51,76,2,0,25
+TRN002,EMP0028,Unconscious Bias,HR,2023-03-27,49,58,16,1,9
+TRN002,EMP0211,Unconscious Bias,HR,2023-04-12,40,61,16,1,21
+TRN002,EMP0266,Unconscious Bias,HR,2023-07-21,60,67,16,0,7
+TRN002,EMP0152,Unconscious Bias,HR,2022-11-25,45,69,1,0,24
+TRN002,EMP0163,Unconscious Bias,HR,2023-01-02,62,78,8,0,16
+TRN002,EMP0082,Unconscious Bias,HR,2022-02-11,40,54,4,1,14
+TRN002,EMP0230,Unconscious Bias,HR,2021-01-05,43,64,2,1,21
+TRN002,EMP0228,Unconscious Bias,HR,2022-08-07,44,73,16,1,29
+TRN002,EMP0184,Unconscious Bias,HR,2023-02-01,40,62,4,1,22
+TRN002,EMP0068,Unconscious Bias,HR,2020-11-29,51,67,1,0,16
+TRN003,EMP0229,Python for Beginners,Technical,2022-07-12,46,62,4,1,16
+TRN003,EMP0019,Python for Beginners,Technical,2022-06-23,46,73,4,1,27
+TRN003,EMP0129,Python for Beginners,Technical,2022-09-24,40,60,2,0,20
+TRN003,EMP0024,Python for Beginners,Technical,2021-04-04,47,71,2,1,24
+TRN003,EMP0004,Python for Beginners,Technical,2023-07-07,58,76,4,1,18
+TRN003,EMP0180,Python for Beginners,Technical,2022-08-25,61,85,1,0,24
+TRN003,EMP0288,Python for Beginners,Technical,2020-08-13,50,60,4,0,10
+TRN003,EMP0270,Python for Beginners,Technical,2021-10-08,45,65,2,1,20
+TRN003,EMP0207,Python for Beginners,Technical,2023-12-25,40,58,2,0,18
+TRN003,EMP0023,Python for Beginners,Technical,2020-10-06,44,58,16,1,14
+TRN003,EMP0077,Python for Beginners,Technical,2023-09-21,40,62,2,1,22
+TRN003,EMP0092,Python for Beginners,Technical,2021-10-08,59,73,8,0,14
+TRN003,EMP0228,Python for Beginners,Technical,2022-01-15,54,71,1,1,17
+TRN003,EMP0240,Python for Beginners,Technical,2022-04-06,40,50,2,0,10
+TRN003,EMP0111,Python for Beginners,Technical,2022-09-19,41,58,2,1,17
+TRN003,EMP0120,Python for Beginners,Technical,2022-01-07,40,56,4,0,16
+TRN003,EMP0012,Python for Beginners,Technical,2021-04-20,54,75,4,1,21
+TRN003,EMP0083,Python for Beginners,Technical,2023-05-25,44,60,2,1,16
+TRN003,EMP0130,Python for Beginners,Technical,2023-06-17,50,63,4,1,13
+TRN003,EMP0028,Python for Beginners,Technical,2023-08-06,44,56,4,0,12
+TRN003,EMP0256,Python for Beginners,Technical,2020-07-28,53,75,8,1,22
+TRN003,EMP0171,Python for Beginners,Technical,2023-01-02,61,79,4,1,18
+TRN003,EMP0054,Python for Beginners,Technical,2020-07-31,42,71,2,1,29
+TRN003,EMP0137,Python for Beginners,Technical,2022-08-30,50,56,8,1,6
+TRN003,EMP0103,Python for Beginners,Technical,2023-11-14,49,74,4,0,25
+TRN003,EMP0102,Python for Beginners,Technical,2020-08-23,43,68,2,1,25
+TRN003,EMP0153,Python for Beginners,Technical,2021-09-14,40,65,4,1,25
+TRN003,EMP0239,Python for Beginners,Technical,2021-05-14,48,68,4,0,20
+TRN003,EMP0097,Python for Beginners,Technical,2022-06-12,55,73,4,0,18
+TRN003,EMP0241,Python for Beginners,Technical,2021-03-12,40,56,4,1,16
+TRN003,EMP0096,Python for Beginners,Technical,2022-05-25,54,71,4,1,17
+TRN003,EMP0014,Python for Beginners,Technical,2020-08-22,40,70,2,1,30
+TRN003,EMP0158,Python for Beginners,Technical,2021-02-24,40,64,8,1,24
+TRN003,EMP0172,Python for Beginners,Technical,2020-11-03,49,54,2,0,5
+TRN003,EMP0280,Python for Beginners,Technical,2023-09-18,42,70,1,0,28
+TRN003,EMP0216,Python for Beginners,Technical,2021-03-25,41,68,4,1,27
+TRN003,EMP0274,Python for Beginners,Technical,2022-08-26,49,64,1,1,15
+TRN003,EMP0271,Python for Beginners,Technical,2021-07-17,50,51,2,0,1
+TRN003,EMP0177,Python for Beginners,Technical,2022-09-25,41,61,8,0,20
+TRN003,EMP0152,Python for Beginners,Technical,2022-03-29,43,59,4,0,16
+TRN003,EMP0160,Python for Beginners,Technical,2022-02-27,40,54,4,1,14
+TRN003,EMP0293,Python for Beginners,Technical,2021-07-08,55,82,4,1,27
+TRN003,EMP0231,Python for Beginners,Technical,2021-10-28,45,57,16,0,12
+TRN003,EMP0025,Python for Beginners,Technical,2023-09-18,50,65,1,1,15
+TRN003,EMP0232,Python for Beginners,Technical,2021-10-28,59,74,8,1,15
+TRN003,EMP0044,Python for Beginners,Technical,2022-01-13,48,74,8,1,26
+TRN003,EMP0062,Python for Beginners,Technical,2022-11-12,40,63,4,1,23
+TRN003,EMP0204,Python for Beginners,Technical,2020-04-08,40,57,4,0,17
+TRN003,EMP0261,Python for Beginners,Technical,2020-04-06,52,74,1,1,22
+TRN003,EMP0020,Python for Beginners,Technical,2021-08-25,50,58,2,0,8
+TRN003,EMP0085,Python for Beginners,Technical,2023-06-15,45,60,8,0,15
+TRN003,EMP0199,Python for Beginners,Technical,2021-09-26,51,61,4,0,10
+TRN003,EMP0094,Python for Beginners,Technical,2022-01-12,40,56,8,1,16
+TRN003,EMP0079,Python for Beginners,Technical,2023-09-17,69,84,2,1,15
+TRN003,EMP0051,Python for Beginners,Technical,2021-11-18,42,59,4,0,17
+TRN003,EMP0144,Python for Beginners,Technical,2023-12-21,57,83,2,1,26
+TRN003,EMP0078,Python for Beginners,Technical,2023-07-24,53,78,4,0,25
+TRN003,EMP0197,Python for Beginners,Technical,2021-11-26,41,49,1,0,8
+TRN003,EMP0068,Python for Beginners,Technical,2020-05-14,50,77,2,1,27
+TRN003,EMP0142,Python for Beginners,Technical,2020-07-18,61,85,16,0,24
+TRN003,EMP0081,Python for Beginners,Technical,2021-02-01,50,75,16,1,25
+TRN003,EMP0215,Python for Beginners,Technical,2020-11-13,45,64,4,1,19
+TRN003,EMP0284,Python for Beginners,Technical,2021-12-24,40,55,2,0,15
+TRN003,EMP0273,Python for Beginners,Technical,2022-04-06,40,60,8,1,20
+TRN003,EMP0134,Python for Beginners,Technical,2023-02-05,40,54,4,0,14
+TRN003,EMP0245,Python for Beginners,Technical,2021-05-03,40,62,8,0,22
+TRN003,EMP0202,Python for Beginners,Technical,2022-09-04,48,71,4,1,23
+TRN003,EMP0246,Python for Beginners,Technical,2020-03-23,52,69,2,1,17
+TRN003,EMP0124,Python for Beginners,Technical,2021-11-22,40,61,4,0,21
+TRN003,EMP0080,Python for Beginners,Technical,2022-11-06,64,74,2,0,10
+TRN003,EMP0076,Python for Beginners,Technical,2021-06-19,40,62,16,1,22
+TRN003,EMP0151,Python for Beginners,Technical,2022-10-12,45,58,1,1,13
+TRN003,EMP0067,Python for Beginners,Technical,2021-03-22,51,55,2,0,4
+TRN003,EMP0030,Python for Beginners,Technical,2020-12-09,40,55,8,0,15
+TRN003,EMP0218,Python for Beginners,Technical,2022-09-15,40,58,16,1,18
+TRN003,EMP0008,Python for Beginners,Technical,2020-09-27,52,78,4,1,26
+TRN003,EMP0032,Python for Beginners,Technical,2022-03-15,52,79,4,0,27
+TRN003,EMP0143,Python for Beginners,Technical,2022-09-10,43,57,2,0,14
+TRN003,EMP0009,Python for Beginners,Technical,2020-11-21,56,75,4,0,19
+TRN003,EMP0059,Python for Beginners,Technical,2020-06-13,40,60,4,0,20
+TRN003,EMP0116,Python for Beginners,Technical,2021-07-31,71,92,2,1,21
+TRN003,EMP0255,Python for Beginners,Technical,2020-12-05,51,67,2,1,16
+TRN003,EMP0263,Python for Beginners,Technical,2022-03-09,40,54,4,1,14
+TRN003,EMP0183,Python for Beginners,Technical,2022-10-26,56,67,4,0,11
+TRN003,EMP0221,Python for Beginners,Technical,2022-03-04,52,61,2,0,9
+TRN003,EMP0035,Python for Beginners,Technical,2022-12-05,40,63,8,0,23
+TRN003,EMP0178,Python for Beginners,Technical,2021-06-03,47,68,4,1,21
+TRN003,EMP0201,Python for Beginners,Technical,2023-01-19,45,68,2,1,23
+TRN003,EMP0063,Python for Beginners,Technical,2022-07-11,40,60,8,1,20
+TRN003,EMP0265,Python for Beginners,Technical,2021-12-03,40,51,2,0,11
+TRN003,EMP0061,Python for Beginners,Technical,2021-02-04,76,100,2,1,24
+TRN003,EMP0098,Python for Beginners,Technical,2022-10-22,49,68,2,0,19
+TRN003,EMP0188,Python for Beginners,Technical,2021-12-01,40,56,4,0,16
+TRN003,EMP0191,Python for Beginners,Technical,2022-11-09,40,59,2,0,19
+TRN003,EMP0211,Python for Beginners,Technical,2020-02-20,40,66,4,0,26
+TRN003,EMP0034,Python for Beginners,Technical,2020-10-28,40,64,8,0,24
+TRN003,EMP0258,Python for Beginners,Technical,2023-04-08,59,82,4,0,23
+TRN003,EMP0161,Python for Beginners,Technical,2023-12-19,57,78,2,0,21
+TRN004,EMP0021,Advanced Python,Technical,2023-11-26,40,53,4,0,13
+TRN004,EMP0130,Advanced Python,Technical,2022-10-13,44,65,4,0,21
+TRN004,EMP0226,Advanced Python,Technical,2021-01-27,66,91,2,1,25
+TRN004,EMP0239,Advanced Python,Technical,2022-07-07,40,50,2,1,10
+TRN004,EMP0143,Advanced Python,Technical,2023-03-31,40,50,2,1,10
+TRN004,EMP0266,Advanced Python,Technical,2023-12-25,55,66,4,0,11
+TRN004,EMP0076,Advanced Python,Technical,2020-06-12,40,60,2,0,20
+TRN004,EMP0119,Advanced Python,Technical,2021-03-21,54,80,4,0,26
+TRN004,EMP0267,Advanced Python,Technical,2022-01-11,40,60,1,1,20
+TRN004,EMP0204,Advanced Python,Technical,2020-10-03,40,52,2,0,12
+TRN004,EMP0257,Advanced Python,Technical,2023-03-07,41,50,2,1,9
+TRN004,EMP0022,Advanced Python,Technical,2020-11-28,43,66,4,1,23
+TRN004,EMP0258,Advanced Python,Technical,2022-01-04,55,69,1,0,14
+TRN004,EMP0092,Advanced Python,Technical,2023-06-12,52,67,4,0,15
+TRN004,EMP0050,Advanced Python,Technical,2021-04-01,45,58,4,1,13
+TRN004,EMP0069,Advanced Python,Technical,2023-05-25,51,65,4,1,14
+TRN004,EMP0120,Advanced Python,Technical,2020-12-21,40,64,4,1,24
+TRN004,EMP0072,Advanced Python,Technical,2020-02-12,48,77,4,1,29
+TRN004,EMP0034,Advanced Python,Technical,2020-12-15,40,65,4,0,25
+TRN004,EMP0084,Advanced Python,Technical,2020-02-22,40,47,8,0,7
+TRN004,EMP0168,Advanced Python,Technical,2020-07-10,50,67,16,0,17
+TRN004,EMP0127,Advanced Python,Technical,2020-06-26,66,89,1,0,23
+TRN004,EMP0100,Advanced Python,Technical,2023-02-12,47,73,4,0,26
+TRN004,EMP0224,Advanced Python,Technical,2023-10-14,46,61,4,1,15
+TRN004,EMP0094,Advanced Python,Technical,2022-04-23,40,58,4,1,18
+TRN004,EMP0222,Advanced Python,Technical,2023-09-30,40,57,1,0,17
+TRN004,EMP0039,Advanced Python,Technical,2020-01-23,53,66,2,1,13
+TRN004,EMP0033,Advanced Python,Technical,2021-12-11,50,63,4,1,13
+TRN004,EMP0241,Advanced Python,Technical,2021-03-31,40,52,4,0,12
+TRN004,EMP0071,Advanced Python,Technical,2021-12-22,40,55,2,1,15
+TRN004,EMP0016,Advanced Python,Technical,2021-01-16,40,54,4,1,14
+TRN004,EMP0184,Advanced Python,Technical,2023-08-01,40,60,2,1,20
+TRN004,EMP0160,Advanced Python,Technical,2023-11-15,45,62,4,0,17
+TRN004,EMP0152,Advanced Python,Technical,2020-09-25,48,66,1,0,18
+TRN004,EMP0194,Advanced Python,Technical,2023-11-11,54,80,8,1,26
+TRN004,EMP0067,Advanced Python,Technical,2022-07-05,54,64,1,0,10
+TRN004,EMP0088,Advanced Python,Technical,2022-12-12,43,57,8,0,14
+TRN004,EMP0206,Advanced Python,Technical,2022-12-06,58,68,8,1,10
+TRN004,EMP0004,Advanced Python,Technical,2021-03-11,51,74,4,1,23
+TRN004,EMP0107,Advanced Python,Technical,2020-03-17,45,68,8,1,23
+TRN004,EMP0101,Advanced Python,Technical,2021-07-04,40,49,4,1,9
+TRN004,EMP0157,Advanced Python,Technical,2022-09-08,43,58,4,0,15
+TRN004,EMP0018,Advanced Python,Technical,2023-12-23,54,75,2,0,21
+TRN004,EMP0237,Advanced Python,Technical,2022-02-01,40,60,4,1,20
+TRN004,EMP0063,Advanced Python,Technical,2021-08-11,40,68,4,1,28
+TRN004,EMP0201,Advanced Python,Technical,2022-09-29,48,59,2,0,11
+TRN004,EMP0163,Advanced Python,Technical,2022-11-09,64,80,8,1,16
+TRN004,EMP0221,Advanced Python,Technical,2022-10-19,57,74,2,1,17
+TRN004,EMP0196,Advanced Python,Technical,2020-03-04,67,95,4,0,28
+TRN004,EMP0102,Advanced Python,Technical,2022-09-11,46,54,2,0,8
+TRN004,EMP0242,Advanced Python,Technical,2021-10-23,40,50,4,0,10
+TRN004,EMP0083,Advanced Python,Technical,2020-10-18,46,69,8,0,23
+TRN004,EMP0167,Advanced Python,Technical,2021-12-05,40,71,8,1,31
+TRN004,EMP0108,Advanced Python,Technical,2021-09-14,60,83,4,1,23
+TRN004,EMP0086,Advanced Python,Technical,2021-07-25,40,46,4,1,6
+TRN004,EMP0133,Advanced Python,Technical,2020-04-01,53,65,2,1,12
+TRN004,EMP0245,Advanced Python,Technical,2020-02-10,40,59,8,1,19
+TRN004,EMP0279,Advanced Python,Technical,2022-07-12,58,76,8,1,18
+TRN004,EMP0270,Advanced Python,Technical,2023-11-26,40,58,4,1,18
+TRN004,EMP0023,Advanced Python,Technical,2020-07-14,42,65,2,0,23
+TRN004,EMP0066,Advanced Python,Technical,2023-10-11,47,62,8,1,15
+TRN004,EMP0211,Advanced Python,Technical,2020-08-16,40,66,2,0,26
+TRN004,EMP0247,Advanced Python,Technical,2022-10-31,40,69,1,1,29
+TRN004,EMP0256,Advanced Python,Technical,2020-10-07,49,67,8,1,18
+TRN004,EMP0125,Advanced Python,Technical,2020-05-26,40,53,8,1,13
+TRN004,EMP0080,Advanced Python,Technical,2021-02-23,61,74,4,1,13
+TRN004,EMP0232,Advanced Python,Technical,2022-08-10,57,76,4,1,19
+TRN004,EMP0017,Advanced Python,Technical,2023-12-24,40,60,4,1,20
+TRN004,EMP0252,Advanced Python,Technical,2021-12-23,65,93,1,0,28
+TRN004,EMP0134,Advanced Python,Technical,2022-01-06,40,56,4,1,16
+TRN004,EMP0178,Advanced Python,Technical,2021-12-19,49,74,2,1,25
+TRN004,EMP0019,Advanced Python,Technical,2021-02-14,58,95,8,1,37
+TRN004,EMP0098,Advanced Python,Technical,2023-08-21,50,63,8,0,13
+TRN004,EMP0292,Advanced Python,Technical,2022-01-12,40,53,1,1,13
+TRN004,EMP0248,Advanced Python,Technical,2022-07-28,40,56,4,0,16
+TRN004,EMP0141,Advanced Python,Technical,2023-06-08,40,54,4,0,14
+TRN004,EMP0059,Advanced Python,Technical,2021-09-22,41,59,4,1,18
+TRN004,EMP0287,Advanced Python,Technical,2021-01-27,63,84,4,1,21
+TRN004,EMP0103,Advanced Python,Technical,2020-10-04,61,86,4,1,25
+TRN004,EMP0040,Advanced Python,Technical,2020-10-04,43,69,2,0,26
+TRN004,EMP0171,Advanced Python,Technical,2022-04-18,53,81,4,1,28
+TRN005,EMP0061,Effective Presentations,Soft Skills,2021-09-14,65,100,8,1,35
+TRN005,EMP0296,Effective Presentations,Soft Skills,2021-04-03,40,50,4,0,10
+TRN005,EMP0221,Effective Presentations,Soft Skills,2021-06-01,61,74,2,1,13
+TRN005,EMP0231,Effective Presentations,Soft Skills,2022-11-03,49,69,1,0,20
+TRN005,EMP0197,Effective Presentations,Soft Skills,2020-08-26,40,59,1,1,19
+TRN005,EMP0142,Effective Presentations,Soft Skills,2023-02-22,54,73,4,1,19
+TRN005,EMP0170,Effective Presentations,Soft Skills,2023-12-25,51,69,2,0,18
+TRN005,EMP0013,Effective Presentations,Soft Skills,2023-11-13,62,74,16,1,12
+TRN005,EMP0188,Effective Presentations,Soft Skills,2022-03-11,40,58,16,0,18
+TRN005,EMP0269,Effective Presentations,Soft Skills,2023-03-14,42,60,1,0,18
+TRN005,EMP0150,Effective Presentations,Soft Skills,2021-10-04,40,54,4,0,14
+TRN005,EMP0021,Effective Presentations,Soft Skills,2023-08-09,40,49,2,1,9
+TRN005,EMP0091,Effective Presentations,Soft Skills,2023-04-18,43,64,2,1,21
+TRN005,EMP0072,Effective Presentations,Soft Skills,2021-12-13,56,73,4,1,17
+TRN005,EMP0084,Effective Presentations,Soft Skills,2021-06-22,40,67,4,0,27
+TRN005,EMP0247,Effective Presentations,Soft Skills,2020-01-12,40,64,8,1,24
+TRN005,EMP0174,Effective Presentations,Soft Skills,2021-07-11,48,66,4,0,18
+TRN005,EMP0151,Effective Presentations,Soft Skills,2022-05-18,43,65,2,0,22
+TRN005,EMP0094,Effective Presentations,Soft Skills,2022-01-19,40,56,2,1,16
+TRN005,EMP0218,Effective Presentations,Soft Skills,2023-11-30,40,57,4,1,17
+TRN005,EMP0085,Effective Presentations,Soft Skills,2023-09-21,44,70,2,0,26
+TRN005,EMP0020,Effective Presentations,Soft Skills,2020-05-01,57,77,2,1,20
+TRN005,EMP0260,Effective Presentations,Soft Skills,2023-05-25,46,70,2,0,24
+TRN005,EMP0149,Effective Presentations,Soft Skills,2021-04-05,41,67,4,1,26
+TRN005,EMP0132,Effective Presentations,Soft Skills,2021-09-29,40,52,2,1,12
+TRN005,EMP0183,Effective Presentations,Soft Skills,2020-07-13,62,79,4,0,17
+TRN005,EMP0036,Effective Presentations,Soft Skills,2021-12-04,47,64,4,1,17
+TRN005,EMP0227,Effective Presentations,Soft Skills,2023-01-08,46,77,1,1,31
+TRN005,EMP0082,Effective Presentations,Soft Skills,2020-02-16,44,58,4,0,14
+TRN005,EMP0272,Effective Presentations,Soft Skills,2020-07-04,46,56,4,1,10
+TRN005,EMP0102,Effective Presentations,Soft Skills,2021-07-19,46,70,2,1,24
+TRN005,EMP0244,Effective Presentations,Soft Skills,2023-04-02,40,53,1,0,13
+TRN005,EMP0107,Effective Presentations,Soft Skills,2021-07-10,51,72,8,1,21
+TRN005,EMP0028,Effective Presentations,Soft Skills,2023-09-23,40,54,2,0,14
+TRN005,EMP0291,Effective Presentations,Soft Skills,2023-10-16,40,59,4,1,19
+TRN005,EMP0196,Effective Presentations,Soft Skills,2023-07-07,59,83,2,1,24
+TRN005,EMP0137,Effective Presentations,Soft Skills,2021-01-23,48,70,1,0,22
+TRN005,EMP0119,Effective Presentations,Soft Skills,2021-04-11,52,71,4,1,19
+TRN005,EMP0096,Effective Presentations,Soft Skills,2021-08-13,50,70,4,1,20
+TRN005,EMP0038,Effective Presentations,Soft Skills,2021-10-24,44,58,8,0,14
+TRN005,EMP0093,Effective Presentations,Soft Skills,2020-10-20,47,71,8,0,24
+TRN005,EMP0145,Effective Presentations,Soft Skills,2021-03-26,46,61,4,1,15
+TRN005,EMP0143,Effective Presentations,Soft Skills,2022-06-09,42,54,2,0,12
+TRN005,EMP0052,Effective Presentations,Soft Skills,2023-11-20,40,51,8,1,11
+TRN005,EMP0041,Effective Presentations,Soft Skills,2020-10-05,46,67,4,0,21
+TRN005,EMP0077,Effective Presentations,Soft Skills,2021-08-16,40,58,2,1,18
+TRN005,EMP0275,Effective Presentations,Soft Skills,2021-07-30,40,61,4,0,21
+TRN005,EMP0032,Effective Presentations,Soft Skills,2020-09-04,52,80,2,1,28
+TRN005,EMP0245,Effective Presentations,Soft Skills,2021-10-24,40,61,8,1,21
+TRN005,EMP0266,Effective Presentations,Soft Skills,2022-07-07,63,80,16,1,17
+TRN005,EMP0079,Effective Presentations,Soft Skills,2021-09-25,56,68,4,1,12
+TRN005,EMP0068,Effective Presentations,Soft Skills,2023-04-01,43,71,2,1,28
+TRN005,EMP0140,Effective Presentations,Soft Skills,2022-09-29,54,78,2,1,24
+TRN005,EMP0080,Effective Presentations,Soft Skills,2022-05-03,52,60,8,0,8
+TRN005,EMP0220,Effective Presentations,Soft Skills,2022-12-09,54,71,2,0,17
+TRN005,EMP0191,Effective Presentations,Soft Skills,2021-01-08,40,56,2,0,16
+TRN005,EMP0263,Effective Presentations,Soft Skills,2022-09-23,40,58,2,1,18
+TRN005,EMP0023,Effective Presentations,Soft Skills,2022-11-09,40,52,8,0,12
+TRN005,EMP0088,Effective Presentations,Soft Skills,2020-11-02,40,60,4,0,20
+TRN005,EMP0147,Effective Presentations,Soft Skills,2023-03-12,40,52,4,0,12
+TRN005,EMP0228,Effective Presentations,Soft Skills,2022-09-12,44,65,1,1,21
+TRN005,EMP0127,Effective Presentations,Soft Skills,2021-08-05,56,83,8,1,27
+TRN005,EMP0285,Effective Presentations,Soft Skills,2020-07-26,40,59,1,0,19
+TRN005,EMP0271,Effective Presentations,Soft Skills,2022-01-06,53,67,4,0,14
+TRN005,EMP0257,Effective Presentations,Soft Skills,2023-12-30,42,55,2,0,13
+TRN005,EMP0234,Effective Presentations,Soft Skills,2020-01-09,40,68,4,0,28
+TRN005,EMP0029,Effective Presentations,Soft Skills,2023-02-20,43,64,4,0,21
+TRN005,EMP0030,Effective Presentations,Soft Skills,2021-05-31,40,57,2,0,17
+TRN005,EMP0003,Effective Presentations,Soft Skills,2021-09-14,47,60,4,1,13
+TRN005,EMP0163,Effective Presentations,Soft Skills,2023-04-21,70,86,2,0,16
+TRN005,EMP0294,Effective Presentations,Soft Skills,2021-07-03,56,70,1,0,14
+TRN005,EMP0160,Effective Presentations,Soft Skills,2021-10-30,40,55,8,0,15
+TRN005,EMP0292,Effective Presentations,Soft Skills,2020-06-17,40,61,2,0,21
+TRN005,EMP0258,Effective Presentations,Soft Skills,2021-01-27,64,82,4,0,18
+TRN005,EMP0168,Effective Presentations,Soft Skills,2020-09-27,43,67,8,0,24
+TRN005,EMP0229,Effective Presentations,Soft Skills,2022-09-25,47,63,1,1,16
+TRN005,EMP0267,Effective Presentations,Soft Skills,2021-07-06,40,59,2,1,19
+TRN005,EMP0112,Effective Presentations,Soft Skills,2022-02-06,43,62,4,0,19
+TRN005,EMP0040,Effective Presentations,Soft Skills,2023-04-16,45,64,1,1,19
+TRN005,EMP0207,Effective Presentations,Soft Skills,2023-01-02,40,61,4,1,21
+TRN005,EMP0045,Effective Presentations,Soft Skills,2021-04-23,40,61,4,0,21
+TRN005,EMP0217,Effective Presentations,Soft Skills,2023-05-20,51,72,4,0,21
+TRN005,EMP0293,Effective Presentations,Soft Skills,2021-10-17,50,72,4,1,22
+TRN005,EMP0230,Effective Presentations,Soft Skills,2021-09-13,40,59,8,0,19
+TRN005,EMP0006,Effective Presentations,Soft Skills,2023-07-08,50,70,1,0,20
+TRN005,EMP0178,Effective Presentations,Soft Skills,2022-01-09,47,64,4,0,17
+TRN005,EMP0246,Effective Presentations,Soft Skills,2021-05-11,58,79,4,1,21
+TRN005,EMP0014,Effective Presentations,Soft Skills,2022-06-07,40,66,2,1,26
+TRN005,EMP0141,Effective Presentations,Soft Skills,2023-01-02,40,63,2,1,23
+TRN005,EMP0158,Effective Presentations,Soft Skills,2021-11-03,40,62,4,0,22
+TRN005,EMP0048,Effective Presentations,Soft Skills,2022-03-22,55,71,4,0,16
+TRN005,EMP0098,Effective Presentations,Soft Skills,2021-05-25,49,65,2,0,16
+TRN005,EMP0129,Effective Presentations,Soft Skills,2020-08-15,40,46,4,1,6
+TRN005,EMP0248,Effective Presentations,Soft Skills,2023-08-22,46,68,1,1,22
+TRN005,EMP0281,Effective Presentations,Soft Skills,2022-04-08,43,56,4,0,13
+TRN005,EMP0189,Effective Presentations,Soft Skills,2023-03-06,44,67,8,1,23
+TRN005,EMP0117,Effective Presentations,Soft Skills,2022-07-18,44,59,2,0,15
+TRN005,EMP0071,Effective Presentations,Soft Skills,2023-10-12,40,54,4,1,14
+TRN006,EMP0084,Project Management,Operations,2023-10-23,40,43,4,0,3
+TRN006,EMP0191,Project Management,Operations,2021-11-04,40,51,16,1,11
+TRN006,EMP0043,Project Management,Operations,2021-06-27,62,89,2,1,27
+TRN006,EMP0199,Project Management,Operations,2020-03-04,63,93,4,1,30
+TRN006,EMP0035,Project Management,Operations,2022-10-24,40,62,4,0,22
+TRN006,EMP0122,Project Management,Operations,2022-11-06,52,67,4,0,15
+TRN006,EMP0070,Project Management,Operations,2023-03-15,51,87,4,1,36
+TRN006,EMP0220,Project Management,Operations,2023-12-21,51,65,4,0,14
+TRN006,EMP0073,Project Management,Operations,2022-05-19,40,59,2,0,19
+TRN006,EMP0265,Project Management,Operations,2022-09-28,40,62,4,1,22
+TRN006,EMP0270,Project Management,Operations,2021-08-22,43,63,8,1,20
+TRN006,EMP0055,Project Management,Operations,2021-06-04,42,59,4,0,17
+TRN006,EMP0176,Project Management,Operations,2022-05-29,57,87,2,1,30
+TRN006,EMP0028,Project Management,Operations,2021-01-30,40,58,2,0,18
+TRN006,EMP0112,Project Management,Operations,2022-05-31,40,59,4,1,19
+TRN006,EMP0209,Project Management,Operations,2022-02-05,40,53,2,1,13
+TRN006,EMP0190,Project Management,Operations,2021-02-23,40,67,16,0,27
+TRN006,EMP0178,Project Management,Operations,2023-07-27,50,76,2,1,26
+TRN006,EMP0080,Project Management,Operations,2022-04-27,58,72,4,0,14
+TRN006,EMP0108,Project Management,Operations,2021-11-06,61,81,4,0,20
+TRN006,EMP0030,Project Management,Operations,2020-07-26,40,50,8,1,10
+TRN006,EMP0212,Project Management,Operations,2022-03-01,40,51,16,0,11
+TRN006,EMP0144,Project Management,Operations,2020-05-12,59,86,4,1,27
+TRN006,EMP0208,Project Management,Operations,2023-05-19,57,75,8,1,18
+TRN006,EMP0089,Project Management,Operations,2021-06-27,40,59,8,0,19
+TRN006,EMP0092,Project Management,Operations,2023-06-15,49,64,4,0,15
+TRN006,EMP0008,Project Management,Operations,2020-05-15,44,59,8,1,15
+TRN006,EMP0093,Project Management,Operations,2021-10-22,51,70,2,1,19
+TRN006,EMP0237,Project Management,Operations,2023-05-04,40,57,4,0,17
+TRN006,EMP0272,Project Management,Operations,2020-10-10,40,54,1,0,14
+TRN006,EMP0147,Project Management,Operations,2021-12-04,40,54,1,0,14
+TRN006,EMP0133,Project Management,Operations,2022-02-26,51,72,4,1,21
+TRN006,EMP0010,Project Management,Operations,2022-06-20,40,49,4,0,9
+TRN006,EMP0264,Project Management,Operations,2023-11-03,64,90,4,0,26
+TRN006,EMP0005,Project Management,Operations,2020-06-10,58,74,2,1,16
+TRN006,EMP0289,Project Management,Operations,2022-10-25,71,88,4,0,17
+TRN006,EMP0141,Project Management,Operations,2023-06-19,40,66,2,0,26
+TRN006,EMP0282,Project Management,Operations,2022-07-11,40,54,4,1,14
+TRN006,EMP0164,Project Management,Operations,2022-11-13,53,77,2,1,24
+TRN006,EMP0154,Project Management,Operations,2022-11-01,40,49,2,0,9
+TRN006,EMP0064,Project Management,Operations,2020-03-26,40,65,4,1,25
+TRN006,EMP0123,Project Management,Operations,2020-06-23,40,48,4,0,8
+TRN006,EMP0189,Project Management,Operations,2023-10-09,53,74,4,1,21
+TRN006,EMP0215,Project Management,Operations,2020-11-14,41,63,4,1,22
+TRN006,EMP0001,Project Management,Operations,2023-01-21,40,51,2,0,11
+TRN006,EMP0286,Project Management,Operations,2020-10-18,40,63,4,0,23
+TRN006,EMP0044,Project Management,Operations,2023-09-21,43,53,8,1,10
+TRN006,EMP0067,Project Management,Operations,2023-05-29,42,60,1,0,18
+TRN006,EMP0075,Project Management,Operations,2020-11-28,62,81,2,0,19
+TRN006,EMP0014,Project Management,Operations,2020-11-27,40,58,4,1,18
+TRN006,EMP0297,Project Management,Operations,2023-06-22,42,63,2,0,21
+TRN006,EMP0086,Project Management,Operations,2021-04-25,40,45,4,0,5
+TRN006,EMP0034,Project Management,Operations,2021-02-12,40,58,16,0,18
+TRN006,EMP0031,Project Management,Operations,2022-02-17,40,60,4,1,20
+TRN006,EMP0258,Project Management,Operations,2021-03-21,65,84,4,1,19
+TRN006,EMP0071,Project Management,Operations,2021-07-07,40,46,2,0,6
+TRN006,EMP0006,Project Management,Operations,2020-11-02,50,71,4,0,21
+TRN006,EMP0065,Project Management,Operations,2021-03-29,51,72,2,1,21
+TRN006,EMP0019,Project Management,Operations,2022-10-17,56,84,8,1,28
+TRN006,EMP0124,Project Management,Operations,2021-11-21,40,48,4,0,8
+TRN006,EMP0287,Project Management,Operations,2020-06-29,56,83,4,0,27
+TRN006,EMP0274,Project Management,Operations,2020-06-23,62,89,2,1,27
+TRN006,EMP0158,Project Management,Operations,2022-06-10,40,68,16,1,28
+TRN006,EMP0098,Project Management,Operations,2022-02-17,50,67,8,0,17
+TRN006,EMP0110,Project Management,Operations,2020-03-22,40,56,2,0,16
+TRN006,EMP0116,Project Management,Operations,2023-02-11,74,98,4,1,24
+TRN006,EMP0132,Project Management,Operations,2021-04-24,40,63,4,0,23
+TRN006,EMP0288,Project Management,Operations,2020-07-20,53,69,1,1,16
+TRN006,EMP0156,Project Management,Operations,2021-05-01,40,57,16,0,17
+TRN006,EMP0059,Project Management,Operations,2021-02-16,40,62,4,1,22
+TRN006,EMP0172,Project Management,Operations,2020-09-24,49,53,8,0,4
+TRN006,EMP0214,Project Management,Operations,2022-03-31,49,67,4,1,18
+TRN006,EMP0127,Project Management,Operations,2023-06-28,55,81,4,1,26
+TRN006,EMP0259,Project Management,Operations,2022-05-05,49,73,1,1,24
+TRN006,EMP0173,Project Management,Operations,2022-11-14,40,65,2,1,25
+TRN006,EMP0138,Project Management,Operations,2023-06-04,42,52,4,1,10
+TRN006,EMP0022,Project Management,Operations,2021-04-29,46,57,2,0,11
+TRN006,EMP0146,Project Management,Operations,2022-11-17,40,67,2,0,27
+TRN006,EMP0246,Project Management,Operations,2021-06-03,55,76,1,1,21
+TRN006,EMP0192,Project Management,Operations,2022-04-17,54,70,4,0,16
+TRN006,EMP0249,Project Management,Operations,2023-04-20,40,69,4,1,29
+TRN006,EMP0152,Project Management,Operations,2023-02-06,44,64,4,1,20
+TRN006,EMP0039,Project Management,Operations,2020-12-18,61,88,2,1,27
+TRN006,EMP0007,Project Management,Operations,2022-11-08,47,71,4,1,24
+TRN006,EMP0101,Project Management,Operations,2020-09-11,40,60,4,0,20
+TRN006,EMP0217,Project Management,Operations,2023-05-08,48,72,16,0,24
+TRN006,EMP0239,Project Management,Operations,2023-04-16,41,61,4,1,20
+TRN006,EMP0097,Project Management,Operations,2020-12-07,60,76,4,0,16
+TRN006,EMP0134,Project Management,Operations,2021-11-12,40,53,4,0,13
+TRN007,EMP0282,Sales Negotiation,Sales,2020-02-01,40,57,1,0,17
+TRN007,EMP0118,Sales Negotiation,Sales,2020-07-25,40,54,2,1,14
+TRN007,EMP0027,Sales Negotiation,Sales,2022-03-03,43,52,16,1,9
+TRN007,EMP0055,Sales Negotiation,Sales,2022-01-04,41,63,4,1,22
+TRN007,EMP0019,Sales Negotiation,Sales,2023-11-07,49,70,8,1,21
+TRN007,EMP0033,Sales Negotiation,Sales,2020-09-01,42,64,4,0,22
+TRN007,EMP0062,Sales Negotiation,Sales,2021-11-29,40,60,4,0,20
+TRN007,EMP0108,Sales Negotiation,Sales,2020-11-06,60,76,2,1,16
+TRN007,EMP0172,Sales Negotiation,Sales,2020-08-19,49,66,4,1,17
+TRN007,EMP0220,Sales Negotiation,Sales,2022-09-17,55,78,2,0,23
+TRN007,EMP0071,Sales Negotiation,Sales,2023-09-01,43,59,8,0,16
+TRN007,EMP0208,Sales Negotiation,Sales,2020-09-13,55,80,16,1,25
+TRN007,EMP0216,Sales Negotiation,Sales,2022-02-14,42,65,4,0,23
+TRN007,EMP0176,Sales Negotiation,Sales,2021-02-16,65,92,4,1,27
+TRN007,EMP0278,Sales Negotiation,Sales,2023-10-28,54,78,8,1,24
+TRN007,EMP0034,Sales Negotiation,Sales,2023-06-13,40,67,16,0,27
+TRN007,EMP0059,Sales Negotiation,Sales,2022-07-04,40,61,4,1,21
+TRN007,EMP0137,Sales Negotiation,Sales,2020-08-16,45,57,4,0,12
+TRN007,EMP0040,Sales Negotiation,Sales,2021-06-16,40,68,1,1,28
+TRN007,EMP0125,Sales Negotiation,Sales,2021-02-28,40,60,2,1,20
+TRN007,EMP0091,Sales Negotiation,Sales,2023-05-12,40,64,4,0,24
+TRN007,EMP0054,Sales Negotiation,Sales,2023-01-16,43,61,2,0,18
+TRN007,EMP0106,Sales Negotiation,Sales,2022-12-11,40,53,2,0,13
+TRN007,EMP0191,Sales Negotiation,Sales,2021-02-08,40,58,4,0,18
+TRN007,EMP0180,Sales Negotiation,Sales,2020-11-04,65,86,1,1,21
+TRN007,EMP0051,Sales Negotiation,Sales,2021-10-06,41,62,2,0,21
+TRN007,EMP0039,Sales Negotiation,Sales,2022-09-16,59,81,1,0,22
+TRN007,EMP0007,Sales Negotiation,Sales,2021-09-11,46,63,1,1,17
+TRN007,EMP0003,Sales Negotiation,Sales,2020-05-10,40,58,4,0,18
+TRN007,EMP0267,Sales Negotiation,Sales,2023-02-02,40,51,4,1,11
+TRN007,EMP0015,Sales Negotiation,Sales,2023-12-06,59,88,4,1,29
+TRN007,EMP0225,Sales Negotiation,Sales,2020-06-13,62,80,2,1,18
+TRN007,EMP0265,Sales Negotiation,Sales,2023-12-09,40,59,4,0,19
+TRN007,EMP0031,Sales Negotiation,Sales,2022-04-24,40,62,2,1,22
+TRN007,EMP0138,Sales Negotiation,Sales,2021-08-21,40,65,1,0,25
+TRN007,EMP0289,Sales Negotiation,Sales,2023-03-25,66,91,2,1,25
+TRN007,EMP0255,Sales Negotiation,Sales,2020-09-02,46,60,8,0,14
+TRN007,EMP0153,Sales Negotiation,Sales,2023-11-18,40,55,8,1,15
+TRN007,EMP0235,Sales Negotiation,Sales,2023-11-20,40,54,4,1,14
+TRN007,EMP0272,Sales Negotiation,Sales,2020-12-21,40,51,4,0,11
+TRN007,EMP0148,Sales Negotiation,Sales,2020-05-28,56,65,4,0,9
+TRN007,EMP0168,Sales Negotiation,Sales,2020-10-24,49,68,8,1,19
+TRN007,EMP0300,Sales Negotiation,Sales,2023-02-06,71,95,1,1,24
+TRN007,EMP0256,Sales Negotiation,Sales,2020-01-26,53,70,4,1,17
+TRN007,EMP0114,Sales Negotiation,Sales,2023-03-04,53,78,2,0,25
+TRN007,EMP0002,Sales Negotiation,Sales,2021-08-21,63,82,8,1,19
+TRN007,EMP0196,Sales Negotiation,Sales,2022-06-29,61,79,4,1,18
+TRN007,EMP0205,Sales Negotiation,Sales,2021-11-30,56,90,4,1,34
+TRN007,EMP0292,Sales Negotiation,Sales,2022-06-26,40,56,8,1,16
+TRN007,EMP0261,Sales Negotiation,Sales,2022-10-08,49,67,8,1,18
+TRN007,EMP0143,Sales Negotiation,Sales,2022-08-10,40,57,8,0,17
+TRN007,EMP0021,Sales Negotiation,Sales,2022-05-24,40,60,8,1,20
+TRN007,EMP0150,Sales Negotiation,Sales,2023-06-27,40,59,1,1,19
+TRN007,EMP0213,Sales Negotiation,Sales,2023-04-03,43,67,8,0,24
+TRN007,EMP0170,Sales Negotiation,Sales,2022-06-16,56,86,4,1,30
+TRN007,EMP0093,Sales Negotiation,Sales,2022-10-14,51,72,2,0,21
+TRN007,EMP0090,Sales Negotiation,Sales,2021-03-23,58,77,4,1,19
+TRN007,EMP0156,Sales Negotiation,Sales,2023-06-11,40,49,4,1,9
+TRN007,EMP0050,Sales Negotiation,Sales,2021-06-10,50,74,2,1,24
+TRN007,EMP0100,Sales Negotiation,Sales,2021-08-01,46,89,4,1,43
+TRN007,EMP0183,Sales Negotiation,Sales,2022-08-17,63,74,2,0,11
+TRN007,EMP0022,Sales Negotiation,Sales,2023-08-20,40,58,2,0,18
+TRN007,EMP0253,Sales Negotiation,Sales,2023-03-28,50,71,4,1,21
+TRN007,EMP0207,Sales Negotiation,Sales,2021-07-26,40,59,8,0,19
+TRN007,EMP0092,Sales Negotiation,Sales,2022-04-12,58,84,2,1,26
+TRN007,EMP0287,Sales Negotiation,Sales,2021-11-16,52,72,2,1,20
+TRN007,EMP0237,Sales Negotiation,Sales,2020-02-21,40,57,4,1,17
+TRN007,EMP0228,Sales Negotiation,Sales,2021-09-09,45,61,1,0,16
+TRN007,EMP0058,Sales Negotiation,Sales,2020-09-17,52,77,2,0,25
+TRN007,EMP0181,Sales Negotiation,Sales,2021-10-17,57,74,4,1,17
+TRN007,EMP0112,Sales Negotiation,Sales,2023-01-21,41,50,2,0,9
+TRN007,EMP0249,Sales Negotiation,Sales,2020-03-28,40,61,2,1,21
+TRN007,EMP0115,Sales Negotiation,Sales,2022-11-23,41,52,8,0,11
+TRN007,EMP0097,Sales Negotiation,Sales,2020-10-15,59,71,1,0,12
+TRN007,EMP0258,Sales Negotiation,Sales,2020-01-07,62,75,16,1,13
+TRN007,EMP0257,Sales Negotiation,Sales,2023-02-01,42,60,2,1,18
+TRN007,EMP0259,Sales Negotiation,Sales,2023-08-04,50,65,2,1,15
+TRN007,EMP0136,Sales Negotiation,Sales,2020-01-27,50,66,4,0,16
+TRN007,EMP0001,Sales Negotiation,Sales,2022-08-17,44,67,1,0,23
+TRN007,EMP0167,Sales Negotiation,Sales,2023-12-12,40,62,1,1,22
+TRN007,EMP0240,Sales Negotiation,Sales,2023-04-16,40,59,4,1,19
+TRN007,EMP0291,Sales Negotiation,Sales,2021-08-07,40,64,4,1,24
+TRN007,EMP0274,Sales Negotiation,Sales,2020-03-28,56,74,1,0,18
+TRN007,EMP0098,Sales Negotiation,Sales,2022-10-29,45,62,2,0,17
+TRN007,EMP0063,Sales Negotiation,Sales,2021-08-14,40,72,4,1,32
+TRN007,EMP0229,Sales Negotiation,Sales,2021-05-25,49,58,4,1,9
+TRN007,EMP0119,Sales Negotiation,Sales,2023-06-27,53,74,2,1,21
+TRN007,EMP0147,Sales Negotiation,Sales,2020-10-29,40,55,8,0,15
+TRN007,EMP0201,Sales Negotiation,Sales,2020-01-16,50,62,2,1,12
+TRN007,EMP0281,Sales Negotiation,Sales,2021-12-15,44,50,2,0,6
+TRN007,EMP0132,Sales Negotiation,Sales,2021-12-03,40,52,8,0,12
+TRN007,EMP0244,Sales Negotiation,Sales,2023-12-28,40,56,4,0,16
+TRN007,EMP0083,Sales Negotiation,Sales,2021-10-29,49,67,2,1,18
+TRN007,EMP0215,Sales Negotiation,Sales,2023-03-03,48,61,1,1,13
+TRN007,EMP0004,Sales Negotiation,Sales,2021-12-29,45,78,2,0,33
+TRN007,EMP0270,Sales Negotiation,Sales,2020-10-19,40,59,4,0,19
+TRN007,EMP0012,Sales Negotiation,Sales,2022-01-31,47,69,2,1,22
+TRN007,EMP0221,Sales Negotiation,Sales,2022-02-06,60,80,2,0,20
+TRN007,EMP0016,Sales Negotiation,Sales,2022-02-14,40,51,4,1,11
+TRN007,EMP0082,Sales Negotiation,Sales,2021-04-27,47,61,8,1,14
+TRN008,EMP0248,Digital Marketing,Marketing,2021-02-10,42,60,4,1,18
+TRN008,EMP0298,Digital Marketing,Marketing,2021-12-31,50,73,4,1,23
+TRN008,EMP0166,Digital Marketing,Marketing,2023-07-10,40,60,1,0,20
+TRN008,EMP0081,Digital Marketing,Marketing,2021-04-27,40,52,4,1,12
+TRN008,EMP0118,Digital Marketing,Marketing,2022-07-14,40,59,2,1,19
+TRN008,EMP0052,Digital Marketing,Marketing,2020-12-21,40,58,8,1,18
+TRN008,EMP0224,Digital Marketing,Marketing,2022-05-24,58,87,16,0,29
+TRN008,EMP0227,Digital Marketing,Marketing,2022-05-19,40,56,2,1,16
+TRN008,EMP0261,Digital Marketing,Marketing,2023-01-16,51,74,2,0,23
+TRN008,EMP0007,Digital Marketing,Marketing,2023-03-10,40,63,2,0,23
+TRN008,EMP0168,Digital Marketing,Marketing,2020-09-10,45,70,2,0,25
+TRN008,EMP0065,Digital Marketing,Marketing,2023-12-26,48,57,1,0,9
+TRN008,EMP0100,Digital Marketing,Marketing,2022-05-04,49,77,4,1,28
+TRN008,EMP0230,Digital Marketing,Marketing,2021-01-11,46,69,16,1,23
+TRN008,EMP0059,Digital Marketing,Marketing,2021-10-01,42,65,8,1,23
+TRN008,EMP0191,Digital Marketing,Marketing,2023-06-05,40,54,8,1,14
+TRN008,EMP0195,Digital Marketing,Marketing,2020-04-29,40,59,8,0,19
+TRN008,EMP0288,Digital Marketing,Marketing,2023-09-11,60,73,4,0,13
+TRN008,EMP0240,Digital Marketing,Marketing,2021-11-13,40,64,4,0,24
+TRN008,EMP0158,Digital Marketing,Marketing,2023-08-19,40,72,4,1,32
+TRN008,EMP0058,Digital Marketing,Marketing,2020-06-08,61,74,4,0,13
+TRN008,EMP0128,Digital Marketing,Marketing,2021-12-21,80,100,4,1,20
+TRN008,EMP0161,Digital Marketing,Marketing,2020-11-03,63,92,4,0,29
+TRN008,EMP0200,Digital Marketing,Marketing,2022-11-16,43,64,4,1,21
+TRN008,EMP0181,Digital Marketing,Marketing,2021-08-27,59,77,4,0,18
+TRN008,EMP0117,Digital Marketing,Marketing,2023-03-05,44,58,4,1,14
+TRN008,EMP0079,Digital Marketing,Marketing,2021-07-07,58,76,4,1,18
+TRN008,EMP0206,Digital Marketing,Marketing,2020-08-04,61,82,4,0,21
+TRN008,EMP0194,Digital Marketing,Marketing,2021-07-06,43,59,4,1,16
+TRN008,EMP0204,Digital Marketing,Marketing,2021-01-13,40,50,2,0,10
+TRN008,EMP0111,Digital Marketing,Marketing,2022-11-13,50,68,2,1,18
+TRN008,EMP0078,Digital Marketing,Marketing,2020-11-30,43,63,1,1,20
+TRN008,EMP0136,Digital Marketing,Marketing,2023-12-09,48,70,4,0,22
+TRN008,EMP0182,Digital Marketing,Marketing,2021-06-08,59,70,16,0,11
+TRN008,EMP0209,Digital Marketing,Marketing,2021-04-02,40,67,4,1,27
+TRN008,EMP0251,Digital Marketing,Marketing,2020-09-04,42,62,16,0,20
+TRN008,EMP0152,Digital Marketing,Marketing,2021-08-24,40,69,4,0,29
+TRN008,EMP0137,Digital Marketing,Marketing,2021-12-04,49,62,4,0,13
+TRN008,EMP0192,Digital Marketing,Marketing,2022-07-13,47,68,1,1,21
+TRN008,EMP0201,Digital Marketing,Marketing,2021-06-19,49,68,2,0,19
+TRN008,EMP0188,Digital Marketing,Marketing,2022-07-01,40,63,2,0,23
+TRN008,EMP0025,Digital Marketing,Marketing,2021-10-20,52,89,4,1,37
+TRN008,EMP0232,Digital Marketing,Marketing,2022-01-10,56,72,8,1,16
+TRN008,EMP0013,Digital Marketing,Marketing,2023-12-19,51,70,2,0,19
+TRN008,EMP0010,Digital Marketing,Marketing,2022-05-13,40,56,4,0,16
+TRN008,EMP0077,Digital Marketing,Marketing,2023-09-21,40,65,2,1,25
+TRN008,EMP0205,Digital Marketing,Marketing,2023-07-06,55,87,4,1,32
+TRN008,EMP0256,Digital Marketing,Marketing,2020-04-20,51,73,4,1,22
+TRN008,EMP0167,Digital Marketing,Marketing,2023-05-20,40,66,4,1,26
+TRN008,EMP0160,Digital Marketing,Marketing,2020-07-19,40,52,1,1,12
+TRN008,EMP0120,Digital Marketing,Marketing,2020-11-20,41,58,4,1,17
+TRN008,EMP0050,Digital Marketing,Marketing,2022-04-25,42,55,2,1,13
+TRN008,EMP0031,Digital Marketing,Marketing,2022-09-14,40,68,8,0,28
+TRN008,EMP0235,Digital Marketing,Marketing,2020-12-14,40,59,4,0,19
+TRN008,EMP0281,Digital Marketing,Marketing,2023-10-18,52,80,4,0,28
+TRN008,EMP0140,Digital Marketing,Marketing,2022-10-05,46,72,4,1,26
+TRN008,EMP0208,Digital Marketing,Marketing,2020-03-07,56,79,4,0,23
+TRN008,EMP0278,Digital Marketing,Marketing,2021-08-06,58,81,2,1,23
+TRN008,EMP0023,Digital Marketing,Marketing,2020-11-17,40,53,2,0,13
+TRN008,EMP0239,Digital Marketing,Marketing,2021-01-29,44,58,8,0,14
+TRN008,EMP0187,Digital Marketing,Marketing,2020-08-22,44,74,4,1,30
+TRN008,EMP0177,Digital Marketing,Marketing,2020-09-28,40,46,4,0,6
+TRN009,EMP0226,Financial Analysis,Finance,2020-06-29,65,88,2,1,23
+TRN009,EMP0063,Financial Analysis,Finance,2021-10-27,40,66,2,1,26
+TRN009,EMP0100,Financial Analysis,Finance,2022-11-10,55,77,4,1,22
+TRN009,EMP0245,Financial Analysis,Finance,2021-06-04,40,68,4,1,28
+TRN009,EMP0207,Financial Analysis,Finance,2023-06-29,40,71,8,1,31
+TRN009,EMP0229,Financial Analysis,Finance,2023-06-07,43,61,4,1,18
+TRN009,EMP0130,Financial Analysis,Finance,2022-12-24,51,77,8,0,26
+TRN009,EMP0213,Financial Analysis,Finance,2023-09-28,54,68,1,1,14
+TRN009,EMP0114,Financial Analysis,Finance,2023-08-12,46,65,2,0,19
+TRN009,EMP0064,Financial Analysis,Finance,2023-12-27,40,53,4,0,13
+TRN009,EMP0189,Financial Analysis,Finance,2021-02-08,47,69,16,1,22
+TRN009,EMP0293,Financial Analysis,Finance,2021-03-16,47,71,2,1,24
+TRN009,EMP0091,Financial Analysis,Finance,2022-06-25,49,72,2,1,23
+TRN009,EMP0137,Financial Analysis,Finance,2023-06-09,42,58,4,1,16
+TRN009,EMP0201,Financial Analysis,Finance,2022-02-19,47,70,1,1,23
+TRN009,EMP0158,Financial Analysis,Finance,2023-05-12,40,64,2,1,24
+TRN009,EMP0253,Financial Analysis,Finance,2022-03-12,62,80,8,1,18
+TRN009,EMP0228,Financial Analysis,Finance,2021-01-05,47,72,4,1,25
+TRN009,EMP0016,Financial Analysis,Finance,2020-10-30,40,56,2,1,16
+TRN009,EMP0300,Financial Analysis,Finance,2020-07-06,78,95,2,1,17
+TRN009,EMP0225,Financial Analysis,Finance,2022-04-23,49,72,4,0,23
+TRN009,EMP0258,Financial Analysis,Finance,2021-03-01,67,90,4,0,23
+TRN009,EMP0195,Financial Analysis,Finance,2020-11-09,40,63,4,1,23
+TRN009,EMP0030,Financial Analysis,Finance,2022-01-17,40,50,4,0,10
+TRN009,EMP0102,Financial Analysis,Finance,2023-05-01,41,55,1,1,14
+TRN009,EMP0263,Financial Analysis,Finance,2023-07-19,40,57,4,1,17
+TRN009,EMP0062,Financial Analysis,Finance,2023-08-02,40,58,4,1,18
+TRN009,EMP0021,Financial Analysis,Finance,2020-07-31,40,54,4,1,14
+TRN009,EMP0235,Financial Analysis,Finance,2020-05-22,40,64,4,1,24
+TRN009,EMP0250,Financial Analysis,Finance,2022-07-29,40,56,2,1,16
+TRN009,EMP0048,Financial Analysis,Finance,2022-04-30,62,82,4,1,20
+TRN009,EMP0257,Financial Analysis,Finance,2022-12-20,46,70,8,1,24
+TRN009,EMP0204,Financial Analysis,Finance,2021-07-17,40,57,2,0,17
+TRN009,EMP0154,Financial Analysis,Finance,2022-11-16,40,58,8,0,18
+TRN009,EMP0249,Financial Analysis,Finance,2021-02-25,40,62,2,1,22
+TRN009,EMP0123,Financial Analysis,Finance,2023-02-18,40,62,2,1,22
+TRN009,EMP0061,Financial Analysis,Finance,2022-06-28,76,95,8,1,19
+TRN009,EMP0085,Financial Analysis,Finance,2021-03-28,40,64,1,1,24
+TRN009,EMP0150,Financial Analysis,Finance,2020-06-26,40,58,1,0,18
+TRN009,EMP0157,Financial Analysis,Finance,2023-05-02,40,50,4,0,10
+TRN009,EMP0242,Financial Analysis,Finance,2022-02-13,40,58,16,0,18
+TRN009,EMP0237,Financial Analysis,Finance,2020-04-26,40,74,2,0,34
+TRN009,EMP0171,Financial Analysis,Finance,2020-10-21,57,80,2,1,23
+TRN009,EMP0232,Financial Analysis,Finance,2023-06-20,58,86,2,1,28
+TRN009,EMP0014,Financial Analysis,Finance,2020-02-13,40,69,4,1,29
+TRN009,EMP0261,Financial Analysis,Finance,2023-10-23,54,76,4,1,22
+TRN009,EMP0020,Financial Analysis,Finance,2023-02-27,46,62,2,0,16
+TRN009,EMP0075,Financial Analysis,Finance,2021-02-19,62,77,8,1,15
+TRN009,EMP0206,Financial Analysis,Finance,2022-10-23,64,75,2,0,11
+TRN009,EMP0119,Financial Analysis,Finance,2020-08-28,53,70,4,1,17
+TRN009,EMP0088,Financial Analysis,Finance,2023-09-19,42,50,4,0,8
+TRN009,EMP0004,Financial Analysis,Finance,2022-05-21,56,83,2,1,27
+TRN009,EMP0170,Financial Analysis,Finance,2023-10-31,48,68,1,1,20
+TRN009,EMP0113,Financial Analysis,Finance,2020-01-10,48,68,2,1,20
+TRN009,EMP0270,Financial Analysis,Finance,2022-07-01,43,59,4,1,16
+TRN009,EMP0081,Financial Analysis,Finance,2022-02-23,50,61,4,0,11
+TRN009,EMP0138,Financial Analysis,Finance,2022-01-18,45,69,2,0,24
+TRN009,EMP0160,Financial Analysis,Finance,2022-12-16,44,65,2,1,21
+TRN009,EMP0284,Financial Analysis,Finance,2023-01-26,40,63,4,0,23
+TRN009,EMP0071,Financial Analysis,Finance,2021-05-30,41,56,4,0,15
+TRN009,EMP0216,Financial Analysis,Finance,2023-02-25,42,58,4,0,16
+TRN009,EMP0003,Financial Analysis,Finance,2021-05-25,43,66,8,0,23
+TRN009,EMP0146,Financial Analysis,Finance,2023-11-28,41,71,2,1,30
+TRN009,EMP0007,Financial Analysis,Finance,2021-04-02,50,68,1,0,18
+TRN009,EMP0086,Financial Analysis,Finance,2023-10-19,40,55,4,0,15
+TRN009,EMP0164,Financial Analysis,Finance,2021-05-26,52,71,8,1,19
+TRN009,EMP0050,Financial Analysis,Finance,2021-09-20,45,64,4,0,19
+TRN009,EMP0070,Financial Analysis,Finance,2022-05-17,50,79,2,0,29
+TRN009,EMP0151,Financial Analysis,Finance,2023-03-27,50,70,4,1,20
+TRN009,EMP0045,Financial Analysis,Finance,2023-05-26,40,58,4,1,18
+TRN009,EMP0200,Financial Analysis,Finance,2023-07-12,44,67,4,1,23
+TRN009,EMP0140,Financial Analysis,Finance,2023-10-18,52,75,2,0,23
+TRN009,EMP0019,Financial Analysis,Finance,2020-07-14,53,73,4,1,20
+TRN009,EMP0177,Financial Analysis,Finance,2022-12-16,41,50,8,0,9
+TRN009,EMP0156,Financial Analysis,Finance,2022-05-10,40,62,4,1,22
+TRN009,EMP0153,Financial Analysis,Finance,2023-06-05,40,67,4,0,27
+TRN009,EMP0274,Financial Analysis,Finance,2020-09-02,60,87,4,0,27
+TRN009,EMP0172,Financial Analysis,Finance,2022-11-05,54,70,1,1,16
+TRN009,EMP0239,Financial Analysis,Finance,2020-10-10,49,72,8,0,23
+TRN009,EMP0083,Financial Analysis,Finance,2020-07-12,47,61,4,1,14
+TRN009,EMP0259,Financial Analysis,Finance,2023-10-28,44,72,4,1,28
+TRN009,EMP0128,Financial Analysis,Finance,2022-05-03,74,90,4,0,16
+TRN009,EMP0252,Financial Analysis,Finance,2020-10-18,83,98,2,0,15
+TRN009,EMP0251,Financial Analysis,Finance,2022-07-17,44,66,4,0,22
+TRN009,EMP0052,Financial Analysis,Finance,2023-01-31,40,52,8,1,12
+TRN009,EMP0212,Financial Analysis,Finance,2022-06-07,40,57,4,0,17
+TRN009,EMP0084,Financial Analysis,Finance,2021-12-06,40,39,4,0,-1
+TRN009,EMP0218,Financial Analysis,Finance,2020-06-06,40,55,4,0,15
+TRN009,EMP0068,Financial Analysis,Finance,2020-11-22,52,70,2,1,18
+TRN009,EMP0001,Financial Analysis,Finance,2023-01-15,48,74,2,0,26
+TRN009,EMP0215,Financial Analysis,Finance,2021-02-14,42,58,4,0,16
+TRN009,EMP0042,Financial Analysis,Finance,2023-10-16,46,63,1,0,17
+TRN009,EMP0027,Financial Analysis,Finance,2023-08-23,42,57,16,0,15
+TRN009,EMP0069,Financial Analysis,Finance,2022-10-23,63,85,2,0,22
+TRN009,EMP0111,Financial Analysis,Finance,2021-11-08,41,55,2,0,14
+TRN009,EMP0142,Financial Analysis,Finance,2022-07-13,63,81,4,1,18
+TRN009,EMP0012,Financial Analysis,Finance,2023-02-10,47,72,1,1,25
+TRN009,EMP0294,Financial Analysis,Finance,2021-09-14,53,84,4,1,31
+TRN009,EMP0220,Financial Analysis,Finance,2021-09-02,53,63,4,0,10
+TRN010,EMP0224,Agile Scrum,Technical,2022-10-24,47,70,8,1,23
+TRN010,EMP0281,Agile Scrum,Technical,2021-01-18,48,47,4,0,-1
+TRN010,EMP0014,Agile Scrum,Technical,2023-11-13,40,59,1,1,19
+TRN010,EMP0004,Agile Scrum,Technical,2020-03-12,49,66,8,1,17
+TRN010,EMP0196,Agile Scrum,Technical,2022-09-21,53,74,8,0,21
+TRN010,EMP0083,Agile Scrum,Technical,2020-11-25,49,64,4,0,15
+TRN010,EMP0072,Agile Scrum,Technical,2020-09-19,58,81,16,1,23
+TRN010,EMP0094,Agile Scrum,Technical,2022-02-14,40,60,4,1,20
+TRN010,EMP0077,Agile Scrum,Technical,2023-05-11,40,62,4,1,22
+TRN010,EMP0148,Agile Scrum,Technical,2023-08-12,55,70,16,0,15
+TRN010,EMP0127,Agile Scrum,Technical,2023-04-29,58,69,4,1,11
+TRN010,EMP0200,Agile Scrum,Technical,2022-04-28,44,62,4,1,18
+TRN010,EMP0112,Agile Scrum,Technical,2023-03-17,48,79,2,0,31
+TRN010,EMP0043,Agile Scrum,Technical,2022-08-13,75,93,2,1,18
+TRN010,EMP0100,Agile Scrum,Technical,2021-03-29,46,71,16,1,25
+TRN010,EMP0221,Agile Scrum,Technical,2021-12-07,60,80,1,0,20
+TRN010,EMP0226,Agile Scrum,Technical,2023-04-22,54,79,1,1,25
+TRN010,EMP0197,Agile Scrum,Technical,2021-12-22,44,56,1,1,12
+TRN010,EMP0067,Agile Scrum,Technical,2022-07-14,44,68,4,1,24
+TRN010,EMP0172,Agile Scrum,Technical,2022-09-12,55,68,8,0,13
+TRN010,EMP0167,Agile Scrum,Technical,2023-02-17,40,61,2,0,21
+TRN010,EMP0141,Agile Scrum,Technical,2022-02-24,40,51,2,0,11
+TRN010,EMP0158,Agile Scrum,Technical,2022-03-30,40,59,8,1,19
+TRN010,EMP0142,Agile Scrum,Technical,2021-06-23,63,77,4,0,14
+TRN010,EMP0164,Agile Scrum,Technical,2020-06-30,52,85,2,1,33
+TRN010,EMP0212,Agile Scrum,Technical,2020-08-14,40,59,4,1,19
+TRN010,EMP0025,Agile Scrum,Technical,2021-09-18,53,84,4,1,31
+TRN010,EMP0225,Agile Scrum,Technical,2021-01-08,54,79,8,1,25
+TRN010,EMP0035,Agile Scrum,Technical,2023-10-16,40,52,1,0,12
+TRN010,EMP0017,Agile Scrum,Technical,2022-06-19,40,63,2,1,23
+TRN010,EMP0292,Agile Scrum,Technical,2023-12-29,40,62,2,0,22
+TRN010,EMP0287,Agile Scrum,Technical,2020-04-21,61,83,2,1,22
+TRN010,EMP0016,Agile Scrum,Technical,2023-12-30,40,55,2,1,15
+TRN010,EMP0128,Agile Scrum,Technical,2020-08-09,66,94,2,1,28
+TRN010,EMP0052,Agile Scrum,Technical,2021-09-17,40,65,2,1,25
+TRN010,EMP0248,Agile Scrum,Technical,2022-02-14,50,78,4,1,28
+TRN010,EMP0286,Agile Scrum,Technical,2023-02-05,40,57,2,0,17
+TRN010,EMP0187,Agile Scrum,Technical,2020-06-23,49,72,4,1,23
+TRN010,EMP0101,Agile Scrum,Technical,2020-03-05,40,65,2,1,25
+TRN010,EMP0177,Agile Scrum,Technical,2022-03-22,40,53,2,0,13
+TRN010,EMP0089,Agile Scrum,Technical,2020-12-02,40,67,1,0,27
+TRN010,EMP0271,Agile Scrum,Technical,2023-09-06,54,71,1,0,17
+TRN010,EMP0260,Agile Scrum,Technical,2022-12-23,48,66,2,1,18
+TRN010,EMP0161,Agile Scrum,Technical,2020-01-16,57,79,2,1,22
+TRN010,EMP0093,Agile Scrum,Technical,2021-08-28,50,69,4,0,19
+TRN010,EMP0008,Agile Scrum,Technical,2022-08-05,43,76,8,1,33
+TRN010,EMP0244,Agile Scrum,Technical,2020-12-13,40,54,16,0,14
+TRN010,EMP0130,Agile Scrum,Technical,2020-01-26,44,62,4,1,18
+TRN010,EMP0136,Agile Scrum,Technical,2020-09-23,43,61,8,0,18
+TRN010,EMP0245,Agile Scrum,Technical,2021-03-25,40,60,2,1,20
+TRN010,EMP0031,Agile Scrum,Technical,2022-10-07,40,69,8,1,29
+TRN010,EMP0256,Agile Scrum,Technical,2022-04-13,45,59,8,1,14
+TRN010,EMP0267,Agile Scrum,Technical,2021-03-15,40,55,4,0,15
+TRN010,EMP0284,Agile Scrum,Technical,2023-07-15,40,57,2,0,17
+TRN010,EMP0114,Agile Scrum,Technical,2023-10-13,52,58,2,0,6
+TRN010,EMP0063,Agile Scrum,Technical,2022-08-19,40,56,4,1,16
+TRN010,EMP0107,Agile Scrum,Technical,2020-10-12,46,70,2,0,24
+TRN010,EMP0048,Agile Scrum,Technical,2021-06-06,48,64,4,0,16
+TRN010,EMP0138,Agile Scrum,Technical,2020-10-23,49,73,4,0,24
+TRN010,EMP0258,Agile Scrum,Technical,2021-09-01,57,89,2,1,32
+TRN010,EMP0189,Agile Scrum,Technical,2022-08-31,44,62,4,1,18
+TRN010,EMP0228,Agile Scrum,Technical,2023-01-30,46,65,4,1,19
+TRN010,EMP0227,Agile Scrum,Technical,2023-08-07,40,67,1,1,27
+TRN010,EMP0264,Agile Scrum,Technical,2023-02-03,62,89,2,0,27
+TRN010,EMP0216,Agile Scrum,Technical,2021-01-25,40,59,4,0,19
+TRN010,EMP0279,Agile Scrum,Technical,2021-07-12,50,77,4,1,27
+TRN010,EMP0146,Agile Scrum,Technical,2020-06-25,40,67,2,0,27
+TRN010,EMP0003,Agile Scrum,Technical,2021-11-30,44,63,8,1,19
+TRN010,EMP0069,Agile Scrum,Technical,2023-04-23,51,61,2,1,10
+TRN010,EMP0024,Agile Scrum,Technical,2022-12-23,44,57,2,1,13
+TRN010,EMP0073,Agile Scrum,Technical,2023-06-18,40,61,2,1,21
+TRN010,EMP0050,Agile Scrum,Technical,2021-08-20,50,70,4,0,20
+TRN010,EMP0007,Agile Scrum,Technical,2023-05-01,47,65,8,0,18
+TRN010,EMP0218,Agile Scrum,Technical,2022-06-16,40,58,4,1,18
+TRN010,EMP0039,Agile Scrum,Technical,2022-07-19,54,68,2,0,14
+TRN010,EMP0272,Agile Scrum,Technical,2023-01-29,42,62,2,1,20
+TRN010,EMP0266,Agile Scrum,Technical,2020-09-23,70,89,4,0,19
+TRN010,EMP0192,Agile Scrum,Technical,2023-10-03,46,65,4,1,19
+TRN010,EMP0199,Agile Scrum,Technical,2021-09-25,52,78,8,0,26
+TRN010,EMP0002,Agile Scrum,Technical,2023-03-05,59,82,8,1,23
+TRN010,EMP0295,Agile Scrum,Technical,2023-10-27,40,51,2,0,11
+TRN010,EMP0261,Agile Scrum,Technical,2023-08-17,51,62,2,1,11
+TRN010,EMP0195,Agile Scrum,Technical,2021-10-10,40,60,4,1,20
+TRN010,EMP0098,Agile Scrum,Technical,2023-02-01,40,57,4,1,17
+TRN010,EMP0263,Agile Scrum,Technical,2022-04-18,40,53,4,0,13
+TRN010,EMP0084,Agile Scrum,Technical,2020-10-28,40,55,4,0,15
+TRN010,EMP0157,Agile Scrum,Technical,2020-06-04,41,53,16,0,12
+TRN010,EMP0028,Agile Scrum,Technical,2021-04-25,42,57,1,0,15
+TRN010,EMP0274,Agile Scrum,Technical,2020-07-04,51,74,8,0,23
+TRN010,EMP0038,Agile Scrum,Technical,2023-07-21,44,61,2,0,17
+TRN010,EMP0065,Agile Scrum,Technical,2023-03-19,51,68,1,1,17
+TRN010,EMP0222,Agile Scrum,Technical,2022-01-24,40,55,4,0,15
+TRN010,EMP0176,Agile Scrum,Technical,2023-03-18,59,82,4,1,23
+TRN010,EMP0066,Agile Scrum,Technical,2020-11-06,44,69,4,1,25
+TRN010,EMP0001,Agile Scrum,Technical,2020-01-09,44,59,4,0,15
+TRN010,EMP0217,Agile Scrum,Technical,2022-07-27,47,70,8,1,23
+TRN011,EMP0259,Data Visualization,Technical,2022-12-02,47,69,8,1,22
+TRN011,EMP0010,Data Visualization,Technical,2020-05-23,40,67,4,1,27
+TRN011,EMP0168,Data Visualization,Technical,2022-05-31,50,66,2,1,16
+TRN011,EMP0256,Data Visualization,Technical,2020-09-05,47,72,4,1,25
+TRN011,EMP0114,Data Visualization,Technical,2022-11-15,45,57,8,0,12
+TRN011,EMP0086,Data Visualization,Technical,2021-03-31,40,63,2,1,23
+TRN011,EMP0239,Data Visualization,Technical,2023-06-25,50,62,4,1,12
+TRN011,EMP0095,Data Visualization,Technical,2020-01-27,59,73,4,0,14
+TRN011,EMP0002,Data Visualization,Technical,2020-10-22,59,86,4,0,27
+TRN011,EMP0288,Data Visualization,Technical,2022-05-20,61,73,8,1,12
+TRN011,EMP0173,Data Visualization,Technical,2023-07-29,40,56,1,0,16
+TRN011,EMP0245,Data Visualization,Technical,2023-08-20,40,67,2,1,27
+TRN011,EMP0247,Data Visualization,Technical,2023-04-16,40,61,2,1,21
+TRN011,EMP0017,Data Visualization,Technical,2023-05-17,40,62,4,1,22
+TRN011,EMP0044,Data Visualization,Technical,2021-03-06,51,84,4,1,33
+TRN011,EMP0089,Data Visualization,Technical,2022-01-19,40,54,1,1,14
+TRN011,EMP0092,Data Visualization,Technical,2023-01-17,54,67,1,0,13
+TRN011,EMP0195,Data Visualization,Technical,2022-10-30,40,53,4,1,13
+TRN011,EMP0182,Data Visualization,Technical,2021-08-05,54,63,8,0,9
+TRN011,EMP0143,Data Visualization,Technical,2023-10-25,42,61,4,1,19
+TRN011,EMP0062,Data Visualization,Technical,2020-01-13,40,58,4,1,18
+TRN011,EMP0110,Data Visualization,Technical,2021-01-18,40,63,8,1,23
+TRN011,EMP0157,Data Visualization,Technical,2022-01-30,43,60,4,1,17
+TRN011,EMP0136,Data Visualization,Technical,2023-06-21,43,64,2,0,21
+TRN011,EMP0032,Data Visualization,Technical,2021-07-18,67,84,2,0,17
+TRN011,EMP0191,Data Visualization,Technical,2023-07-22,40,54,4,1,14
+TRN011,EMP0018,Data Visualization,Technical,2020-08-02,52,60,16,0,8
+TRN011,EMP0108,Data Visualization,Technical,2022-03-15,63,81,4,0,18
+TRN011,EMP0211,Data Visualization,Technical,2023-08-16,40,58,16,0,18
+TRN011,EMP0005,Data Visualization,Technical,2022-10-29,60,83,2,1,23
+TRN011,EMP0167,Data Visualization,Technical,2022-11-10,40,63,4,1,23
+TRN011,EMP0003,Data Visualization,Technical,2021-07-29,41,59,2,1,18
+TRN011,EMP0054,Data Visualization,Technical,2023-09-01,41,59,1,1,18
+TRN011,EMP0281,Data Visualization,Technical,2023-04-16,48,62,4,1,14
+TRN011,EMP0151,Data Visualization,Technical,2023-08-08,46,68,4,0,22
+TRN011,EMP0300,Data Visualization,Technical,2021-05-20,73,91,8,1,18
+TRN011,EMP0152,Data Visualization,Technical,2023-06-16,42,57,2,1,15
+TRN011,EMP0113,Data Visualization,Technical,2021-05-30,54,76,1,0,22
+TRN011,EMP0072,Data Visualization,Technical,2021-07-06,58,92,16,1,34
+TRN011,EMP0098,Data Visualization,Technical,2021-11-17,46,65,16,0,19
+TRN011,EMP0133,Data Visualization,Technical,2023-12-08,57,68,4,1,11
+TRN011,EMP0065,Data Visualization,Technical,2020-12-25,49,69,2,0,20
+TRN011,EMP0077,Data Visualization,Technical,2020-09-13,40,62,8,1,22
+TRN011,EMP0130,Data Visualization,Technical,2023-04-27,50,78,2,1,28
+TRN011,EMP0192,Data Visualization,Technical,2023-08-15,45,69,4,1,24
+TRN011,EMP0082,Data Visualization,Technical,2023-07-25,40,55,4,1,15
+TRN011,EMP0051,Data Visualization,Technical,2022-10-13,44,59,2,0,15
+TRN011,EMP0266,Data Visualization,Technical,2023-06-01,64,75,8,0,11
+TRN011,EMP0201,Data Visualization,Technical,2022-06-28,43,69,2,1,26
+TRN011,EMP0138,Data Visualization,Technical,2022-08-05,46,67,4,0,21
+TRN011,EMP0041,Data Visualization,Technical,2020-09-21,40,49,2,1,9
+TRN011,EMP0261,Data Visualization,Technical,2021-12-05,51,84,2,1,33
+TRN011,EMP0140,Data Visualization,Technical,2022-10-08,53,67,2,1,14
+TRN011,EMP0163,Data Visualization,Technical,2022-05-30,66,85,2,1,19
+TRN011,EMP0174,Data Visualization,Technical,2022-05-04,57,83,8,1,26
+TRN011,EMP0188,Data Visualization,Technical,2022-03-26,40,55,2,0,15
+TRN011,EMP0202,Data Visualization,Technical,2023-09-27,53,80,4,1,27
+TRN011,EMP0015,Data Visualization,Technical,2023-03-11,52,77,4,1,25
+TRN011,EMP0164,Data Visualization,Technical,2021-11-22,53,77,4,0,24
+TRN011,EMP0285,Data Visualization,Technical,2020-04-06,40,50,16,1,10
+TRN011,EMP0093,Data Visualization,Technical,2023-05-28,44,74,4,1,30
+TRN011,EMP0278,Data Visualization,Technical,2023-08-25,50,69,2,1,19
+TRN011,EMP0120,Data Visualization,Technical,2022-03-28,40,56,8,0,16
+TRN011,EMP0007,Data Visualization,Technical,2020-12-13,47,60,1,0,13
+TRN011,EMP0197,Data Visualization,Technical,2022-08-12,44,61,4,0,17
+TRN011,EMP0279,Data Visualization,Technical,2020-07-12,55,71,2,0,16
+TRN011,EMP0240,Data Visualization,Technical,2022-12-05,40,73,8,1,33
+TRN011,EMP0061,Data Visualization,Technical,2021-06-23,81,100,2,1,19
+TRN011,EMP0272,Data Visualization,Technical,2023-04-23,41,57,8,0,16
+TRN011,EMP0280,Data Visualization,Technical,2023-02-17,42,65,4,1,23
+TRN011,EMP0146,Data Visualization,Technical,2021-02-15,40,58,2,1,18
+TRN011,EMP0004,Data Visualization,Technical,2020-07-04,47,78,4,0,31
+TRN011,EMP0025,Data Visualization,Technical,2022-02-13,54,85,8,1,31
+TRN011,EMP0172,Data Visualization,Technical,2023-01-11,47,66,4,0,19
+TRN011,EMP0008,Data Visualization,Technical,2020-09-22,54,77,8,1,23
+TRN011,EMP0116,Data Visualization,Technical,2022-08-21,67,92,2,1,25
+TRN011,EMP0084,Data Visualization,Technical,2023-06-24,40,51,2,0,11
+TRN011,EMP0217,Data Visualization,Technical,2020-05-23,42,64,4,1,22
+TRN011,EMP0016,Data Visualization,Technical,2020-07-11,40,63,1,0,23
+TRN011,EMP0145,Data Visualization,Technical,2023-08-11,50,65,1,1,15
+TRN011,EMP0176,Data Visualization,Technical,2021-11-09,59,80,1,0,21
+TRN011,EMP0184,Data Visualization,Technical,2023-04-08,40,63,2,0,23
+TRN011,EMP0118,Data Visualization,Technical,2022-05-25,40,64,4,1,24
+TRN011,EMP0209,Data Visualization,Technical,2023-06-29,42,66,8,0,24
+TRN011,EMP0252,Data Visualization,Technical,2022-03-29,76,97,2,1,21
+TRN011,EMP0213,Data Visualization,Technical,2023-03-14,45,68,4,1,23
+TRN011,EMP0222,Data Visualization,Technical,2021-03-27,40,48,16,1,8
+TRN011,EMP0232,Data Visualization,Technical,2021-06-20,59,73,2,0,14
+TRN012,EMP0113,Conflict Resolution,HR,2022-09-11,53,72,8,0,19
+TRN012,EMP0123,Conflict Resolution,HR,2023-11-20,40,57,8,1,17
+TRN012,EMP0196,Conflict Resolution,HR,2020-06-24,57,79,4,1,22
+TRN012,EMP0221,Conflict Resolution,HR,2023-11-06,57,77,4,1,20
+TRN012,EMP0128,Conflict Resolution,HR,2023-05-08,66,91,2,1,25
+TRN012,EMP0273,Conflict Resolution,HR,2021-08-25,40,63,2,1,23
+TRN012,EMP0176,Conflict Resolution,HR,2023-12-28,59,77,4,1,18
+TRN012,EMP0143,Conflict Resolution,HR,2020-05-12,40,62,2,1,22
+TRN012,EMP0207,Conflict Resolution,HR,2021-10-05,40,55,2,0,15
+TRN012,EMP0288,Conflict Resolution,HR,2020-10-31,49,68,1,0,19
+TRN012,EMP0242,Conflict Resolution,HR,2023-11-29,42,56,2,0,14
+TRN012,EMP0013,Conflict Resolution,HR,2022-12-27,63,83,2,1,20
+TRN012,EMP0114,Conflict Resolution,HR,2022-11-25,43,63,4,0,20
+TRN012,EMP0149,Conflict Resolution,HR,2023-12-26,43,63,2,1,20
+TRN012,EMP0107,Conflict Resolution,HR,2021-01-09,54,77,2,0,23
+TRN012,EMP0217,Conflict Resolution,HR,2021-01-07,51,70,4,1,19
+TRN012,EMP0250,Conflict Resolution,HR,2021-01-02,40,49,2,0,9
+TRN012,EMP0225,Conflict Resolution,HR,2023-09-05,59,75,4,1,16
+TRN012,EMP0299,Conflict Resolution,HR,2020-11-29,72,96,4,1,24
+TRN012,EMP0092,Conflict Resolution,HR,2023-12-03,58,72,2,0,14
+TRN012,EMP0266,Conflict Resolution,HR,2020-06-08,71,88,2,0,17
+TRN012,EMP0231,Conflict Resolution,HR,2023-03-04,47,58,8,1,11
+TRN012,EMP0120,Conflict Resolution,HR,2020-08-29,42,61,4,1,19
+TRN012,EMP0032,Conflict Resolution,HR,2022-11-23,57,81,1,0,24
+TRN012,EMP0240,Conflict Resolution,HR,2021-12-02,40,56,4,1,16
+TRN012,EMP0168,Conflict Resolution,HR,2022-01-04,49,72,4,0,23
+TRN012,EMP0098,Conflict Resolution,HR,2022-12-01,48,62,2,0,14
+TRN012,EMP0208,Conflict Resolution,HR,2020-07-30,63,88,8,1,25
+TRN012,EMP0205,Conflict Resolution,HR,2022-04-05,54,74,1,1,20
+TRN012,EMP0071,Conflict Resolution,HR,2021-01-26,40,56,4,0,16
+TRN012,EMP0009,Conflict Resolution,HR,2021-10-05,52,72,2,1,20
+TRN012,EMP0140,Conflict Resolution,HR,2020-07-18,49,75,4,0,26
+TRN012,EMP0180,Conflict Resolution,HR,2020-02-18,69,90,8,1,21
+TRN012,EMP0278,Conflict Resolution,HR,2020-03-22,56,89,4,1,33
+TRN012,EMP0167,Conflict Resolution,HR,2021-07-18,40,59,2,1,19
+TRN012,EMP0229,Conflict Resolution,HR,2022-02-04,40,58,2,0,18
+TRN012,EMP0141,Conflict Resolution,HR,2022-06-01,40,58,2,0,18
+TRN012,EMP0228,Conflict Resolution,HR,2022-05-04,51,67,4,0,16
+TRN012,EMP0069,Conflict Resolution,HR,2022-06-25,62,82,8,0,20
+TRN012,EMP0122,Conflict Resolution,HR,2020-08-18,51,54,2,0,3
+TRN012,EMP0202,Conflict Resolution,HR,2020-07-02,53,76,4,1,23
+TRN012,EMP0005,Conflict Resolution,HR,2020-09-19,62,79,2,1,17
+TRN012,EMP0222,Conflict Resolution,HR,2020-11-03,40,62,1,0,22
+TRN012,EMP0252,Conflict Resolution,HR,2023-11-18,84,100,4,0,16
+TRN012,EMP0130,Conflict Resolution,HR,2022-09-04,42,64,4,0,22
+TRN012,EMP0259,Conflict Resolution,HR,2020-11-14,43,66,2,1,23
+TRN012,EMP0235,Conflict Resolution,HR,2023-03-19,40,60,4,0,20
+TRN012,EMP0097,Conflict Resolution,HR,2022-06-17,50,67,8,1,17
+TRN012,EMP0111,Conflict Resolution,HR,2020-02-01,47,66,4,1,19
+TRN012,EMP0210,Conflict Resolution,HR,2022-06-28,45,52,8,0,7
+TRN012,EMP0177,Conflict Resolution,HR,2022-06-02,40,49,2,0,9
+TRN012,EMP0054,Conflict Resolution,HR,2023-03-25,42,56,8,1,14
+TRN012,EMP0103,Conflict Resolution,HR,2023-02-05,61,83,8,0,22
+TRN012,EMP0272,Conflict Resolution,HR,2022-05-22,44,68,2,0,24
+TRN012,EMP0213,Conflict Resolution,HR,2022-02-21,49,75,2,1,26
+TRN012,EMP0298,Conflict Resolution,HR,2020-02-25,53,66,4,0,13
+TRN012,EMP0284,Conflict Resolution,HR,2022-03-30,40,50,4,0,10
+TRN012,EMP0073,Conflict Resolution,HR,2020-04-21,41,64,4,1,23
+TRN012,EMP0234,Conflict Resolution,HR,2020-10-04,40,58,2,0,18
+TRN012,EMP0209,Conflict Resolution,HR,2022-12-01,40,68,8,1,28
+TRN012,EMP0117,Conflict Resolution,HR,2023-10-22,44,64,4,1,20
+TRN012,EMP0263,Conflict Resolution,HR,2023-05-02,40,66,4,1,26
+TRN012,EMP0260,Conflict Resolution,HR,2021-10-19,42,57,8,0,15
+TRN012,EMP0006,Conflict Resolution,HR,2021-06-11,48,68,4,1,20
+TRN012,EMP0192,Conflict Resolution,HR,2021-11-20,48,66,4,0,18
+TRN012,EMP0135,Conflict Resolution,HR,2021-08-04,50,67,8,0,17
+TRN012,EMP0251,Conflict Resolution,HR,2022-01-23,44,58,4,1,14
+TRN012,EMP0063,Conflict Resolution,HR,2022-04-06,40,64,4,1,24
+TRN012,EMP0086,Conflict Resolution,HR,2021-10-08,42,61,2,0,19
+TRN012,EMP0018,Conflict Resolution,HR,2023-04-02,52,70,4,0,18
+TRN012,EMP0070,Conflict Resolution,HR,2021-06-10,52,77,2,1,25
+TRN012,EMP0153,Conflict Resolution,HR,2020-12-17,40,51,8,1,11
+TRN012,EMP0027,Conflict Resolution,HR,2023-07-07,45,58,2,0,13
+TRN012,EMP0256,Conflict Resolution,HR,2022-12-06,45,65,1,1,20
+TRN012,EMP0285,Conflict Resolution,HR,2022-08-25,40,50,4,0,10
+TRN012,EMP0215,Conflict Resolution,HR,2020-02-21,47,73,1,1,26
+TRN012,EMP0173,Conflict Resolution,HR,2022-11-24,40,38,4,1,-2
+TRN012,EMP0189,Conflict Resolution,HR,2020-03-03,44,77,16,1,33
+TRN012,EMP0295,Conflict Resolution,HR,2023-01-11,40,69,4,1,29
+TRN012,EMP0206,Conflict Resolution,HR,2023-06-18,60,77,2,1,17
+TRN012,EMP0164,Conflict Resolution,HR,2021-06-19,48,72,2,1,24
+TRN012,EMP0188,Conflict Resolution,HR,2021-11-12,40,59,8,0,19
+TRN012,EMP0300,Conflict Resolution,HR,2022-05-16,76,99,8,1,23
+TRN012,EMP0023,Conflict Resolution,HR,2022-08-16,40,56,2,1,16
+TRN012,EMP0078,Conflict Resolution,HR,2020-05-02,47,63,4,1,16
+TRN012,EMP0183,Conflict Resolution,HR,2020-10-14,60,84,2,1,24
+TRN012,EMP0170,Conflict Resolution,HR,2023-06-25,47,65,2,1,18
+TRN012,EMP0041,Conflict Resolution,HR,2022-10-01,40,56,8,0,16
+TRN012,EMP0055,Conflict Resolution,HR,2020-12-25,49,75,2,1,26
+TRN012,EMP0174,Conflict Resolution,HR,2020-04-23,51,75,1,1,24
+TRN012,EMP0034,Conflict Resolution,HR,2021-07-15,41,54,2,1,13
+TRN012,EMP0072,Conflict Resolution,HR,2023-06-10,55,86,4,1,31
+TRN012,EMP0257,Conflict Resolution,HR,2021-07-16,42,64,16,1,22
+TRN012,EMP0089,Conflict Resolution,HR,2021-01-21,40,60,1,1,20
+TRN012,EMP0137,Conflict Resolution,HR,2021-01-24,43,61,4,1,18
+TRN012,EMP0287,Conflict Resolution,HR,2022-08-19,50,72,2,0,22
+TRN012,EMP0062,Conflict Resolution,HR,2020-12-23,40,58,4,1,18
+TRN012,EMP0108,Conflict Resolution,HR,2023-06-13,52,69,8,0,17
+TRN012,EMP0220,Conflict Resolution,HR,2023-12-03,50,59,4,0,9
+TRN012,EMP0275,Conflict Resolution,HR,2021-08-23,40,48,16,0,8
+TRN012,EMP0271,Conflict Resolution,HR,2023-02-25,53,78,4,0,25
+TRN012,EMP0230,Conflict Resolution,HR,2021-04-10,50,65,1,0,15
+TRN013,EMP0115,Time Management,Soft Skills,2021-04-28,40,49,16,0,9
+TRN013,EMP0081,Time Management,Soft Skills,2021-06-22,48,65,4,0,17
+TRN013,EMP0196,Time Management,Soft Skills,2020-07-31,55,74,4,1,19
+TRN013,EMP0038,Time Management,Soft Skills,2020-11-03,40,63,8,1,23
+TRN013,EMP0154,Time Management,Soft Skills,2020-03-30,40,51,2,0,11
+TRN013,EMP0230,Time Management,Soft Skills,2021-12-27,45,67,8,0,22
+TRN013,EMP0048,Time Management,Soft Skills,2023-02-12,50,73,4,0,23
+TRN013,EMP0226,Time Management,Soft Skills,2023-11-21,65,87,8,0,22
+TRN013,EMP0228,Time Management,Soft Skills,2021-11-18,50,71,4,1,21
+TRN013,EMP0017,Time Management,Soft Skills,2023-07-28,40,60,2,0,20
+TRN013,EMP0005,Time Management,Soft Skills,2022-12-29,67,100,4,1,33
+TRN013,EMP0294,Time Management,Soft Skills,2021-03-25,51,70,4,0,19
+TRN013,EMP0059,Time Management,Soft Skills,2020-03-07,40,61,4,1,21
+TRN013,EMP0248,Time Management,Soft Skills,2023-07-26,40,57,4,0,17
+TRN013,EMP0168,Time Management,Soft Skills,2020-08-18,46,74,1,1,28
+TRN013,EMP0079,Time Management,Soft Skills,2021-05-21,57,92,4,1,35
+TRN013,EMP0036,Time Management,Soft Skills,2022-04-14,54,72,4,1,18
+TRN013,EMP0148,Time Management,Soft Skills,2020-05-10,52,75,4,0,23
+TRN013,EMP0122,Time Management,Soft Skills,2022-01-10,49,67,4,0,18
+TRN013,EMP0210,Time Management,Soft Skills,2023-12-29,40,51,2,0,11
+TRN013,EMP0272,Time Management,Soft Skills,2022-11-17,40,59,2,0,19
+TRN013,EMP0242,Time Management,Soft Skills,2021-07-23,41,46,4,0,5
+TRN013,EMP0082,Time Management,Soft Skills,2023-04-19,49,70,16,1,21
+TRN013,EMP0264,Time Management,Soft Skills,2023-04-14,67,89,2,0,22
+TRN013,EMP0251,Time Management,Soft Skills,2021-12-21,41,58,4,1,17
+TRN013,EMP0280,Time Management,Soft Skills,2021-11-25,48,65,1,1,17
+TRN013,EMP0137,Time Management,Soft Skills,2023-03-30,47,73,2,1,26
+TRN013,EMP0177,Time Management,Soft Skills,2020-02-21,40,48,2,0,8
+TRN013,EMP0092,Time Management,Soft Skills,2021-11-24,58,72,4,0,14
+TRN013,EMP0299,Time Management,Soft Skills,2020-03-08,70,90,2,1,20
+TRN013,EMP0010,Time Management,Soft Skills,2020-11-20,40,59,2,1,19
+TRN013,EMP0045,Time Management,Soft Skills,2021-02-20,40,50,4,1,10
+TRN013,EMP0269,Time Management,Soft Skills,2021-07-14,45,68,2,0,23
+TRN013,EMP0266,Time Management,Soft Skills,2020-11-18,69,84,8,0,15
+TRN013,EMP0214,Time Management,Soft Skills,2022-01-01,43,67,2,1,24
+TRN013,EMP0129,Time Management,Soft Skills,2023-08-25,40,48,2,0,8
+TRN013,EMP0173,Time Management,Soft Skills,2022-09-20,40,62,4,0,22
+TRN013,EMP0282,Time Management,Soft Skills,2021-06-08,46,65,1,0,19
+TRN013,EMP0260,Time Management,Soft Skills,2023-05-09,50,70,2,0,20
+TRN013,EMP0098,Time Management,Soft Skills,2021-03-31,40,64,4,0,24
+TRN013,EMP0023,Time Management,Soft Skills,2023-04-09,40,54,8,1,14
+TRN013,EMP0285,Time Management,Soft Skills,2020-03-30,40,55,8,1,15
+TRN013,EMP0153,Time Management,Soft Skills,2021-02-01,40,59,4,0,19
+TRN013,EMP0021,Time Management,Soft Skills,2022-06-03,40,55,4,0,15
+TRN013,EMP0246,Time Management,Soft Skills,2021-04-03,56,78,2,0,22
+TRN013,EMP0261,Time Management,Soft Skills,2022-09-01,55,75,2,0,20
+TRN013,EMP0192,Time Management,Soft Skills,2020-10-08,52,79,2,1,27
+TRN013,EMP0135,Time Management,Soft Skills,2020-02-08,51,78,1,1,27
+TRN013,EMP0200,Time Management,Soft Skills,2022-02-09,41,58,2,1,17
+TRN013,EMP0212,Time Management,Soft Skills,2022-05-13,40,63,4,0,23
+TRN013,EMP0288,Time Management,Soft Skills,2020-12-18,60,83,1,0,23
+TRN013,EMP0241,Time Management,Soft Skills,2021-03-28,40,57,1,0,17
+TRN013,EMP0291,Time Management,Soft Skills,2022-11-28,40,60,8,1,20
+TRN013,EMP0042,Time Management,Soft Skills,2022-04-29,45,54,4,0,9
+TRN013,EMP0061,Time Management,Soft Skills,2020-04-25,81,100,4,1,19
+TRN013,EMP0012,Time Management,Soft Skills,2022-11-29,54,83,2,1,29
+TRN013,EMP0067,Time Management,Soft Skills,2021-05-23,54,78,1,0,24
+TRN013,EMP0091,Time Management,Soft Skills,2023-10-26,44,58,2,0,14
+TRN013,EMP0027,Time Management,Soft Skills,2020-07-15,44,56,8,0,12
+TRN013,EMP0220,Time Management,Soft Skills,2021-11-03,50,62,4,0,12
+TRN013,EMP0222,Time Management,Soft Skills,2021-07-27,40,54,4,1,14
+TRN013,EMP0199,Time Management,Soft Skills,2020-04-09,59,78,8,0,19
+TRN013,EMP0069,Time Management,Soft Skills,2023-09-05,50,65,2,0,15
+TRN013,EMP0127,Time Management,Soft Skills,2023-06-02,52,77,2,0,25
+TRN013,EMP0255,Time Management,Soft Skills,2020-02-25,44,65,4,1,21
+TRN013,EMP0202,Time Management,Soft Skills,2021-01-04,43,63,1,0,20
+TRN013,EMP0167,Time Management,Soft Skills,2022-12-26,41,66,4,1,25
+TRN013,EMP0130,Time Management,Soft Skills,2021-10-22,52,68,16,0,16
+TRN013,EMP0217,Time Management,Soft Skills,2023-08-07,46,67,4,0,21
+TRN013,EMP0018,Time Management,Soft Skills,2020-06-20,46,51,1,1,5
+TRN013,EMP0190,Time Management,Soft Skills,2023-06-24,40,65,4,1,25
+TRN013,EMP0300,Time Management,Soft Skills,2022-06-21,70,88,4,0,18
+TRN013,EMP0227,Time Management,Soft Skills,2020-05-12,41,60,2,1,19
+TRN013,EMP0086,Time Management,Soft Skills,2023-08-02,40,59,1,0,19
+TRN013,EMP0084,Time Management,Soft Skills,2021-07-20,40,58,4,0,18
+TRN013,EMP0189,Time Management,Soft Skills,2021-09-18,47,75,8,1,28
+TRN013,EMP0267,Time Management,Soft Skills,2023-02-16,40,57,4,0,17
+TRN013,EMP0164,Time Management,Soft Skills,2022-03-13,46,62,4,1,16
+TRN013,EMP0150,Time Management,Soft Skills,2022-07-15,41,61,8,0,20
+TRN013,EMP0044,Time Management,Soft Skills,2021-11-10,44,68,1,1,24
+TRN014,EMP0182,Customer Success,Sales,2021-08-28,51,64,4,0,13
+TRN014,EMP0110,Customer Success,Sales,2023-12-09,40,61,8,1,21
+TRN014,EMP0077,Customer Success,Sales,2020-12-13,40,54,2,0,14
+TRN014,EMP0195,Customer Success,Sales,2022-04-16,40,62,2,1,22
+TRN014,EMP0160,Customer Success,Sales,2022-11-15,40,53,8,1,13
+TRN014,EMP0298,Customer Success,Sales,2022-12-16,50,65,8,0,15
+TRN014,EMP0295,Customer Success,Sales,2023-02-03,40,59,4,1,19
+TRN014,EMP0200,Customer Success,Sales,2023-02-24,50,63,8,1,13
+TRN014,EMP0141,Customer Success,Sales,2022-11-17,40,58,1,1,18
+TRN014,EMP0153,Customer Success,Sales,2023-09-26,40,63,1,0,23
+TRN014,EMP0211,Customer Success,Sales,2020-04-30,40,63,4,0,23
+TRN014,EMP0033,Customer Success,Sales,2021-08-13,50,70,4,0,20
+TRN014,EMP0101,Customer Success,Sales,2021-07-16,40,59,4,0,19
+TRN014,EMP0025,Customer Success,Sales,2021-12-11,54,86,1,1,32
+TRN014,EMP0024,Customer Success,Sales,2020-05-15,42,63,4,1,21
+TRN014,EMP0066,Customer Success,Sales,2022-01-23,48,67,4,0,19
+TRN014,EMP0245,Customer Success,Sales,2020-02-08,40,56,4,0,16
+TRN014,EMP0106,Customer Success,Sales,2021-07-01,40,49,1,0,9
+TRN014,EMP0028,Customer Success,Sales,2020-02-18,42,59,4,0,17
+TRN014,EMP0172,Customer Success,Sales,2022-09-11,50,68,4,0,18
+TRN014,EMP0089,Customer Success,Sales,2023-04-14,40,50,4,1,10
+TRN014,EMP0293,Customer Success,Sales,2022-06-14,43,57,16,1,14
+TRN014,EMP0034,Customer Success,Sales,2020-08-29,40,63,2,1,23
+TRN014,EMP0072,Customer Success,Sales,2021-01-22,46,69,1,1,23
+TRN014,EMP0149,Customer Success,Sales,2022-02-18,46,69,4,1,23
+TRN014,EMP0292,Customer Success,Sales,2022-11-25,40,54,2,1,14
+TRN014,EMP0240,Customer Success,Sales,2022-04-11,40,56,16,0,16
+TRN014,EMP0274,Customer Success,Sales,2023-02-20,48,64,2,1,16
+TRN014,EMP0103,Customer Success,Sales,2022-06-10,58,82,4,1,24
+TRN014,EMP0017,Customer Success,Sales,2022-10-05,40,54,4,1,14
+TRN014,EMP0260,Customer Success,Sales,2021-10-31,45,58,1,1,13
+TRN014,EMP0282,Customer Success,Sales,2022-08-03,46,64,4,1,18
+TRN014,EMP0029,Customer Success,Sales,2022-07-14,46,65,1,1,19
+TRN014,EMP0010,Customer Success,Sales,2023-05-05,40,71,1,1,31
+TRN014,EMP0071,Customer Success,Sales,2021-10-02,40,56,8,0,16
+TRN014,EMP0206,Customer Success,Sales,2021-03-02,58,68,16,0,10
+TRN014,EMP0242,Customer Success,Sales,2022-08-14,40,60,1,0,20
+TRN014,EMP0170,Customer Success,Sales,2021-01-05,45,70,4,1,25
+TRN014,EMP0248,Customer Success,Sales,2022-06-03,50,63,8,0,13
+TRN014,EMP0187,Customer Success,Sales,2022-09-19,54,78,4,1,24
+TRN014,EMP0097,Customer Success,Sales,2022-07-02,51,75,16,1,24
+TRN014,EMP0176,Customer Success,Sales,2021-12-09,64,89,1,1,25
+TRN014,EMP0252,Customer Success,Sales,2022-09-14,77,96,2,1,19
+TRN014,EMP0294,Customer Success,Sales,2023-09-20,63,83,4,0,20
+TRN014,EMP0130,Customer Success,Sales,2020-12-15,49,75,4,1,26
+TRN014,EMP0235,Customer Success,Sales,2023-01-04,40,56,4,1,16
+TRN014,EMP0032,Customer Success,Sales,2022-09-06,58,88,4,0,30
+TRN014,EMP0117,Customer Success,Sales,2023-10-22,41,65,2,1,24
+TRN014,EMP0013,Customer Success,Sales,2023-09-05,50,65,2,0,15
+TRN014,EMP0114,Customer Success,Sales,2021-11-28,51,67,4,0,16
+TRN014,EMP0192,Customer Success,Sales,2021-04-18,47,79,2,1,32
+TRN014,EMP0036,Customer Success,Sales,2023-08-02,47,68,8,0,21
+TRN014,EMP0281,Customer Success,Sales,2020-12-16,51,61,2,0,10
+TRN014,EMP0027,Customer Success,Sales,2021-02-11,40,55,2,1,15
+TRN014,EMP0217,Customer Success,Sales,2023-02-22,48,62,2,1,14
+TRN014,EMP0102,Customer Success,Sales,2021-01-10,44,62,4,1,18
+TRN014,EMP0122,Customer Success,Sales,2020-02-11,54,61,4,0,7
+TRN014,EMP0227,Customer Success,Sales,2023-03-11,40,63,2,1,23
+TRN014,EMP0189,Customer Success,Sales,2023-12-07,48,68,8,1,20
+TRN014,EMP0208,Customer Success,Sales,2023-12-02,61,89,8,1,28
+TRN014,EMP0297,Customer Success,Sales,2023-06-23,50,71,4,0,21
+TRN014,EMP0133,Customer Success,Sales,2022-03-31,52,69,1,0,17
+TRN014,EMP0092,Customer Success,Sales,2021-05-04,47,63,2,0,16
+TRN014,EMP0237,Customer Success,Sales,2020-11-24,40,64,16,1,24
+TRN014,EMP0002,Customer Success,Sales,2023-07-24,61,84,2,0,23
+TRN014,EMP0137,Customer Success,Sales,2023-10-18,50,60,4,0,10
+TRN014,EMP0148,Customer Success,Sales,2020-06-15,50,66,4,0,16
+TRN014,EMP0083,Customer Success,Sales,2022-12-22,41,57,1,1,16
+TRN014,EMP0272,Customer Success,Sales,2023-10-12,42,57,8,0,15
+TRN014,EMP0188,Customer Success,Sales,2022-10-28,40,62,2,0,22
+TRN014,EMP0031,Customer Success,Sales,2023-07-23,40,66,8,1,26
+TRN014,EMP0119,Customer Success,Sales,2022-11-21,47,65,4,1,18
+TRN014,EMP0285,Customer Success,Sales,2022-11-09,40,62,8,0,22
+TRN014,EMP0183,Customer Success,Sales,2021-08-07,63,75,2,0,12
+TRN014,EMP0108,Customer Success,Sales,2021-06-11,59,73,4,0,14
+TRN014,EMP0196,Customer Success,Sales,2022-11-07,55,76,1,1,21
+TRN014,EMP0270,Customer Success,Sales,2021-07-29,45,69,2,0,24
+TRN014,EMP0081,Customer Success,Sales,2021-10-13,49,69,1,0,20
+TRN014,EMP0152,Customer Success,Sales,2022-08-30,49,65,8,0,16
+TRN014,EMP0284,Customer Success,Sales,2022-12-13,40,58,4,1,18
+TRN014,EMP0055,Customer Success,Sales,2022-04-01,47,68,4,1,21
+TRN014,EMP0220,Customer Success,Sales,2023-05-21,43,64,16,1,21
+TRN014,EMP0197,Customer Success,Sales,2023-07-10,40,58,4,1,18
+TRN014,EMP0213,Customer Success,Sales,2022-05-27,52,75,2,1,23
+TRN014,EMP0096,Customer Success,Sales,2021-01-25,53,73,2,1,20
+TRN014,EMP0091,Customer Success,Sales,2022-11-23,40,64,2,1,24
+TRN014,EMP0214,Customer Success,Sales,2022-12-07,42,59,2,0,17
+TRN014,EMP0068,Customer Success,Sales,2023-06-03,45,78,8,1,33
+TRN014,EMP0128,Customer Success,Sales,2022-01-07,68,97,4,1,29
+TRN014,EMP0061,Customer Success,Sales,2020-01-22,77,90,2,0,13
+TRN014,EMP0003,Customer Success,Sales,2021-10-24,48,62,2,1,14
+TRN014,EMP0287,Customer Success,Sales,2021-02-08,61,82,4,1,21
+TRN014,EMP0132,Customer Success,Sales,2023-07-17,40,47,4,0,7
+TRN014,EMP0048,Customer Success,Sales,2022-04-17,61,82,8,1,21
+TRN014,EMP0180,Customer Success,Sales,2021-12-11,65,90,2,1,25
+TRN014,EMP0064,Customer Success,Sales,2021-06-12,40,56,2,1,16
+TRN014,EMP0247,Customer Success,Sales,2023-02-14,40,65,4,1,25
+TRN015,EMP0001,SEO Fundamentals,Marketing,2023-10-01,40,72,8,0,32
+TRN015,EMP0028,SEO Fundamentals,Marketing,2022-11-23,48,74,4,0,26
+TRN015,EMP0234,SEO Fundamentals,Marketing,2021-04-07,40,52,16,0,12
+TRN015,EMP0292,SEO Fundamentals,Marketing,2023-02-04,40,53,4,0,13
+TRN015,EMP0128,SEO Fundamentals,Marketing,2021-09-15,77,100,8,0,23
+TRN015,EMP0152,SEO Fundamentals,Marketing,2021-02-13,46,61,2,0,15
+TRN015,EMP0042,SEO Fundamentals,Marketing,2020-07-20,40,57,4,0,17
+TRN015,EMP0163,SEO Fundamentals,Marketing,2022-10-28,64,88,2,0,24
+TRN015,EMP0041,SEO Fundamentals,Marketing,2022-04-27,40,43,4,1,3
+TRN015,EMP0182,SEO Fundamentals,Marketing,2023-05-29,47,63,2,0,16
+TRN015,EMP0280,SEO Fundamentals,Marketing,2021-10-31,48,59,1,1,11
+TRN015,EMP0059,SEO Fundamentals,Marketing,2022-03-30,40,70,4,0,30
+TRN015,EMP0224,SEO Fundamentals,Marketing,2022-01-04,51,75,2,1,24
+TRN015,EMP0006,SEO Fundamentals,Marketing,2023-12-22,48,66,2,1,18
+TRN015,EMP0111,SEO Fundamentals,Marketing,2021-04-04,50,65,2,0,15
+TRN015,EMP0031,SEO Fundamentals,Marketing,2023-10-07,40,66,2,1,26
+TRN015,EMP0106,SEO Fundamentals,Marketing,2022-12-29,40,48,4,0,8
+TRN015,EMP0052,SEO Fundamentals,Marketing,2021-11-19,40,63,2,0,23
+TRN015,EMP0127,SEO Fundamentals,Marketing,2021-11-23,67,87,1,1,20
+TRN015,EMP0088,SEO Fundamentals,Marketing,2023-04-29,40,58,4,1,18
+TRN015,EMP0196,SEO Fundamentals,Marketing,2023-07-04,66,95,2,1,29
+TRN015,EMP0274,SEO Fundamentals,Marketing,2023-07-07,61,84,4,1,23
+TRN015,EMP0119,SEO Fundamentals,Marketing,2022-11-09,54,82,1,1,28
+TRN015,EMP0080,SEO Fundamentals,Marketing,2023-10-12,67,79,4,1,12
+TRN015,EMP0256,SEO Fundamentals,Marketing,2020-01-14,48,73,4,0,25
+TRN015,EMP0169,SEO Fundamentals,Marketing,2022-01-08,64,79,4,0,15
+TRN015,EMP0136,SEO Fundamentals,Marketing,2023-02-13,41,57,8,0,16
+TRN015,EMP0043,SEO Fundamentals,Marketing,2023-02-17,61,80,4,1,19
+TRN015,EMP0134,SEO Fundamentals,Marketing,2021-08-01,40,64,4,1,24
+TRN015,EMP0081,SEO Fundamentals,Marketing,2021-03-04,44,65,8,0,21
+TRN015,EMP0285,SEO Fundamentals,Marketing,2021-10-25,40,56,2,0,16
+TRN015,EMP0265,SEO Fundamentals,Marketing,2021-07-20,40,51,2,1,11
+TRN015,EMP0021,SEO Fundamentals,Marketing,2023-03-06,40,61,4,0,21
+TRN015,EMP0154,SEO Fundamentals,Marketing,2022-11-22,40,62,4,0,22
+TRN015,EMP0067,SEO Fundamentals,Marketing,2021-01-26,52,64,4,1,12
+TRN015,EMP0123,SEO Fundamentals,Marketing,2021-07-26,40,60,16,0,20
+TRN015,EMP0263,SEO Fundamentals,Marketing,2022-11-15,40,54,2,0,14
+TRN015,EMP0157,SEO Fundamentals,Marketing,2022-03-26,44,68,2,0,24
+TRN015,EMP0097,SEO Fundamentals,Marketing,2020-08-20,58,85,4,0,27
+TRN015,EMP0063,SEO Fundamentals,Marketing,2022-08-08,40,72,8,1,32
+TRN015,EMP0237,SEO Fundamentals,Marketing,2021-03-19,40,63,2,1,23
+TRN015,EMP0188,SEO Fundamentals,Marketing,2022-01-04,40,53,4,0,13
+TRN015,EMP0141,SEO Fundamentals,Marketing,2022-06-27,40,55,4,0,15
+TRN015,EMP0065,SEO Fundamentals,Marketing,2023-12-01,52,73,2,1,21
+TRN015,EMP0291,SEO Fundamentals,Marketing,2022-06-21,40,61,4,1,21
+TRN015,EMP0155,SEO Fundamentals,Marketing,2022-08-07,40,56,2,0,16
+TRN015,EMP0228,SEO Fundamentals,Marketing,2020-05-08,50,69,4,1,19
+TRN015,EMP0100,SEO Fundamentals,Marketing,2023-07-27,52,74,4,1,22
+TRN015,EMP0055,SEO Fundamentals,Marketing,2023-12-22,44,61,1,0,17
+TRN015,EMP0190,SEO Fundamentals,Marketing,2023-02-15,40,62,2,0,22
+TRN015,EMP0206,SEO Fundamentals,Marketing,2023-03-21,60,79,2,0,19
+TRN015,EMP0215,SEO Fundamentals,Marketing,2020-05-09,47,61,4,0,14
+TRN015,EMP0269,SEO Fundamentals,Marketing,2022-09-09,46,58,2,0,12
+TRN015,EMP0122,SEO Fundamentals,Marketing,2021-05-26,57,72,2,0,15

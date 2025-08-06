@@ -1,0 +1,301 @@
+employee_id,first_name,last_name,email,department,job_title,location,hire_date,termination_date,termination_reason,voluntary,gender,ethnicity,age,salary,engagement,performance,manager_id,active_status,current_date,tenure_days,is_active,is_voluntary
+EMP0001,Michelle,King,mparker39@company.com,Marketing,Director,NYC,2018-08-09,,,,Female,White,35,154609,3,3,,True,2025-07-17 13:56:52.129856,2534.0,1,0
+EMP0002,Ralph,Blackburn,rdalton73@company.com,Sales,Account Executive,Chicago,2018-06-12,,,,Male,Asian,23,80218,3,4,EMP0011,True,2025-07-17 13:56:52.129856,2592.0,1,0
+EMP0003,Antonio,Ward,alee87@company.com,Engineering,Junior Data Engineer,NYC,2019-05-03,,,,Male,White,30,102431,3,3,EMP0232,True,2025-07-17 13:56:52.129856,2267.0,1,0
+EMP0004,Catherine,Burke,cquinn89@company.com,Engineering,Principal DevOps,Remote,2019-02-24,,,,Female,White,34,105877,5,3,EMP0232,True,2025-07-17 13:56:52.129856,2335.0,1,0
+EMP0005,Andrea,Mcgee,aramos42@company.com,HR,Recruiter,Chicago,2019-03-28,,,,Female,Hispanic,43,84860,5,4,EMP0068,True,2025-07-17 13:56:52.129856,2303.0,1,0
+EMP0006,Cathy,Patrick,cjefferson87@company.com,Operations,Specialist,Remote,2018-11-16,,,,Female,Black,26,57810,3,3,EMP0030,True,2025-07-17 13:56:52.129856,2435.0,1,0
+EMP0007,Martin,Robles,mmurphy24@company.com,Engineering,Software Engineer,Remote,2018-12-05,,,,Male,White,33,96715,3,3,EMP0232,True,2025-07-17 13:56:52.129856,2416.0,1,0
+EMP0008,Jeffery,Roy,jdaniel10@company.com,Engineering,QA Engineer,NYC,2020-03-16,,,,Male,White,40,118533,4,3,EMP0232,True,2025-07-17 13:56:52.129856,1949.0,1,0
+EMP0009,Tyler,Simpson,tkim71@company.com,Engineering,Principal QA Engineer,Austin,2018-01-21,,,,Male,Hispanic,22,83960,3,4,EMP0232,True,2025-07-17 13:56:52.129856,2734.0,1,0
+EMP0010,Tiffany,Aguilar,tcampbell77@company.com,Marketing,Assistant Coordinator,NYC,2018-09-30,,,,Female,White,50,94029,4,1,EMP0001,True,2025-07-17 13:56:52.129856,2482.0,1,0
+EMP0011,Anthony,Rogers,achambers29@company.com,Sales,Account Manager,Chicago,2019-06-06,2020-07-07,Relocation,True,Male,White,42,179118,3,3,,False,2025-07-17 13:56:52.129856,397.0,0,1
+EMP0012,Tamara,Spencer,twilliams10@company.com,Finance,Staff Accountant,NYC,2019-09-23,,,,Other,Asian,22,75954,4,3,EMP0086,True,2025-07-17 13:56:52.129856,2124.0,1,0
+EMP0013,Mary,Brown,mwhite98@company.com,Marketing,Manager,Chicago,2021-05-26,,,,Female,White,40,139932,3,4,EMP0001,True,2025-07-17 13:56:52.129856,1513.0,1,0
+EMP0014,Cheyenne,Ayers,cdaugherty68@company.com,HR,Senior Recruiter,NYC,2018-06-28,,,,Female,White,38,89977,5,1,EMP0068,True,2025-07-17 13:56:52.129856,2576.0,1,0
+EMP0015,Mark,Reynolds,mbullock73@company.com,Marketing,Specialist,Chicago,2019-05-29,,,,Male,White,57,112289,5,3,EMP0001,True,2025-07-17 13:56:52.129856,2241.0,1,0
+EMP0016,Corey,Davis,csanders27@company.com,Finance,Staff Analyst,Chicago,2019-02-20,,,,Male,Hispanic,34,88569,3,2,EMP0086,True,2025-07-17 13:56:52.129856,2339.0,1,0
+EMP0017,Robin,Johnson,rsosa59@company.com,Engineering,Senior Data Engineer,Remote,2020-05-27,,,,Female,Asian,29,116941,3,2,EMP0232,True,2025-07-17 13:56:52.129856,1877.0,1,0
+EMP0018,Ryan,Rose,rreed67@company.com,Operations,Associate Specialist,Chicago,2020-03-02,,,,Male,White,25,59980,1,4,EMP0030,True,2025-07-17 13:56:52.129856,1963.0,1,0
+EMP0019,Christopher,Johnson,cwheeler56@company.com,Engineering,Junior Software Engineer,Chicago,2018-10-16,,,,Male,White,31,94808,5,3,EMP0232,True,2025-07-17 13:56:52.129856,2466.0,1,0
+EMP0020,Sarah,Bowen,sbell67@company.com,Operations,Associate Specialist,Austin,2019-10-05,,,,Female,White,28,59651,2,4,EMP0030,True,2025-07-17 13:56:52.129856,2112.0,1,0
+EMP0021,Jeremy,Hill,jhayes66@company.com,Engineering,Senior DevOps,NYC,2019-06-12,,,,Male,White,45,136037,3,2,EMP0232,True,2025-07-17 13:56:52.129856,2227.0,1,0
+EMP0022,Mindy,Torres,maguirre28@company.com,Finance,Staff Accountant,Chicago,2019-11-12,,,,Female,Asian,33,86875,2,3,EMP0086,True,2025-07-17 13:56:52.129856,2074.0,1,0
+EMP0023,Mark,Greer,mdavis21@company.com,Engineering,Data Engineer,NYC,2019-05-15,,,,Male,Hispanic,38,116904,2,3,EMP0232,True,2025-07-17 13:56:52.129856,2255.0,1,0
+EMP0024,Charles,Bowen,cmeza84@company.com,Engineering,Junior QA Engineer,Remote,2020-03-29,,,,Male,Black,50,133458,3,3,EMP0232,True,2025-07-17 13:56:52.129856,1936.0,1,0
+EMP0025,Christina,Norris,cjohnson64@company.com,Engineering,Senior Data Engineer,Remote,2019-11-24,,,,Female,Black,22,98477,5,3,EMP0232,True,2025-07-17 13:56:52.129856,2062.0,1,0
+EMP0026,Carol,Turner,cochoa78@company.com,Sales,Enterprise Account Manager,NYC,2018-10-19,2021-03-22,Relocation,True,Female,White,50,196514,4,4,EMP0011,False,2025-07-17 13:56:52.129856,885.0,0,1
+EMP0027,Elizabeth,Butler,eclay26@company.com,Operations,Associate Specialist,NYC,2018-12-27,,,,Female,White,42,77377,2,3,EMP0030,True,2025-07-17 13:56:52.129856,2394.0,1,0
+EMP0028,Stacy,Johnson,smitchell70@company.com,Operations,Associate Analyst,NYC,2019-01-27,,,,Female,Black,29,60637,3,3,EMP0030,True,2025-07-17 13:56:52.129856,2363.0,1,0
+EMP0029,Makayla,Campos,mallen72@company.com,Sales,Senior Account Manager,Chicago,2019-12-16,,,,Female,White,38,199469,3,3,EMP0011,True,2025-07-17 13:56:52.129856,2040.0,1,0
+EMP0030,Ashley,Silva,aflores10@company.com,Operations,Senior Manager,Chicago,2019-06-03,,,,Female,Black,29,135961,1,2,,True,2025-07-17 13:56:52.129856,2236.0,1,0
+EMP0031,Eric,Walker,edrake36@company.com,Marketing,Coordinator,Chicago,2022-01-10,,,,Male,White,24,66926,4,2,EMP0001,True,2025-07-17 13:56:52.129856,1284.0,1,0
+EMP0032,Philip,Baxter,pbrown58@company.com,HR,Assistant Recruiter,NYC,2019-06-23,,,,Male,Black,34,72644,4,4,EMP0068,True,2025-07-17 13:56:52.129856,2216.0,1,0
+EMP0033,Samantha,Parker,sjohnson87@company.com,Sales,SDR,NYC,2020-01-31,,,,Female,White,31,85491,3,3,EMP0011,True,2025-07-17 13:56:52.129856,1994.0,1,0
+EMP0034,Jeffery,Peterson,jhawkins47@company.com,Operations,Manager,Chicago,2019-08-25,,,,Male,Hispanic,55,150897,4,2,EMP0030,True,2025-07-17 13:56:52.129856,2153.0,1,0
+EMP0035,William,Schultz,wyoung65@company.com,Operations,Analyst,Remote,2019-04-08,,,,Male,Black,34,63355,1,2,EMP0030,True,2025-07-17 13:56:52.129856,2292.0,1,0
+EMP0036,Tiffany,Smith,tthomas13@company.com,Engineering,Data Engineer,NYC,2020-05-11,,,,Female,Asian,22,86793,4,3,EMP0232,True,2025-07-17 13:56:52.129856,1893.0,1,0
+EMP0037,Krystal,White,kklein82@company.com,Engineering,Junior QA Engineer,NYC,2019-08-04,2020-07-31,Career growth,True,Female,White,30,101455,3,3,EMP0232,False,2025-07-17 13:56:52.129856,362.0,0,1
+EMP0038,Sarah,Moyer,sbell96@company.com,Engineering,Principal QA Engineer,Chicago,2018-09-03,,,,Female,Black,28,89699,2,3,EMP0232,True,2025-07-17 13:56:52.129856,2509.0,1,0
+EMP0039,Steven,Rodriguez,sgonzalez95@company.com,Operations,Associate Manager,NYC,2019-06-27,,,,Male,White,22,101314,3,4,EMP0030,True,2025-07-17 13:56:52.129856,2212.0,1,0
+EMP0040,Paul,Smith,pfranklin61@company.com,Sales,Associate SDR,Chicago,2019-02-05,,,,Male,White,43,101595,5,2,EMP0011,True,2025-07-17 13:56:52.129856,2354.0,1,0
+EMP0041,Alison,Bruce,aford12@company.com,Engineering,Junior DevOps,Chicago,2020-07-18,,,,Female,White,31,107266,2,3,EMP0232,True,2025-07-17 13:56:52.129856,1825.0,1,0
+EMP0042,Lee,Cooper,lschwartz53@company.com,Operations,Specialist,NYC,2019-12-09,,,,Male,Hispanic,30,65864,2,3,EMP0030,True,2025-07-17 13:56:52.129856,2047.0,1,0
+EMP0043,Nicholas,Howell,nmccoy19@company.com,Operations,Specialist,Chicago,2021-02-02,,,,Male,White,27,58407,4,5,EMP0030,True,2025-07-17 13:56:52.129856,1626.0,1,0
+EMP0044,Casey,Gutierrez,cgomez44@company.com,Operations,Senior Specialist,Austin,2018-11-23,,,,Male,Black,40,82128,4,3,EMP0030,True,2025-07-17 13:56:52.129856,2428.0,1,0
+EMP0045,John,Bean,jcunningham49@company.com,Operations,Associate Specialist,Chicago,2020-08-13,,,,Male,Black,29,66634,4,1,EMP0030,True,2025-07-17 13:56:52.129856,1799.0,1,0
+EMP0046,Michael,Thomas,mkim24@company.com,Sales,Account Executive,Remote,2020-06-27,2021-08-25,Relocation,True,Male,White,22,79591,3,4,EMP0011,False,2025-07-17 13:56:52.129856,424.0,0,1
+EMP0047,Richard,Clark,rharrison17@company.com,Engineering,Junior Data Engineer,NYC,2020-04-10,2021-06-03,Better pay,True,Male,White,49,130440,4,4,EMP0232,False,2025-07-17 13:56:52.129856,419.0,0,1
+EMP0048,Joshua,Carter,jhall21@company.com,Sales,Account Manager,Austin,2021-04-18,,,,Male,White,30,139459,3,4,EMP0011,True,2025-07-17 13:56:52.129856,1551.0,1,0
+EMP0049,James,Bell,jrodgers30@company.com,Engineering,Principal DevOps,NYC,2020-03-25,2020-06-26,Better pay,True,Male,White,40,118856,3,2,EMP0232,False,2025-07-17 13:56:52.129856,93.0,0,1
+EMP0050,Amanda,Maldonado,agood47@company.com,HR,Assistant Generalist,NYC,2019-04-29,,,,Female,White,40,82728,3,3,EMP0068,True,2025-07-17 13:56:52.129856,2271.0,1,0
+EMP0051,Jeffery,Thomas,jmelendez58@company.com,Engineering,Senior Data Engineer,Chicago,2018-06-19,,,,Male,Asian,38,133109,2,3,EMP0232,True,2025-07-17 13:56:52.129856,2585.0,1,0
+EMP0052,Thomas,Holland,tconway27@company.com,Marketing,Specialist,NYC,2019-09-10,,,,Male,Black,55,103686,3,2,EMP0001,True,2025-07-17 13:56:52.129856,2137.0,1,0
+EMP0053,Brandon,Peterson,boneal17@company.com,Sales,SDR,NYC,2021-01-06,2022-09-23,Relocation,True,Male,White,38,93542,4,2,EMP0011,False,2025-07-17 13:56:52.129856,625.0,0,1
+EMP0054,Christy,Briggs,ctaylor25@company.com,Engineering,Junior Data Engineer,NYC,2019-09-29,,,,Other,Black,44,113930,3,3,EMP0232,True,2025-07-17 13:56:52.129856,2118.0,1,0
+EMP0055,Elizabeth,Baxter,eparker29@company.com,Operations,Associate Specialist,Chicago,2020-10-13,,,,Female,White,32,66271,3,3,EMP0030,True,2025-07-17 13:56:52.129856,1738.0,1,0
+EMP0056,Jason,Mills,jpratt96@company.com,Marketing,Specialist,Chicago,2020-06-27,2021-02-12,Better pay,True,Male,Asian,24,69144,4,3,EMP0001,False,2025-07-17 13:56:52.129856,230.0,0,1
+EMP0057,Jaime,Liu,jwelch54@company.com,Sales,Senior Account Executive,Remote,2019-11-03,2020-03-23,Relocation,True,Female,White,26,102301,3,3,EMP0011,False,2025-07-17 13:56:52.129856,141.0,0,1
+EMP0058,Scott,Bradley,sorr33@company.com,Marketing,Lead Manager,Austin,2019-11-04,,,,Male,Black,27,164615,1,5,EMP0001,True,2025-07-17 13:56:52.129856,2082.0,1,0
+EMP0059,Leonard,Singh,loliver70@company.com,Marketing,Senior Specialist,Chicago,2019-01-13,,,,Male,White,26,82115,4,2,EMP0001,True,2025-07-17 13:56:52.129856,2377.0,1,0
+EMP0060,Mitchell,Robbins,mfisher17@company.com,Operations,Analyst,Chicago,2018-06-28,2021-01-02,Career growth,True,Male,Black,43,78602,4,3,EMP0030,False,2025-07-17 13:56:52.129856,919.0,0,1
+EMP0061,Katherine,Tucker,kunderwood16@company.com,Finance,Staff Controller,NYC,2019-06-11,,,,Other,Black,24,71942,5,5,EMP0086,True,2025-07-17 13:56:52.129856,2228.0,1,0
+EMP0062,Miranda,Baker,mross54@company.com,Finance,Senior Analyst,NYC,2019-03-24,,,,Female,Black,42,112109,4,1,EMP0086,True,2025-07-17 13:56:52.129856,2307.0,1,0
+EMP0063,Catherine,Wheeler,cellis43@company.com,Engineering,Lead QA Engineer,NYC,2021-06-30,,,,Female,Asian,26,130657,5,1,EMP0232,True,2025-07-17 13:56:52.129856,1478.0,1,0
+EMP0064,Trevor,Hess,tjames74@company.com,Operations,Senior Specialist,NYC,2018-09-07,,,,Male,White,37,82763,3,1,EMP0030,True,2025-07-17 13:56:52.129856,2505.0,1,0
+EMP0065,Kristen,Williams,kmarquez34@company.com,Marketing,Senior Manager,Remote,2018-06-18,,,,Female,White,41,176377,4,3,EMP0001,True,2025-07-17 13:56:52.129856,2586.0,1,0
+EMP0066,Jennifer,Webb,jmitchell71@company.com,Engineering,Lead QA Engineer,Austin,2019-09-30,,,,Female,Asian,46,169849,4,3,EMP0232,True,2025-07-17 13:56:52.129856,2117.0,1,0
+EMP0067,Karen,Parker,khenry14@company.com,Operations,Associate Specialist,Remote,2018-12-30,,,,Female,White,39,69729,1,4,EMP0030,True,2025-07-17 13:56:52.129856,2391.0,1,0
+EMP0068,Michael,Wilkerson,menglish67@company.com,HR,Manager Business Partner,Chicago,2020-01-03,,,,Male,Black,55,163090,4,3,,True,2025-07-17 13:56:52.129856,2022.0,1,0
+EMP0069,Allison,Davenport,ajohnson47@company.com,Operations,Associate Analyst,NYC,2020-07-16,,,,Female,Asian,43,81244,3,4,EMP0030,True,2025-07-17 13:56:52.129856,1827.0,1,0
+EMP0070,Gary,Rhodes,gjones26@company.com,Operations,Associate Specialist,NYC,2019-11-17,,,,Male,White,36,64533,4,3,EMP0030,True,2025-07-17 13:56:52.129856,2069.0,1,0
+EMP0071,Valerie,Williams,vsmith26@company.com,Engineering,Senior Data Engineer,Remote,2020-10-28,,,,Female,Black,33,123239,2,3,EMP0232,True,2025-07-17 13:56:52.129856,1723.0,1,0
+EMP0072,Dwayne,Cook,dhoffman67@company.com,Engineering,Junior Software Engineer,NYC,2018-07-20,,,,Male,White,47,122858,5,3,EMP0232,True,2025-07-17 13:56:52.129856,2554.0,1,0
+EMP0073,Heather,Watson,hthomas30@company.com,Engineering,Senior Data Engineer,Austin,2019-02-18,,,,Female,Asian,33,132127,4,2,EMP0232,True,2025-07-17 13:56:52.129856,2341.0,1,0
+EMP0074,Amanda,Ford,agray62@company.com,Sales,Senior Account Manager,NYC,2019-02-20,2021-04-30,Restructuring,False,Female,White,37,196902,1,3,EMP0011,False,2025-07-17 13:56:52.129856,800.0,0,0
+EMP0075,Richard,Moore,rkelly47@company.com,Operations,Associate Manager,NYC,2020-03-20,,,,Male,White,29,109391,3,4,EMP0030,True,2025-07-17 13:56:52.129856,1945.0,1,0
+EMP0076,Sydney,Thomas,swhitehead42@company.com,Sales,Account Manager,Austin,2019-11-15,,,,Female,Asian,43,182218,4,2,EMP0011,True,2025-07-17 13:56:52.129856,2071.0,1,0
+EMP0077,Todd,White,tlawson42@company.com,Engineering,Data Engineer,Remote,2020-05-02,,,,Male,White,36,112557,3,1,EMP0232,True,2025-07-17 13:56:52.129856,1902.0,1,0
+EMP0078,Edward,Jones,edavis17@company.com,Marketing,Assistant Manager,Austin,2020-01-29,,,,Male,Black,49,171042,4,3,EMP0001,True,2025-07-17 13:56:52.129856,1996.0,1,0
+EMP0079,Michael,Nelson,mvalencia21@company.com,Sales,Associate Account Executive,NYC,2019-03-23,,,,Male,Asian,40,95831,5,4,EMP0011,True,2025-07-17 13:56:52.129856,2308.0,1,0
+EMP0080,Alexander,Sullivan,awells37@company.com,Marketing,Senior Coordinator,NYC,2020-06-12,,,,Male,Black,31,86186,1,5,EMP0001,True,2025-07-17 13:56:52.129856,1861.0,1,0
+EMP0081,Cindy,Lin,cbyrd60@company.com,Marketing,Director,Chicago,2020-08-25,,,,Female,White,59,222522,3,3,EMP0001,True,2025-07-17 13:56:52.129856,1787.0,1,0
+EMP0082,Dylan,Roth,drodriguez35@company.com,Operations,Associate Analyst,Remote,2019-01-19,,,,Male,Asian,31,61792,3,3,EMP0030,True,2025-07-17 13:56:52.129856,2371.0,1,0
+EMP0083,Nicholas,Wright,nlittle98@company.com,Finance,Controller,Austin,2020-01-21,,,,Male,White,25,77065,3,3,EMP0086,True,2025-07-17 13:56:52.129856,2004.0,1,0
+EMP0084,John,Mays,jmalone85@company.com,Operations,Associate Specialist,Remote,2018-06-25,,,,Male,White,52,80449,1,2,EMP0030,True,2025-07-17 13:56:52.129856,2579.0,1,0
+EMP0085,Kyle,Morton,kmcmahon46@company.com,Operations,Senior Manager,Austin,2018-08-22,,,,Male,White,34,130374,3,3,EMP0030,True,2025-07-17 13:56:52.129856,2521.0,1,0
+EMP0086,Thomas,Deleon,tschaefer52@company.com,Finance,Manager Controller,Chicago,2021-03-15,,,,Male,Black,22,115542,1,3,,True,2025-07-17 13:56:52.129856,1585.0,1,0
+EMP0087,Natasha,Willis,nroth26@company.com,Marketing,Lead Manager,Remote,2018-08-18,2020-02-07,Better pay,True,Female,Asian,34,197758,2,5,EMP0001,False,2025-07-17 13:56:52.129856,538.0,0,1
+EMP0088,Stephanie,Martin,shill57@company.com,Operations,Specialist,Remote,2019-05-14,,,,Female,White,34,65557,2,3,EMP0030,True,2025-07-17 13:56:52.129856,2256.0,1,0
+EMP0089,Lorraine,Riley,lgarcia30@company.com,HR,Business Partner,NYC,2020-07-01,,,,Female,White,24,64447,3,2,EMP0068,True,2025-07-17 13:56:52.129856,1842.0,1,0
+EMP0090,Samantha,Green,sbush35@company.com,Sales,SDR,NYC,2019-10-01,,,,Female,White,22,77174,3,5,EMP0011,True,2025-07-17 13:56:52.129856,2116.0,1,0
+EMP0091,Juan,Walker,jandersen34@company.com,Sales,Senior Account Manager,Chicago,2022-04-10,,,,Male,White,41,197335,3,3,EMP0011,True,2025-07-17 13:56:52.129856,1194.0,1,0
+EMP0092,Cameron,Armstrong,cgarrett58@company.com,Engineering,Data Engineer,Austin,2020-09-24,,,,Male,Asian,47,123833,2,4,EMP0232,True,2025-07-17 13:56:52.129856,1757.0,1,0
+EMP0093,Destiny,Booth,dbowman56@company.com,Operations,Senior Specialist,Austin,2018-12-02,,,,Female,Black,30,80251,4,3,EMP0030,True,2025-07-17 13:56:52.129856,2419.0,1,0
+EMP0094,Charles,Reyes,cfritz69@company.com,Engineering,QA Engineer,Chicago,2021-01-02,,,,Male,Asian,43,122208,2,2,EMP0232,True,2025-07-17 13:56:52.129856,1657.0,1,0
+EMP0095,Samantha,Norris,schapman19@company.com,Sales,Associate SDR,NYC,2019-06-26,,,,Female,Black,42,95876,2,5,EMP0011,True,2025-07-17 13:56:52.129856,2213.0,1,0
+EMP0096,Michael,Luna,mramirez51@company.com,Marketing,Assistant Director,Austin,2020-06-23,,,,Male,Asian,37,160831,4,3,EMP0001,True,2025-07-17 13:56:52.129856,1850.0,1,0
+EMP0097,Daniel,Williams,dmartin81@company.com,Sales,Senior SDR,Chicago,2018-08-27,,,,Male,White,24,92874,3,4,EMP0011,True,2025-07-17 13:56:52.129856,2516.0,1,0
+EMP0098,April,Lambert,ahernandez71@company.com,HR,Manager Generalist,Chicago,2020-10-15,,,,Female,Asian,29,108226,3,3,EMP0068,True,2025-07-17 13:56:52.129856,1736.0,1,0
+EMP0099,Jason,Wells,jrodriguez41@company.com,Finance,Senior Analyst,NYC,2018-03-02,2019-10-29,Performance,False,Male,Asian,41,118043,4,2,EMP0086,False,2025-07-17 13:56:52.129856,606.0,0,0
+EMP0100,Cassandra,Wilson,croth91@company.com,Engineering,DevOps,Chicago,2019-01-17,,,,Female,Asian,36,107406,5,3,EMP0232,True,2025-07-17 13:56:52.129856,2373.0,1,0
+EMP0101,Stephen,Garcia,sduncan75@company.com,Operations,Senior Manager,NYC,2019-09-16,,,,Male,White,33,145197,3,2,EMP0030,True,2025-07-17 13:56:52.129856,2131.0,1,0
+EMP0102,John,Velazquez,jfranco34@company.com,Finance,Senior Accountant,Chicago,2018-05-22,,,,Male,White,22,85825,3,3,EMP0086,True,2025-07-17 13:56:52.129856,2613.0,1,0
+EMP0103,Hayden,Finley,hcase92@company.com,Engineering,Lead Data Engineer,NYC,2020-06-18,,,,Male,White,47,165003,3,4,EMP0232,True,2025-07-17 13:56:52.129856,1855.0,1,0
+EMP0104,Matthew,Henry,mhorton61@company.com,Sales,Associate SDR,Chicago,2019-06-14,2019-09-12,Restructuring,False,Male,Asian,22,79398,4,4,EMP0011,False,2025-07-17 13:56:52.129856,90.0,0,0
+EMP0105,Shaun,Martinez,sholland96@company.com,Sales,Account Manager,NYC,2018-05-07,2019-03-13,Policy violation,False,Male,White,38,158638,1,4,EMP0011,False,2025-07-17 13:56:52.129856,310.0,0,0
+EMP0106,Michael,Shannon,mwilliams61@company.com,Engineering,Lead DevOps,Remote,2019-04-15,,,,Male,White,40,169154,2,2,EMP0232,True,2025-07-17 13:56:52.129856,2285.0,1,0
+EMP0107,Kimberly,Gibson,ksummers43@company.com,Engineering,Principal Data Engineer,NYC,2019-11-27,,,,Female,White,52,125465,4,3,EMP0232,True,2025-07-17 13:56:52.129856,2059.0,1,0
+EMP0108,Eric,Rodriguez,esmith20@company.com,Sales,Account Manager,Austin,2019-06-03,,,,Male,Hispanic,28,149727,3,4,EMP0011,True,2025-07-17 13:56:52.129856,2236.0,1,0
+EMP0109,Corey,Villarreal,cscott87@company.com,Sales,Enterprise Account Manager,NYC,2020-08-04,2021-09-10,Performance,False,Male,Hispanic,37,162839,4,2,EMP0011,False,2025-07-17 13:56:52.129856,402.0,0,0
+EMP0110,Rhonda,Brown,rmills49@company.com,Marketing,Director,Chicago,2020-03-13,,,,Female,White,32,152637,3,2,EMP0001,True,2025-07-17 13:56:52.129856,1952.0,1,0
+EMP0111,Alexander,Woodward,ahoffman21@company.com,Marketing,Assistant Specialist,Austin,2019-07-10,,,,Male,White,37,86389,3,3,EMP0001,True,2025-07-17 13:56:52.129856,2199.0,1,0
+EMP0112,Cheryl,Stark,cscott94@company.com,Operations,Senior Specialist,Remote,2019-12-13,,,,Female,Asian,30,73455,3,3,EMP0030,True,2025-07-17 13:56:52.129856,2043.0,1,0
+EMP0113,Bryce,Evans,bwillis17@company.com,Operations,Analyst,Chicago,2019-02-04,,,,Male,White,43,73284,4,3,EMP0030,True,2025-07-17 13:56:52.129856,2355.0,1,0
+EMP0114,Aimee,Craig,acortez18@company.com,Finance,Senior Controller,Chicago,2019-11-23,,,,Female,White,27,96837,1,4,EMP0086,True,2025-07-17 13:56:52.129856,2063.0,1,0
+EMP0115,David,Williams,djones35@company.com,Operations,Senior Manager,NYC,2018-10-19,,,,Male,White,39,151814,1,3,EMP0030,True,2025-07-17 13:56:52.129856,2463.0,1,0
+EMP0116,Candace,Ali,cgutierrez33@company.com,HR,Generalist,Chicago,2021-01-20,,,,Female,Asian,49,86171,4,5,EMP0068,True,2025-07-17 13:56:52.129856,1639.0,1,0
+EMP0117,Jimmy,Martin,jrivas56@company.com,Sales,Account Executive,Austin,2021-01-25,,,,Male,Hispanic,28,86326,3,3,EMP0011,True,2025-07-17 13:56:52.129856,1634.0,1,0
+EMP0118,Clinton,Harding,cmontes86@company.com,HR,Generalist,Remote,2019-02-27,,,,Male,Black,23,63316,4,2,EMP0068,True,2025-07-17 13:56:52.129856,2332.0,1,0
+EMP0119,Katherine,Cole,kwebb48@company.com,Finance,Analyst,Chicago,2019-01-03,,,,Female,White,31,85283,4,3,EMP0086,True,2025-07-17 13:56:52.129856,2387.0,1,0
+EMP0120,Drew,Brown,dhall19@company.com,Engineering,Junior Data Engineer,NYC,2018-09-05,,,,Male,Black,42,115312,4,2,EMP0232,True,2025-07-17 13:56:52.129856,2507.0,1,0
+EMP0121,Randy,Skinner,rbailey24@company.com,Engineering,Junior DevOps,Remote,2019-02-17,2020-04-08,Relocation,True,Male,White,36,112609,4,3,EMP0232,False,2025-07-17 13:56:52.129856,416.0,0,1
+EMP0122,James,Torres,jmartinez50@company.com,HR,Recruiter,NYC,2019-12-15,,,,Other,Black,22,60761,2,4,EMP0068,True,2025-07-17 13:56:52.129856,2041.0,1,0
+EMP0123,Tammy,Strickland,tdodson74@company.com,HR,Senior Generalist,Chicago,2019-11-25,,,,Female,White,34,90687,3,2,EMP0068,True,2025-07-17 13:56:52.129856,2061.0,1,0
+EMP0124,Francisco,Davila,fjohnson29@company.com,Engineering,Junior DevOps,Chicago,2019-01-02,,,,Male,Black,29,100907,1,2,EMP0232,True,2025-07-17 13:56:52.129856,2388.0,1,0
+EMP0125,Clayton,Wagner,creed81@company.com,Engineering,Senior Software Engineer,NYC,2018-08-27,,,,Male,White,34,130937,3,2,EMP0232,True,2025-07-17 13:56:52.129856,2516.0,1,0
+EMP0126,Luis,Douglas,ldiaz91@company.com,Sales,SDR,NYC,2018-12-22,2019-04-07,Better pay,True,Male,Black,25,84182,3,3,EMP0011,False,2025-07-17 13:56:52.129856,106.0,0,1
+EMP0127,Mary,Bradley,mbenson79@company.com,Operations,Associate Analyst,Austin,2019-02-18,,,,Female,Asian,30,60316,4,4,EMP0030,True,2025-07-17 13:56:52.129856,2341.0,1,0
+EMP0128,Donald,Leach,dbrown34@company.com,Marketing,Lead Coordinator,Remote,2019-06-02,,,,Male,White,44,125219,5,5,EMP0001,True,2025-07-17 13:56:52.129856,2237.0,1,0
+EMP0129,Brian,Lee,blivingston12@company.com,Marketing,Lead Director,Remote,2020-03-04,,,,Male,White,34,215484,2,1,EMP0001,True,2025-07-17 13:56:52.129856,1961.0,1,0
+EMP0130,Anna,Knight,adavis20@company.com,Engineering,Senior DevOps,Remote,2018-08-05,,,,Female,White,42,129834,4,3,EMP0232,True,2025-07-17 13:56:52.129856,2538.0,1,0
+EMP0131,Anthony,Jordan,alewis85@company.com,Engineering,QA Engineer,NYC,2018-09-03,2018-12-04,Career growth,True,Male,Asian,46,114104,4,3,EMP0232,False,2025-07-17 13:56:52.129856,92.0,0,1
+EMP0132,Mark,Hernandez,mmiller34@company.com,HR,Assistant Recruiter,Chicago,2019-11-30,,,,Other,White,33,77740,2,2,EMP0068,True,2025-07-17 13:56:52.129856,2056.0,1,0
+EMP0133,Anthony,Browning,aowen49@company.com,Operations,Analyst,NYC,2020-01-17,,,,Male,White,37,71161,3,4,EMP0030,True,2025-07-17 13:56:52.129856,2008.0,1,0
+EMP0134,Sabrina,Salinas,sray39@company.com,Operations,Associate Specialist,Chicago,2019-05-24,,,,Female,White,40,76388,3,2,EMP0030,True,2025-07-17 13:56:52.129856,2246.0,1,0
+EMP0135,Phyllis,Rangel,pphillips54@company.com,HR,Assistant Recruiter,Chicago,2019-03-16,,,,Female,White,36,80408,3,4,EMP0068,True,2025-07-17 13:56:52.129856,2315.0,1,0
+EMP0136,Mathew,Lopez,mallen31@company.com,Engineering,Senior DevOps,Remote,2018-12-09,,,,Male,Hispanic,27,109328,3,3,EMP0232,True,2025-07-17 13:56:52.129856,2412.0,1,0
+EMP0137,James,Jackson,jdennis44@company.com,Sales,Enterprise Account Manager,Chicago,2020-07-22,,,,Male,White,23,134632,3,3,EMP0011,True,2025-07-17 13:56:52.129856,1821.0,1,0
+EMP0138,Nicole,Novak,nroberts50@company.com,Operations,Associate Specialist,Remote,2018-11-15,,,,Female,White,28,65459,3,3,EMP0030,True,2025-07-17 13:56:52.129856,2436.0,1,0
+EMP0139,Sarah,Sosa,smcdonald78@company.com,Engineering,Senior Data Engineer,NYC,2019-04-08,2020-02-14,Performance,False,Female,Black,43,131871,3,2,EMP0232,False,2025-07-17 13:56:52.129856,312.0,0,0
+EMP0140,Patty,Anderson,pnavarro85@company.com,Engineering,DevOps,NYC,2020-06-11,,,,Female,White,42,123676,4,3,EMP0232,True,2025-07-17 13:56:52.129856,1862.0,1,0
+EMP0141,Monica,Anderson,mferrell49@company.com,HR,Recruiter,Remote,2022-01-03,,,,Female,Black,35,75180,3,2,EMP0068,True,2025-07-17 13:56:52.129856,1291.0,1,0
+EMP0142,Rebecca,Flores,rharrison54@company.com,Engineering,Lead QA Engineer,NYC,2020-06-10,,,,Female,White,29,141965,3,4,EMP0232,True,2025-07-17 13:56:52.129856,1863.0,1,0
+EMP0143,Justin,Merritt,jyoung33@company.com,Operations,Specialist,NYC,2019-09-11,,,,Male,White,34,66962,2,3,EMP0030,True,2025-07-17 13:56:52.129856,2136.0,1,0
+EMP0144,Sabrina,Davis,scarter73@company.com,Operations,Associate Manager,Chicago,2018-12-10,,,,Female,White,28,101069,5,3,EMP0030,True,2025-07-17 13:56:52.129856,2411.0,1,0
+EMP0145,Randall,Wright,rgilmore60@company.com,Sales,Enterprise Account Executive,NYC,2018-10-07,,,,Male,Black,34,91690,3,3,EMP0011,True,2025-07-17 13:56:52.129856,2475.0,1,0
+EMP0146,Billy,Cruz,bosborn95@company.com,Finance,Staff Controller,NYC,2020-06-11,,,,Male,Asian,56,110042,4,2,EMP0086,True,2025-07-17 13:56:52.129856,1862.0,1,0
+EMP0147,Kathryn,Camacho,ksosa20@company.com,Operations,Analyst,NYC,2020-07-09,,,,Female,Asian,33,69000,3,2,EMP0030,True,2025-07-17 13:56:52.129856,1834.0,1,0
+EMP0148,George,Smith,gharmon21@company.com,Marketing,Senior Coordinator,NYC,2018-11-12,,,,Male,Black,37,100658,2,4,EMP0001,True,2025-07-17 13:56:52.129856,2439.0,1,0
+EMP0149,Kristina,Ward,korr42@company.com,HR,Assistant Business Partner,Chicago,2019-02-21,,,,Female,White,23,63492,5,2,EMP0068,True,2025-07-17 13:56:52.129856,2338.0,1,0
+EMP0150,Judy,Rogers,jmcdonald54@company.com,Marketing,Manager,Chicago,2019-11-20,,,,Female,Asian,33,141737,2,3,EMP0001,True,2025-07-17 13:56:52.129856,2066.0,1,0
+EMP0151,Emily,Perez,earias30@company.com,Operations,Specialist,NYC,2020-02-19,,,,Female,Asian,31,62732,3,3,EMP0030,True,2025-07-17 13:56:52.129856,1975.0,1,0
+EMP0152,Brandy,Miles,bclark10@company.com,Engineering,Senior Data Engineer,Remote,2020-01-17,,,,Female,Black,40,127732,3,3,EMP0232,True,2025-07-17 13:56:52.129856,2008.0,1,0
+EMP0153,Daniel,Fritz,dwade25@company.com,Sales,Associate SDR,Chicago,2019-04-22,,,,Male,White,32,94177,3,2,EMP0011,True,2025-07-17 13:56:52.129856,2278.0,1,0
+EMP0154,Jennifer,Ross,jwright62@company.com,Operations,Associate Manager,Remote,2019-04-23,,,,Female,White,32,107217,1,3,EMP0030,True,2025-07-17 13:56:52.129856,2277.0,1,0
+EMP0155,David,Mcdonald,dmiller37@company.com,Operations,Specialist,NYC,2018-05-25,,,,Male,White,38,69213,3,2,EMP0030,True,2025-07-17 13:56:52.129856,2610.0,1,0
+EMP0156,Eric,Reyes,erivera35@company.com,Engineering,Junior Software Engineer,Remote,2020-08-09,,,,Male,Black,41,121357,3,1,EMP0232,True,2025-07-17 13:56:52.129856,1803.0,1,0
+EMP0157,Alan,Porter,avincent58@company.com,Finance,Manager Controller,NYC,2019-02-15,,,,Male,Hispanic,26,133441,2,3,EMP0086,True,2025-07-17 13:56:52.129856,2344.0,1,0
+EMP0158,Jessica,Smith,jcervantes56@company.com,Finance,Staff Controller,Austin,2019-07-11,,,,Female,White,38,90556,4,1,EMP0086,True,2025-07-17 13:56:52.129856,2198.0,1,0
+EMP0159,Melanie,Zimmerman,mrobbins18@company.com,Operations,Senior Manager,Chicago,2019-05-29,2021-07-19,Better pay,True,Female,White,28,133543,3,4,EMP0030,False,2025-07-17 13:56:52.129856,782.0,0,1
+EMP0160,Gregory,Turner,gwilliams74@company.com,Marketing,Director,Remote,2020-03-22,,,,Male,White,41,172051,2,3,EMP0001,True,2025-07-17 13:56:52.129856,1943.0,1,0
+EMP0161,Micheal,Sanchez,mturner38@company.com,Marketing,Coordinator,Chicago,2018-11-02,,,,Male,Hispanic,27,72378,4,4,EMP0001,True,2025-07-17 13:56:52.129856,2449.0,1,0
+EMP0162,Steven,Henry,smunoz25@company.com,Operations,Associate Analyst,Chicago,2019-01-23,2019-09-26,Restructuring,False,Male,Black,36,70021,4,3,EMP0030,False,2025-07-17 13:56:52.129856,246.0,0,0
+EMP0163,Jermaine,Mcdonald,jmartin37@company.com,Operations,Analyst,Chicago,2021-12-13,,,,Male,White,29,64533,3,5,EMP0030,True,2025-07-17 13:56:52.129856,1312.0,1,0
+EMP0164,Andrea,Richards,avelasquez54@company.com,HR,Senior Generalist,NYC,2020-06-06,,,,Female,Hispanic,40,96322,5,3,EMP0068,True,2025-07-17 13:56:52.129856,1867.0,1,0
+EMP0165,Jason,Moore,jberg63@company.com,Operations,Associate Analyst,Chicago,2018-06-18,2019-12-25,Career growth,True,Male,White,27,63406,3,4,EMP0030,False,2025-07-17 13:56:52.129856,555.0,0,1
+EMP0166,Ricardo,Brown,rholland42@company.com,Operations,Analyst,NYC,2019-11-06,,,,Male,Hispanic,24,58486,3,2,EMP0030,True,2025-07-17 13:56:52.129856,2080.0,1,0
+EMP0167,Michelle,Rice,mlopez64@company.com,HR,Business Partner,NYC,2019-07-26,,,,Female,White,34,68553,4,2,EMP0068,True,2025-07-17 13:56:52.129856,2183.0,1,0
+EMP0168,Angela,Baker,avelasquez68@company.com,HR,Assistant Recruiter,Austin,2020-02-15,,,,Female,Black,32,75479,4,3,EMP0068,True,2025-07-17 13:56:52.129856,1979.0,1,0
+EMP0169,Gregory,Jackson,gwhite76@company.com,Marketing,Assistant Manager,Remote,2020-05-30,,,,Male,White,38,151892,2,5,EMP0001,True,2025-07-17 13:56:52.129856,1874.0,1,0
+EMP0170,Stacy,Cole,shenderson91@company.com,Sales,Enterprise SDR,Chicago,2018-06-29,,,,Female,White,29,81969,5,3,EMP0011,True,2025-07-17 13:56:52.129856,2575.0,1,0
+EMP0171,Mark,White,mgarcia85@company.com,Engineering,DevOps,Remote,2018-12-10,,,,Male,White,40,110826,4,4,EMP0232,True,2025-07-17 13:56:52.129856,2411.0,1,0
+EMP0172,Bryan,Pacheco,bbradshaw77@company.com,Sales,Senior Account Executive,NYC,2019-01-21,,,,Male,Asian,24,94767,2,4,EMP0011,True,2025-07-17 13:56:52.129856,2369.0,1,0
+EMP0173,Kevin,Anderson,kfreeman71@company.com,Marketing,Lead Manager,Chicago,2022-09-17,,,,Male,Black,44,202797,3,2,EMP0001,True,2025-07-17 13:56:52.129856,1034.0,1,0
+EMP0174,Anna,Rice,awilliams50@company.com,Engineering,DevOps,Remote,2019-08-14,,,,Female,White,33,100124,3,4,EMP0232,True,2025-07-17 13:56:52.129856,2164.0,1,0
+EMP0175,Stephanie,Williams,sbarr20@company.com,Engineering,QA Engineer,Chicago,2019-05-14,2020-07-12,Policy violation,False,Female,White,22,85361,5,2,EMP0232,False,2025-07-17 13:56:52.129856,425.0,0,0
+EMP0176,Kristy,Elliott,kwallace79@company.com,Sales,Associate Account Manager,Austin,2020-06-16,,,,Female,Black,39,173335,4,4,EMP0011,True,2025-07-17 13:56:52.129856,1857.0,1,0
+EMP0177,Daniel,Jackson,dturner24@company.com,Engineering,Principal Software Engineer,Chicago,2018-11-21,,,,Male,White,41,121539,1,3,EMP0232,True,2025-07-17 13:56:52.129856,2430.0,1,0
+EMP0178,Adam,Roberts,abell36@company.com,Operations,Analyst,Chicago,2019-10-27,,,,Male,White,58,96291,4,3,EMP0030,True,2025-07-17 13:56:52.129856,2090.0,1,0
+EMP0179,Carrie,Daniels,chall89@company.com,HR,Senior Recruiter,NYC,2019-04-24,2020-01-09,Restructuring,False,Female,White,30,77762,3,3,EMP0068,False,2025-07-17 13:56:52.129856,260.0,0,0
+EMP0180,Amanda,Parker,acarter78@company.com,Finance,Staff Analyst,NYC,2018-07-10,,,,Female,White,42,94006,5,4,EMP0086,True,2025-07-17 13:56:52.129856,2564.0,1,0
+EMP0181,Sarah,Miller,smorgan71@company.com,Engineering,Principal Software Engineer,Chicago,2020-01-25,,,,Other,White,45,128824,2,4,EMP0232,True,2025-07-17 13:56:52.129856,2000.0,1,0
+EMP0182,Brandon,Miller,bhernandez83@company.com,Operations,Specialist,Chicago,2019-08-19,,,,Male,White,22,57161,2,4,EMP0030,True,2025-07-17 13:56:52.129856,2159.0,1,0
+EMP0183,Michelle,Williamson,mwallace57@company.com,Sales,SDR,Chicago,2018-07-04,,,,Female,White,41,97508,1,5,EMP0011,True,2025-07-17 13:56:52.129856,2570.0,1,0
+EMP0184,Michael,Morrow,mbaldwin45@company.com,Engineering,DevOps,Austin,2019-06-13,,,,Male,White,46,126004,4,2,EMP0232,True,2025-07-17 13:56:52.129856,2226.0,1,0
+EMP0185,Shane,Petersen,smathews26@company.com,HR,Recruiter,Chicago,2020-10-26,2022-09-23,Performance,False,Male,Black,44,86520,3,4,EMP0068,False,2025-07-17 13:56:52.129856,697.0,0,0
+EMP0186,Jessica,Banks,jjohnson25@company.com,Engineering,Senior QA Engineer,NYC,2020-02-04,2022-07-24,Career growth,True,Female,Hispanic,33,129845,4,2,EMP0232,False,2025-07-17 13:56:52.129856,901.0,0,1
+EMP0187,Catherine,Fox,chernandez48@company.com,HR,Manager Business Partner,NYC,2019-09-06,,,,Female,White,48,158524,4,3,EMP0068,True,2025-07-17 13:56:52.129856,2141.0,1,0
+EMP0188,Paige,Ross,pvelez31@company.com,HR,Manager Business Partner,Remote,2021-04-30,,,,Female,Black,48,143300,3,2,EMP0068,True,2025-07-17 13:56:52.129856,1539.0,1,0
+EMP0189,Michael,Mendez,mrobertson14@company.com,Engineering,Principal Software Engineer,Remote,2018-01-27,,,,Male,Hispanic,26,96289,4,3,EMP0232,True,2025-07-17 13:56:52.129856,2728.0,1,0
+EMP0190,Yvonne,Mack,yduke34@company.com,Operations,Specialist,Remote,2020-10-20,,,,Female,White,41,77587,4,2,EMP0030,True,2025-07-17 13:56:52.129856,1731.0,1,0
+EMP0191,Jennifer,Lee,jcontreras51@company.com,Marketing,Specialist,Remote,2020-06-20,,,,Female,White,32,77295,3,1,EMP0001,True,2025-07-17 13:56:52.129856,1853.0,1,0
+EMP0192,Joshua,Kim,jgreen42@company.com,Operations,Specialist,NYC,2020-07-05,,,,Male,White,31,67036,4,3,EMP0030,True,2025-07-17 13:56:52.129856,1838.0,1,0
+EMP0193,Linda,Brown,lsmith56@company.com,Sales,Enterprise Account Manager,Remote,2019-02-11,2019-09-28,Career growth,True,Female,Asian,26,143051,3,2,EMP0011,False,2025-07-17 13:56:52.129856,229.0,0,1
+EMP0194,Marcus,Nunez,mmitchell97@company.com,Marketing,Specialist,Chicago,2020-05-31,,,,Male,White,35,79777,4,3,EMP0001,True,2025-07-17 13:56:52.129856,1873.0,1,0
+EMP0195,Samantha,Crawford,sblack82@company.com,Sales,Associate SDR,Chicago,2018-03-09,,,,Female,Asian,26,85856,4,1,EMP0011,True,2025-07-17 13:56:52.129856,2687.0,1,0
+EMP0196,Melissa,Neal,mwilliams27@company.com,Operations,Associate Specialist,Austin,2019-04-04,,,,Female,White,32,61602,4,4,EMP0030,True,2025-07-17 13:56:52.129856,2296.0,1,0
+EMP0197,Brittany,Dillon,bgoodwin76@company.com,Finance,Analyst,NYC,2018-03-17,,,,Female,White,36,86840,2,3,EMP0086,True,2025-07-17 13:56:52.129856,2679.0,1,0
+EMP0198,Melissa,Kennedy,manderson54@company.com,Operations,Associate Analyst,NYC,2018-02-15,2020-01-09,Policy violation,False,Female,Black,25,61433,1,4,EMP0030,False,2025-07-17 13:56:52.129856,693.0,0,0
+EMP0199,Ellen,Dixon,ekennedy45@company.com,Marketing,Specialist,Remote,2019-05-01,,,,Female,White,22,69143,3,4,EMP0001,True,2025-07-17 13:56:52.129856,2269.0,1,0
+EMP0200,Jaime,Simmons,jfisher90@company.com,Marketing,Senior Manager,Chicago,2018-11-18,,,,Male,White,25,141538,3,3,EMP0001,True,2025-07-17 13:56:52.129856,2433.0,1,0
+EMP0201,Samantha,Wilson,swhite22@company.com,Sales,Senior SDR,Chicago,2019-05-26,,,,Female,Asian,40,112258,4,3,EMP0011,True,2025-07-17 13:56:52.129856,2244.0,1,0
+EMP0202,Michael,Wright,mbarr30@company.com,Finance,Accountant,Remote,2020-04-16,,,,Male,Asian,41,96268,4,3,EMP0086,True,2025-07-17 13:56:52.129856,1918.0,1,0
+EMP0203,Dawn,Davis,dwoods21@company.com,Engineering,Junior Data Engineer,NYC,2021-03-05,2022-11-14,Performance,False,Female,Black,48,130483,4,3,EMP0232,False,2025-07-17 13:56:52.129856,619.0,0,0
+EMP0204,Andrew,Bradley,abrandt40@company.com,Engineering,Senior DevOps,Remote,2018-09-27,,,,Male,Black,30,123038,1,3,EMP0232,True,2025-07-17 13:56:52.129856,2485.0,1,0
+EMP0205,Wendy,Byrd,wmatthews70@company.com,Sales,Senior Account Manager,NYC,2020-05-29,,,,Female,White,43,214714,5,3,EMP0011,True,2025-07-17 13:56:52.129856,1875.0,1,0
+EMP0206,Melanie,Jones,mwashington36@company.com,Sales,Associate Account Manager,Chicago,2019-07-01,,,,Female,White,39,178556,2,5,EMP0011,True,2025-07-17 13:56:52.129856,2208.0,1,0
+EMP0207,Michael,Bailey,mbrooks56@company.com,HR,Assistant Business Partner,Chicago,2020-01-16,,,,Male,Hispanic,31,66177,4,1,EMP0068,True,2025-07-17 13:56:52.129856,2009.0,1,0
+EMP0208,Jordan,Campbell,jlin31@company.com,HR,Business Partner,Remote,2019-11-25,,,,Female,White,22,59077,5,4,EMP0068,True,2025-07-17 13:56:52.129856,2061.0,1,0
+EMP0209,Amy,Smith,aatkins44@company.com,HR,Recruiter,NYC,2021-02-15,,,,Female,White,42,84294,4,2,EMP0068,True,2025-07-17 13:56:52.129856,1613.0,1,0
+EMP0210,Matthew,Henderson,mgarner67@company.com,HR,Senior Generalist,NYC,2019-10-01,,,,Male,White,29,79618,2,3,EMP0068,True,2025-07-17 13:56:52.129856,2116.0,1,0
+EMP0211,Stephanie,Keller,speterson22@company.com,Engineering,Junior Data Engineer,NYC,2018-06-09,,,,Female,White,23,92582,2,2,EMP0232,True,2025-07-17 13:56:52.129856,2595.0,1,0
+EMP0212,Jennifer,Young,jboyd53@company.com,Marketing,Assistant Coordinator,NYC,2020-01-30,,,,Female,White,26,66722,3,2,EMP0001,True,2025-07-17 13:56:52.129856,1995.0,1,0
+EMP0213,Michael,Bruce,mpena49@company.com,Marketing,Senior Manager,NYC,2019-11-13,,,,Male,White,47,192247,4,3,EMP0001,True,2025-07-17 13:56:52.129856,2073.0,1,0
+EMP0214,Cindy,Jones,cpatterson90@company.com,Sales,Account Manager,Remote,2020-10-02,,,,Female,White,33,159993,3,3,EMP0011,True,2025-07-17 13:56:52.129856,1749.0,1,0
+EMP0215,David,Lee,dporter89@company.com,Operations,Associate Analyst,NYC,2019-12-28,,,,Male,Hispanic,30,68285,3,3,EMP0030,True,2025-07-17 13:56:52.129856,2028.0,1,0
+EMP0216,Jacob,Williams,jlewis93@company.com,Engineering,Lead DevOps,NYC,2021-01-20,,,,Male,White,36,139442,4,2,EMP0232,True,2025-07-17 13:56:52.129856,1639.0,1,0
+EMP0217,Andrew,Murphy,aconley68@company.com,Operations,Associate Specialist,Chicago,2020-05-11,,,,Male,White,40,76210,4,3,EMP0030,True,2025-07-17 13:56:52.129856,1893.0,1,0
+EMP0218,Gary,Davies,ghoward24@company.com,HR,Senior Business Partner,Austin,2018-12-24,,,,Male,White,36,91036,2,1,EMP0068,True,2025-07-17 13:56:52.129856,2397.0,1,0
+EMP0219,John,Young,jhenson74@company.com,Engineering,Junior DevOps,Chicago,2021-02-21,2022-10-06,Better pay,True,Male,White,31,93676,3,2,EMP0232,False,2025-07-17 13:56:52.129856,592.0,0,1
+EMP0220,Joel,Simmons,jgalloway20@company.com,Sales,Associate SDR,NYC,2021-03-26,,,,Male,White,26,79525,1,4,EMP0011,True,2025-07-17 13:56:52.129856,1574.0,1,0
+EMP0221,Victor,Butler,vjohnson67@company.com,HR,Generalist,Chicago,2020-07-12,,,,Male,Black,23,62918,3,4,EMP0068,True,2025-07-17 13:56:52.129856,1831.0,1,0
+EMP0222,Frederick,Ramsey,flewis89@company.com,Marketing,Director,Chicago,2018-12-21,,,,Male,White,31,145722,3,2,EMP0001,True,2025-07-17 13:56:52.129856,2400.0,1,0
+EMP0223,Michael,Wilson,mmartinez62@company.com,Marketing,Assistant Manager,NYC,2020-04-08,2020-12-11,Relocation,True,Male,Black,40,154915,3,2,EMP0001,False,2025-07-17 13:56:52.129856,247.0,0,1
+EMP0224,Sean,Dodson,schandler71@company.com,Marketing,Senior Director,Chicago,2019-08-03,,,,Male,White,31,188786,5,3,EMP0001,True,2025-07-17 13:56:52.129856,2175.0,1,0
+EMP0225,Elizabeth,Hall,esmith95@company.com,HR,Assistant Recruiter,Chicago,2019-12-17,,,,Female,Black,25,63732,3,4,EMP0068,True,2025-07-17 13:56:52.129856,2039.0,1,0
+EMP0226,Pamela,Ford,psilva69@company.com,Engineering,Lead QA Engineer,Chicago,2019-04-21,,,,Female,Asian,33,138487,4,4,EMP0232,True,2025-07-17 13:56:52.129856,2279.0,1,0
+EMP0227,Kevin,Sanchez,kblackwell61@company.com,Sales,Associate Account Executive,NYC,2019-07-23,,,,Male,White,32,85989,5,2,EMP0011,True,2025-07-17 13:56:52.129856,2186.0,1,0
+EMP0228,Jeremy,Gomez,jmendez22@company.com,HR,Assistant Generalist,NYC,2019-12-07,,,,Male,White,36,75651,4,3,EMP0068,True,2025-07-17 13:56:52.129856,2049.0,1,0
+EMP0229,Anthony,Baker,ajackson32@company.com,Operations,Associate Specialist,Chicago,2018-10-21,,,,Male,White,22,56173,3,3,EMP0030,True,2025-07-17 13:56:52.129856,2461.0,1,0
+EMP0230,Cameron,Santana,crogers44@company.com,Finance,Controller,NYC,2018-11-22,,,,Male,White,36,89147,3,3,EMP0086,True,2025-07-17 13:56:52.129856,2429.0,1,0
+EMP0231,Christian,Nguyen,cbuchanan88@company.com,HR,Business Partner,NYC,2020-04-10,,,,Male,White,32,68146,4,3,EMP0068,True,2025-07-17 13:56:52.129856,1924.0,1,0
+EMP0232,Jennifer,Rodriguez,jsmith80@company.com,Engineering,Manager Software Engineer,Austin,2020-01-11,,,,Female,Asian,37,188809,4,4,,True,2025-07-17 13:56:52.129856,2014.0,1,0
+EMP0233,Katie,Reyes,klewis41@company.com,Sales,Associate SDR,Chicago,2018-08-13,2020-08-18,Career growth,True,Female,White,30,87730,3,3,EMP0011,False,2025-07-17 13:56:52.129856,736.0,0,1
+EMP0234,Joshua,Davis,jwhite95@company.com,Operations,Associate Manager,Remote,2019-06-25,,,,Male,White,41,119397,3,2,EMP0030,True,2025-07-17 13:56:52.129856,2214.0,1,0
+EMP0235,Gerald,Hartman,gsanders39@company.com,Operations,Associate Analyst,Remote,2020-04-26,,,,Male,White,38,72091,3,2,EMP0030,True,2025-07-17 13:56:52.129856,1908.0,1,0
+EMP0236,Jennifer,Rodriguez,jbarber90@company.com,Operations,Associate Manager,NYC,2019-10-18,2020-03-21,Career growth,True,Female,Asian,34,122182,3,3,EMP0030,False,2025-07-17 13:56:52.129856,155.0,0,1
+EMP0237,Mark,Stephens,myoung69@company.com,Engineering,Junior Data Engineer,NYC,2019-12-21,,,,Male,Hispanic,41,115456,3,2,EMP0232,True,2025-07-17 13:56:52.129856,2035.0,1,0
+EMP0238,Louis,Vaughn,lmason56@company.com,Operations,Associate Analyst,Remote,2020-03-08,2021-02-08,Performance,False,Male,White,34,64790,4,2,EMP0030,False,2025-07-17 13:56:52.129856,337.0,0,0
+EMP0239,Malik,Potter,mmitchell38@company.com,Engineering,Junior QA Engineer,NYC,2018-01-15,,,,Male,White,39,109537,3,3,EMP0232,True,2025-07-17 13:56:52.129856,2740.0,1,0
+EMP0240,Jacob,Smith,jpetersen79@company.com,HR,Senior Recruiter,Remote,2021-08-13,,,,Male,Asian,31,80412,3,2,EMP0068,True,2025-07-17 13:56:52.129856,1434.0,1,0
+EMP0241,Michael,White,mgutierrez44@company.com,Engineering,Junior DevOps,Chicago,2019-12-02,2023-09-11,Better pay,True,Male,Asian,31,97106,3,2,EMP0232,False,2025-07-17 13:56:52.129856,1379.0,0,1
+EMP0242,Wayne,Harvey,wgomez94@company.com,HR,Assistant Generalist,Remote,2019-01-30,,,,Male,White,29,71874,1,3,EMP0068,True,2025-07-17 13:56:52.129856,2360.0,1,0
+EMP0243,Joseph,Henry,jhoward75@company.com,Operations,Senior Manager,Remote,2020-09-12,2021-01-21,Policy violation,False,Male,White,42,142150,3,4,EMP0030,False,2025-07-17 13:56:52.129856,131.0,0,0
+EMP0244,Robert,Michael,rchan93@company.com,Engineering,Senior DevOps,Remote,2019-10-07,,,,Male,White,37,140190,2,2,EMP0232,True,2025-07-17 13:56:52.129856,2110.0,1,0
+EMP0245,Peggy,Peters,pstrickland33@company.com,Sales,Senior Account Manager,Chicago,2018-11-04,,,,Female,Black,46,229371,3,1,EMP0011,True,2025-07-17 13:56:52.129856,2447.0,1,0
+EMP0246,Brenda,Anderson,bpayne70@company.com,Operations,Senior Specialist,Austin,2018-07-28,,,,Female,Asian,42,92527,4,4,EMP0030,True,2025-07-17 13:56:52.129856,2546.0,1,0
+EMP0247,Jody,Yu,jlove14@company.com,Finance,Staff Accountant,NYC,2019-02-19,,,,Female,White,34,88984,4,1,EMP0086,True,2025-07-17 13:56:52.129856,2340.0,1,0
+EMP0248,Jacqueline,Long,jcollier31@company.com,Engineering,Manager DevOps,Chicago,2018-10-17,,,,Female,Hispanic,45,196665,3,3,EMP0232,True,2025-07-17 13:56:52.129856,2465.0,1,0
+EMP0249,Christopher,Kidd,cjohnson79@company.com,Sales,SDR,Chicago,2018-12-24,,,,Male,Black,48,108005,4,2,EMP0011,True,2025-07-17 13:56:52.129856,2397.0,1,0
+EMP0250,Jennifer,Garner,jyoung62@company.com,HR,Manager Recruiter,Remote,2020-06-04,,,,Female,White,31,115412,3,2,EMP0068,True,2025-07-17 13:56:52.129856,1869.0,1,0
+EMP0251,Katrina,Shepherd,kstephens35@company.com,Sales,Senior Account Manager,NYC,2019-03-20,,,,Female,Hispanic,22,157357,3,3,EMP0011,True,2025-07-17 13:56:52.129856,2311.0,1,0
+EMP0252,Brent,Jenkins,bbarton34@company.com,Marketing,Assistant Manager,Remote,2020-05-23,,,,Male,Asian,30,125307,5,5,EMP0001,True,2025-07-17 13:56:52.129856,1881.0,1,0
+EMP0253,Denise,Calhoun,dtaylor63@company.com,Sales,Enterprise Account Manager,Chicago,2019-10-08,,,,Female,Asian,25,133566,3,4,EMP0011,True,2025-07-17 13:56:52.129856,2109.0,1,0
+EMP0254,Misty,Norman,mstokes56@company.com,Marketing,Specialist,Chicago,2018-12-03,2019-12-29,Career growth,True,Female,White,37,82025,3,3,EMP0001,False,2025-07-17 13:56:52.129856,391.0,0,1
+EMP0255,Robert,Wright,rfernandez62@company.com,Sales,Account Executive,Chicago,2018-11-17,,,,Male,White,28,86047,4,3,EMP0011,True,2025-07-17 13:56:52.129856,2434.0,1,0
+EMP0256,Angel,Davis,abrown27@company.com,Engineering,Data Engineer,NYC,2019-09-12,,,,Male,Asian,41,115694,4,3,EMP0232,True,2025-07-17 13:56:52.129856,2135.0,1,0
+EMP0257,Robert,Yates,rmendez27@company.com,Marketing,Assistant Coordinator,NYC,2019-01-02,,,,Male,White,43,92293,3,3,EMP0001,True,2025-07-17 13:56:52.129856,2388.0,1,0
+EMP0258,Stephanie,Patel,skelly21@company.com,Finance,Accountant,Austin,2019-07-24,,,,Female,White,33,90899,2,5,EMP0086,True,2025-07-17 13:56:52.129856,2185.0,1,0
+EMP0259,Jonathan,Taylor,jsoto67@company.com,Operations,Associate Manager,Chicago,2019-03-06,,,,Male,White,47,142137,4,3,EMP0030,True,2025-07-17 13:56:52.129856,2325.0,1,0
+EMP0260,Ethan,Chen,ecardenas48@company.com,Sales,Senior SDR,Chicago,2021-01-08,,,,Male,White,39,120564,3,3,EMP0011,True,2025-07-17 13:56:52.129856,1651.0,1,0
+EMP0261,Anna,Morris,ajuarez44@company.com,Engineering,Senior DevOps,NYC,2020-02-05,,,,Female,White,28,115202,3,4,EMP0232,True,2025-07-17 13:56:52.129856,1989.0,1,0
+EMP0262,Samantha,Saunders,smahoney10@company.com,Marketing,Assistant Coordinator,NYC,2019-04-24,2020-07-16,Management,True,Female,Black,51,98165,3,3,EMP0001,False,2025-07-17 13:56:52.129856,449.0,0,1
+EMP0263,David,Hernandez,dlarsen27@company.com,Finance,Senior Analyst,Chicago,2019-09-02,,,,Male,White,42,107330,3,1,EMP0086,True,2025-07-17 13:56:52.129856,2145.0,1,0
+EMP0264,Suzanne,Moore,slopez54@company.com,Operations,Associate Specialist,NYC,2021-11-20,,,,Female,White,27,58204,4,4,EMP0030,True,2025-07-17 13:56:52.129856,1335.0,1,0
+EMP0265,Courtney,Lewis,cnelson23@company.com,HR,Recruiter,Remote,2018-03-12,,,,Female,White,44,82811,3,2,EMP0068,True,2025-07-17 13:56:52.129856,2684.0,1,0
+EMP0266,Lauren,Beard,lmorse47@company.com,Finance,Controller,Chicago,2020-05-24,,,,Female,White,30,87225,2,5,EMP0086,True,2025-07-17 13:56:52.129856,1880.0,1,0
+EMP0267,Donald,Vazquez,dzimmerman96@company.com,HR,Manager Generalist,Chicago,2018-11-09,,,,Male,White,24,105786,3,2,EMP0068,True,2025-07-17 13:56:52.129856,2442.0,1,0
+EMP0268,James,Fernandez,jshort40@company.com,Sales,Account Manager,NYC,2020-04-20,2021-12-23,Career growth,True,Male,White,39,158646,3,4,EMP0011,False,2025-07-17 13:56:52.129856,612.0,0,1
+EMP0269,Edward,Cruz,esimmons33@company.com,Marketing,Assistant Coordinator,NYC,2018-08-27,,,,Male,Black,40,84858,2,3,EMP0001,True,2025-07-17 13:56:52.129856,2516.0,1,0
+EMP0270,Joanna,Ruiz,jpatterson82@company.com,Marketing,Specialist,Chicago,2018-05-21,,,,Female,White,47,91191,2,3,EMP0001,True,2025-07-17 13:56:52.129856,2614.0,1,0
+EMP0271,Ellen,Spencer,ebrown27@company.com,Engineering,Junior DevOps,NYC,2021-07-07,,,,Female,White,40,118431,1,4,EMP0232,True,2025-07-17 13:56:52.129856,1471.0,1,0
+EMP0272,Emily,Dunn,eblackwell22@company.com,HR,Senior Recruiter,NYC,2020-03-04,,,,Female,Black,36,87135,2,3,EMP0068,True,2025-07-17 13:56:52.129856,1961.0,1,0
+EMP0273,Amanda,Davis,ajohnson61@company.com,HR,Assistant Generalist,Chicago,2019-04-24,,,,Female,Black,41,86090,4,2,EMP0068,True,2025-07-17 13:56:52.129856,2276.0,1,0
+EMP0274,Stephen,Lopez,svelazquez79@company.com,Operations,Associate Manager,NYC,2019-10-29,,,,Male,White,44,125353,3,4,EMP0030,True,2025-07-17 13:56:52.129856,2088.0,1,0
+EMP0275,Tiffany,Hudson,thansen98@company.com,HR,Recruiter,Austin,2020-04-20,,,,Female,White,22,64311,2,2,EMP0068,True,2025-07-17 13:56:52.129856,1914.0,1,0
+EMP0276,Blake,Vance,bgallegos37@company.com,Sales,Account Manager,Remote,2019-02-06,2021-03-19,Relocation,True,Male,Asian,42,165001,5,4,EMP0011,False,2025-07-17 13:56:52.129856,772.0,0,1
+EMP0277,Elizabeth,Gray,eswanson16@company.com,Operations,Associate Manager,Remote,2018-08-19,2020-03-12,Restructuring,False,Female,White,37,125916,3,3,EMP0030,False,2025-07-17 13:56:52.129856,571.0,0,0
+EMP0278,Brittany,Henry,blopez71@company.com,Sales,Senior Account Manager,Chicago,2019-03-30,,,,Female,White,49,234239,5,3,EMP0011,True,2025-07-17 13:56:52.129856,2301.0,1,0
+EMP0279,Robert,Clark,rheath12@company.com,Engineering,Lead DevOps,Chicago,2019-06-04,,,,Male,Asian,25,121181,5,3,EMP0232,True,2025-07-17 13:56:52.129856,2235.0,1,0
+EMP0280,William,Hamilton,wjohnson47@company.com,Engineering,Junior Data Engineer,NYC,2020-08-08,,,,Male,White,35,105598,3,3,EMP0232,True,2025-07-17 13:56:52.129856,1804.0,1,0
+EMP0281,Alyssa,Price,ahill15@company.com,Sales,Associate SDR,NYC,2020-04-18,,,,Female,Asian,42,98894,1,4,EMP0011,True,2025-07-17 13:56:52.129856,1916.0,1,0
+EMP0282,George,Mercer,gbrown27@company.com,Sales,Senior SDR,Remote,2018-03-29,,,,Male,White,27,102943,3,3,EMP0011,True,2025-07-17 13:56:52.129856,2667.0,1,0
+EMP0283,Christopher,Clark,ccameron52@company.com,Operations,Associate Specialist,Chicago,2019-03-08,2019-09-30,Performance,False,Male,White,28,65292,4,3,EMP0030,False,2025-07-17 13:56:52.129856,206.0,0,0
+EMP0284,James,Wagner,jjones87@company.com,Sales,Senior Account Manager,Remote,2020-01-24,,,,Male,White,41,220206,2,2,EMP0011,True,2025-07-17 13:56:52.129856,2001.0,1,0
+EMP0285,Michael,Smith,mmason74@company.com,Sales,Senior Account Manager,Austin,2020-02-12,,,,Male,White,25,159790,3,2,EMP0011,True,2025-07-17 13:56:52.129856,1982.0,1,0
+EMP0286,Kelly,Hamilton,ksmith46@company.com,Operations,Associate Analyst,NYC,2019-08-15,,,,Female,White,37,72921,2,2,EMP0030,True,2025-07-17 13:56:52.129856,2163.0,1,0
+EMP0287,Caleb,Brown,cortega88@company.com,Engineering,Manager Software Engineer,Remote,2018-01-18,,,,Male,Hispanic,45,212520,3,4,EMP0232,True,2025-07-17 13:56:52.129856,2737.0,1,0
+EMP0288,Ryan,Medina,rbrown27@company.com,Engineering,Junior QA Engineer,NYC,2019-12-23,,,,Male,White,43,125378,3,4,EMP0232,True,2025-07-17 13:56:52.129856,2033.0,1,0
+EMP0289,Thomas,Gross,twhitney44@company.com,Operations,Specialist,Chicago,2020-07-10,,,,Male,White,50,78400,5,4,EMP0030,True,2025-07-17 13:56:52.129856,1833.0,1,0
+EMP0290,Michael,Thompson,mwheeler72@company.com,Engineering,Junior Software Engineer,Chicago,2019-06-22,2020-10-02,Restructuring,False,Male,White,23,94189,3,4,EMP0232,False,2025-07-17 13:56:52.129856,468.0,0,0
+EMP0291,Sharon,Smith,smeyer31@company.com,Operations,Analyst,NYC,2021-07-02,,,,Female,White,22,59292,4,2,EMP0030,True,2025-07-17 13:56:52.129856,1476.0,1,0
+EMP0292,Gary,Nichols,ggarcia18@company.com,Engineering,Data Engineer,NYC,2019-04-08,,,,Male,White,23,89489,3,2,EMP0232,True,2025-07-17 13:56:52.129856,2292.0,1,0
+EMP0293,Sue,Garcia,sacosta18@company.com,Sales,Enterprise Account Manager,NYC,2020-12-29,2023-04-26,Management,True,Female,White,43,169110,4,3,EMP0011,False,2025-07-17 13:56:52.129856,848.0,0,1
+EMP0294,Jesse,Morgan,jthompson65@company.com,HR,Generalist,NYC,2018-07-25,,,,Male,White,38,81872,3,4,EMP0068,True,2025-07-17 13:56:52.129856,2549.0,1,0
+EMP0295,Robert,Wood,rsmith15@company.com,Operations,Analyst,Chicago,2020-08-14,,,,Male,White,33,69144,3,2,EMP0030,True,2025-07-17 13:56:52.129856,1798.0,1,0
+EMP0296,Thomas,Bates,tcole35@company.com,Operations,Specialist,Chicago,2019-03-05,,,,Male,White,22,52693,1,2,EMP0030,True,2025-07-17 13:56:52.129856,2326.0,1,0
+EMP0297,Christopher,Scott,cwatson25@company.com,Marketing,Senior Director,NYC,2018-06-30,,,,Other,Hispanic,38,203004,3,3,EMP0001,True,2025-07-17 13:56:52.129856,2574.0,1,0
+EMP0298,Danielle,Carroll,dlewis20@company.com,Marketing,Assistant Manager,NYC,2019-06-17,,,,Female,Asian,46,164133,4,3,EMP0001,True,2025-07-17 13:56:52.129856,2222.0,1,0
+EMP0299,Amy,Booth,aortiz43@company.com,Operations,Associate Specialist,NYC,2018-04-01,,,,Female,Black,36,65675,3,5,EMP0030,True,2025-07-17 13:56:52.129856,2664.0,1,0
+EMP0300,Melinda,Price,mhernandez15@company.com,HR,Manager Generalist,NYC,2019-11-12,,,,Female,Black,23,108211,4,5,EMP0068,True,2025-07-17 13:56:52.129856,2074.0,1,0
