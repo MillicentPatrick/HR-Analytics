@@ -13,13 +13,14 @@ A data-driven HR dashboard built with **Streamlit** for analyzing:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/hr-analytics-dashboard.git
-   cd hr-analytics-dashboard
+   git clone https://github.com/MillicentPatrick/HR-analytics-project.git
+   cd HR-analytics-project
 
 
- HR Pulse View
+ HR Analytics Project
 
-HR Pulse View is a dynamic HR analytics dashboard that provides a 360° view into your workforce. It enables data-driven decisions across key areas like attrition, engagement, diversity, recruitment, performance, and predictive risk.
+A dynamic HR analytics dashboard that provides a 360° view into your workforce. It enables data-driven decisions across key areas like attrition, engagement, diversity, recruitment, performance, and predictive risk.
+
  Executive Summary
 
     Total Employees: 300
@@ -154,7 +155,7 @@ View and manage all employees in a searchable and filterable list.
 
  Folder Structure
 
-HR_Pulse_View/
+HR_Analytics_project/
 │
 ├── pages/
 │   ├── attrition.py
@@ -172,4 +173,15 @@ HR_Pulse_View/
 │   └── employee_data.csv
 │
 ├── README.md
+
 └── app.py
+
+👤 User Directory (Admin View)
+
+Provides a secure, downloadable listing of all current employees, roles, departments, and status for internal audit or compliance.
+
+📥 Deployment & Access
+
+    🔗 Live Dashboard: https://hr-analytics-a7nokletpuvsu8yk8ri9pw.streamlit.app
+
+
