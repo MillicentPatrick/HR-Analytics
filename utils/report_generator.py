@@ -22,9 +22,10 @@ def generate_summary_report(emp_df: pd.DataFrame) -> bytes:
     pdf.cell(0, 10, f"Avg Engagement: {avg_eng:.2f}", ln=True)
     pdf.cell(0, 10, f"Avg Tenure (Years): {avg_tenure:.2f}", ln=True)
 
-    output = io.BytesIO()
-    pdf.output(output)
-    return output.getvalue()
+    
+    pdf_bytes = pdf.output(dest="S").encode("latin1")
+    return pdf_bytes
+
 
 
 # -------------------- ATTRITION --------------------
@@ -51,9 +52,10 @@ def generate_attrition_pdf(df: pd.DataFrame) -> bytes:
     else:
         pdf.cell(0, 10, "No attrition type breakdown available.", ln=True)
 
-    output = io.BytesIO()
-    pdf.output(output)
-    return output.getvalue()
+    
+    pdf_bytes = pdf.output(dest="S").encode("latin1")
+    return pdf_bytes
+
 
 
 def generate_attrition_csv(df: pd.DataFrame) -> bytes:
@@ -86,9 +88,10 @@ def generate_diversity_report(df: pd.DataFrame) -> bytes:
     else:
         pdf.cell(0, 10, "Ethnicity data not available.", ln=True)
 
-    output = io.BytesIO()
-    pdf.output(output)
-    return output.getvalue()
+    
+    pdf_bytes = pdf.output(dest="S").encode("latin1")
+    return pdf_bytes
+
 
 
 # -------------------- ENGAGEMENT --------------------
@@ -108,9 +111,9 @@ def generate_engagement_report(df: pd.DataFrame) -> bytes:
     for dept, score in eng_by_dept.items():
         pdf.cell(0, 10, f"{dept}: {score:.2f}", ln=True)
 
-    output = io.BytesIO()
-    pdf.output(output)
-    return output.getvalue()
+    pdf_bytes = pdf.output(dest="S").encode("latin1")
+    return pdf_bytes
+
 
 
 # -------------------- RECRUITMENT --------------------
@@ -137,9 +140,9 @@ def generate_recruitment_report(app_df: pd.DataFrame, open_df: pd.DataFrame) -> 
     for source, count in source_dist.items():
         pdf.cell(0, 10, f"{source}: {count}", ln=True)
 
-    output = io.BytesIO()
-    pdf.output(output)
-    return output.getvalue()
+    pdf_bytes = pdf.output(dest="S").encode("latin1")
+    return pdf_bytes
+
 
 
 # -------------------- TRAINING --------------------
@@ -169,9 +172,8 @@ def generate_training_report(df: pd.DataFrame) -> bytes:
     for i, (course, count) in enumerate(popular_courses.items(), 1):
         pdf.cell(0, 10, f"{i}. {course}: {count} completions", ln=True)
 
-    output = io.BytesIO()
-    pdf.output(output)
-    return output.getvalue()
+    pdf_bytes = pdf.output(dest="S").encode("latin1")
+    return pdf_bytes
 
 
 # -------------------- PREDICTIVE  ANALYSIS --------------------
@@ -202,9 +204,9 @@ def generate_predictive_report(df: pd.DataFrame) -> bytes:
             ln=True
         )
 
-    output = io.BytesIO()
-    pdf.output(output)
-    return output.getvalue()
+    pdf_bytes = pdf.output(dest="S").encode("latin1")
+    return pdf_bytes
+
 
 
 # -------------------- USER MANAGEMENT --------------------
@@ -222,6 +224,7 @@ def generate_user_management_report(df: pd.DataFrame) -> bytes:
         pdf.set_font("Arial", size=10)
         pdf.cell(0, 10, "User data incomplete. Cannot generate directory.", ln=True)
 
-    output = io.BytesIO()
-    pdf.output(output)
-    return output.getvalue()
+    pdf_bytes = pdf.output(dest="S").encode("latin1")
+    return pdf_bytes
+
+
