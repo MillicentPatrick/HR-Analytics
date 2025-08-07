@@ -42,22 +42,24 @@ def generate_attrition_pdf(df: pd.DataFrame) -> bytes:
     pdf.cell(0, 10, f"Employees Who Left: {total_left}", ln=True)
     pdf.cell(0, 10, f"Attrition Rate: {attrition_rate:.2f}%", ln=True)
 
-    if "voluntary" in df.columns:
+    if "voluntary" in df.columns and not df[df["is_active"] == False].empty:
         voluntary_counts = df[df["is_active"] == False]["voluntary"].value_counts()
         voluntary = voluntary_counts.get(True, 0)
         involuntary = voluntary_counts.get(False, 0)
         pdf.cell(0, 10, f"Voluntary Attrition: {voluntary}", ln=True)
         pdf.cell(0, 10, f"Involuntary Attrition: {involuntary}", ln=True)
+    else:
+        pdf.cell(0, 10, "No attrition type breakdown available.", ln=True)
 
     output = io.BytesIO()
     pdf.output(output)
     return output.getvalue()
 
+
 def generate_attrition_csv(df: pd.DataFrame) -> bytes:
     attrition_df = df[df["is_active"] == False]
     csv_data = attrition_df.to_csv(index=False).encode("utf-8")
     return csv_data
-
 
 
 # -------------------- DIVERSITY --------------------
@@ -67,17 +69,22 @@ def generate_diversity_report(df: pd.DataFrame) -> bytes:
     pdf.add_section_title("Diversity Report")
 
     pdf.set_font("Arial", size=10)
-    gender_dist = df["gender"].value_counts(normalize=True) * 100
-    ethnicity_dist = df["ethnicity"].value_counts(normalize=True) * 100
-
-    pdf.cell(0, 10, "Gender Distribution:", ln=True)
-    for gender, pct in gender_dist.items():
-        pdf.cell(0, 10, f"{gender}: {pct:.1f}%", ln=True)
+    if "gender" in df.columns:
+        gender_dist = df["gender"].value_counts(normalize=True) * 100
+        pdf.cell(0, 10, "Gender Distribution:", ln=True)
+        for gender, pct in gender_dist.items():
+            pdf.cell(0, 10, f"{gender}: {pct:.1f}%", ln=True)
+    else:
+        pdf.cell(0, 10, "Gender data not available.", ln=True)
 
     pdf.ln(5)
-    pdf.cell(0, 10, "Ethnicity Distribution:", ln=True)
-    for eth, pct in ethnicity_dist.items():
-        pdf.cell(0, 10, f"{eth}: {pct:.1f}%", ln=True)
+    if "ethnicity" in df.columns:
+        ethnicity_dist = df["ethnicity"].value_counts(normalize=True) * 100
+        pdf.cell(0, 10, "Ethnicity Distribution:", ln=True)
+        for eth, pct in ethnicity_dist.items():
+            pdf.cell(0, 10, f"{eth}: {pct:.1f}%", ln=True)
+    else:
+        pdf.cell(0, 10, "Ethnicity data not available.", ln=True)
 
     output = io.BytesIO()
     pdf.output(output)
@@ -166,20 +173,20 @@ def generate_training_report(df: pd.DataFrame) -> bytes:
     pdf.output(output)
     return output.getvalue()
 
+
 # -------------------- PREDICTIVE  ANALYSIS --------------------
 def generate_predictive_report(df: pd.DataFrame) -> bytes:
     pdf = PDF()
     pdf.add_page()
     pdf.add_section_title("Predictive Attrition Report")
 
-    # Summary stats
     avg_prob = df["attrition_probability"].mean()
     high_risk_count = (df["attrition_probability"] > 0.7).sum()
+
     pdf.set_font("Arial", size=10)
     pdf.cell(0, 10, f"Average Attrition Probability: {avg_prob:.2f}", ln=True)
     pdf.cell(0, 10, f"Employees at High Risk (> 0.7): {high_risk_count}", ln=True)
 
-    # Top 10 by risk
     top = df.sort_values("attrition_probability", ascending=False).head(10)
     pdf.ln(6)
     pdf.set_font("Arial", "B", 10)
@@ -187,14 +194,17 @@ def generate_predictive_report(df: pd.DataFrame) -> bytes:
     pdf.set_font("Arial", size=10)
 
     for _, row in top.iterrows():
-        pdf.cell(0, 10, f"{row['first_name']} {row['last_name']} | Dept: {row['department']} | Risk: {row['attrition_probability']:.2f}", ln=True)
+        pdf.cell(
+            0, 10,
+            f"{row.get('first_name', '')} {row.get('last_name', '')} | "
+            f"Dept: {row.get('department', '')} | "
+            f"Risk: {row['attrition_probability']:.2f}",
+            ln=True
+        )
 
     output = io.BytesIO()
     pdf.output(output)
     return output.getvalue()
-
-
-
 
 
 # -------------------- USER MANAGEMENT --------------------
@@ -205,9 +215,12 @@ def generate_user_management_report(df: pd.DataFrame) -> bytes:
 
     fields = ['employee_id', 'first_name', 'last_name', 'email', 'department', 'job_title', 'is_active']
     if all(col in df.columns for col in fields):
-        user_df = df[fields]
+        user_df = df[fields].copy()
         user_df.columns = ['ID', 'First Name', 'Last Name', 'Email', 'Dept', 'Title', 'Active']
         pdf.add_table(user_df)
+    else:
+        pdf.set_font("Arial", size=10)
+        pdf.cell(0, 10, "User data incomplete. Cannot generate directory.", ln=True)
 
     output = io.BytesIO()
     pdf.output(output)
